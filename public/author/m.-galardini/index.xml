@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Galardini | Romualdi Lab</title>
+    <link>/author/m.-galardini/</link>
+      <atom:link href="/author/m.-galardini/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Galardini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Galardini</title>
+      <link>/author/m.-galardini/</link>
+    </image>
+    
+    <item>
+      <title>COLOMBOS v3.0: Leveraging gene expression compendia for cross-species analyses</title>
+      <link>/publication/moretto-2016-d-620/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/moretto-2016-d-620/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BioC | Romualdi Lab</title>
+    <link>/category/bioc/</link>
+      <atom:link href="/category/bioc/index.xml" rel="self" type="application/rss+xml" />
+    <description>BioC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 06 Apr 2021 17:40:48 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>BioC</title>
+      <link>/category/bioc/</link>
+    </image>
+    
+    <item>
+      <title>graphite</title>
+      <link>/software/graphite/</link>
+      <pubDate>Tue, 06 Apr 2021 17:40:48 +0200</pubDate>
+      <guid>/software/graphite/</guid>
+      <description>
+&lt;script src=&#34;/software/graphite/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;description&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Description&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Graphite&lt;/strong&gt; (GRAPH Interaction from pathway Topological Environment) is a computational framework to store, parse and convert pathway topologies to molecular networks.&lt;/p&gt;
+&lt;p&gt;Graphite framework is divided in two main steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The conversion procedure that create the networks,&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://bioconductor.org/packages/release/bioc/html/graphite.html&#34;&gt;BioC package&lt;/a&gt; that allows the use and the analyses of the network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Conversion Procedure is written in Aschel and is a custom in-house software.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;References:&lt;/h1&gt;
+&lt;p&gt;Sales G, Calura E, Romualdi C. metaGraphite-a new layer of pathway annotation
+to get metabolite networks. Bioinformatics. 2019 Apr 1;35(7):1258-1260. doi:
+10.1093/bioinformatics/bty719. PMID: 30184047.&lt;/p&gt;
+&lt;p&gt;graphite – GRAPH representation In Topological Environment
+Sales G, Calura E, Cavalieri D, Romualdi C. (2012) graphite – a Bioconductor package to convert pathway topology to gene network. BMC Bioinformatics. Jan 31;13:20.[&lt;a href=&#34;PMID:22292714&#34; class=&#34;uri&#34;&gt;PMID:22292714&lt;/a&gt;]&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

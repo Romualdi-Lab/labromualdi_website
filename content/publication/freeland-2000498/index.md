@@ -1,0 +1,40 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Gene flow and genetic diversity: A comparison of freshwater bryozoan populations
+  in Europe and North America'
+subtitle: ''
+summary: ''
+authors:
+- J.R. Freeland
+- C. Romualdi
+- B. Okamura
+tags: []
+categories: []
+date: '2000-01-01'
+lastmod: 2021-04-06T15:49:52+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-04-06T13:49:51.840479Z'
+publication_types:
+- '2'
+abstract: ''
+publication: '*Heredity*'
+url_pdf: https://www.scopus.com/inward/record.uri?eid=2-s2.0-0034489046&doi=10.1046%2fj.1365-2540.2000.00780.x&partnerID=40&md5=8416ee8fe502f413f1603cd694b8aa4f
+doi: 10.1046/j.1365-2540.2000.00780.x
+---

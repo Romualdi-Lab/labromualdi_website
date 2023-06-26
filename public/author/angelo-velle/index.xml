@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angelo Velle | Romualdi Lab</title>
+    <link>/author/angelo-velle/</link>
+      <atom:link href="/author/angelo-velle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Angelo Velle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright>
+    <image>
+      <url>/author/angelo-velle/avatar_hucfca7629fd2e7f6a940ece1614da41bb_414792_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Angelo Velle</title>
+      <link>/author/angelo-velle/</link>
+    </image>
+    
+  </channel>
+</rss>

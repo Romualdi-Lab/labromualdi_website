@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Corti | Romualdi Lab</title>
+    <link>/author/l.-corti/</link>
+      <atom:link href="/author/l.-corti/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Corti</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Corti</title>
+      <link>/author/l.-corti/</link>
+    </image>
+    
+    <item>
+      <title>Individual Radiosensitivity in Oncological Patients: Linking Adverse Normal Tissue Reactions and Genetic Features</title>
+      <link>/publication/palumbo-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/palumbo-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

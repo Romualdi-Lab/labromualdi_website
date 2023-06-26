@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. D&#39;Alessi | Romualdi Lab</title>
+    <link>/author/f.-dalessi/</link>
+      <atom:link href="/author/f.-dalessi/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. D&#39;Alessi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>F. D&#39;Alessi</title>
+      <link>/author/f.-dalessi/</link>
+    </image>
+    
+    <item>
+      <title>IDEG6: A web tool for detection of differentially expressed genes in multiple tag sampling experiments</title>
+      <link>/publication/romualdi-2003159/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2003159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential expression of genes coding of ribosomal proteins in different human tissues</title>
+      <link>/publication/bortoluzzi-20021152/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/bortoluzzi-20021152/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The human adult skeletal muscle transcriptional profile reconstructed by a novel computational approach</title>
+      <link>/publication/bortoluzzi-2000344/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/bortoluzzi-2000344/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

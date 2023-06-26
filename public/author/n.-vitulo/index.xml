@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Vitulo | Romualdi Lab</title>
+    <link>/author/n.-vitulo/</link>
+      <atom:link href="/author/n.-vitulo/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Vitulo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>N. Vitulo</title>
+      <link>/author/n.-vitulo/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of statistical methods from single cell, bulk RNA-seq, and metagenomics applied to microbiome data</title>
+      <link>/publication/calgaro-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/calgaro-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiota changes induced by microencapsulated sodium butyrate in patients with inflammatory bowel disease</title>
+      <link>/publication/facchin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/facchin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of a gene expression oligo microarray for the gilthead sea bream (Sparus aurata)</title>
+      <link>/publication/ferraresso-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ferraresso-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global gene evolution analysis on Vibrionaceae family using phylogenetic profile</title>
+      <link>/publication/vitulo-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/vitulo-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A leukemia-enriched cDNA microarray platform identifies new transcripts with relevance to the biology of pediatric acute lymphoblastic leukemia</title>
+      <link>/publication/de-pitta-2005890/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/de-pitta-2005890/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life at depth: Photobacterium profundum genome sequence and expression analysis</title>
+      <link>/publication/vezzi-20051459/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/vezzi-20051459/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDAW: A web tool for statistical analysis of microarray data</title>
+      <link>/publication/romualdi-2005-w-644/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2005-w-644/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAP: A new computer program for de novo identification of repeated sequences in whole genomes</title>
+      <link>/publication/campagna-2005582/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/campagna-2005582/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

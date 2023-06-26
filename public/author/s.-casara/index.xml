@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Casara | Romualdi Lab</title>
+    <link>/author/s.-casara/</link>
+      <atom:link href="/author/s.-casara/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Casara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Casara</title>
+      <link>/author/s.-casara/</link>
+    </image>
+    
+    <item>
+      <title>Integration analysis of MicroRNA and mRNA expression profiles in human peripheral blood lymphocytes cultured in modeled microgravity</title>
+      <link>/publication/girardi-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/girardi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miR148b is a major coordinator of breast cancer progression in a relapse-associated microRNA signature by targeting ITGA5, ROCK1, PIK3CA, NRAS, and CSF1</title>
+      <link>/publication/cimino-20131223/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/cimino-20131223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High IGFBP2 expression correlates with tumor severity in pediatric rhabdomyosarcoma</title>
+      <link>/publication/tombolan-20112611/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-20112611/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

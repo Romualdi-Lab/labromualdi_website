@@ -1,0 +1,33 @@
+---
+title: MOSCLIP
+author: Chiara Romualdi
+date: '2021-04-06'
+slug: mosclip
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-06T18:03:41+02:00'
+featured: yes
+featuredImage: "mosclip.jpg"
+image: 
+  caption: ''
+  focal_point: ''
+  preview_only: yes
+projects: []
+
+---
+
+
+
+# Multi Omics Survival Clip
+
+**MOSClip** is a new method that combines survival analysis and graphical model theory to test the survival association of pathways or of their connected components in a multi-omic framework. Multi-omic gene measurements are tested as covariates of a Cox proportional hazard model after dimensionality reduction of data. The final goal is to find the biological processes impacting the patient's survival.
+
+# References
+
+Martini P, Chiogna M, Calura E, Romualdi C. MOSClip: multi-omic and survival
+pathway analysis for the identification of survival associated gene and modules.
+Nucleic Acids Res. 2019 Aug 22;47(14):e80. doi: 10.1093/nar/gkz324. PMID:
+31049575;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Finotello | Romualdi Lab</title>
+    <link>/author/f.-finotello/</link>
+      <atom:link href="/author/f.-finotello/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Finotello</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Finotello</title>
+      <link>/author/f.-finotello/</link>
+    </image>
+    
+    <item>
+      <title>Editorial: Multi-omic Data Integration in Oncology</title>
+      <link>/publication/finotello-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finotello-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

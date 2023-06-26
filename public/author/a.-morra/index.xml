@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Morra | Romualdi Lab</title>
+    <link>/author/a.-morra/</link>
+      <atom:link href="/author/a.-morra/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Morra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Morra</title>
+      <link>/author/a.-morra/</link>
+    </image>
+    
+    <item>
+      <title>The cortical damage, early relapses, and onset of the progressive phase in multiple sclerosis</title>
+      <link>/publication/scalfari-2018-e-2099/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/scalfari-2018-e-2099/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional distribution and evolution of gray matter damage in different populations of multiple sclerosis patients</title>
+      <link>/publication/calabrese-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low degree of cortical pathology is associated with benign course of multiple sclerosis</title>
+      <link>/publication/calabrese-2013904/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2013904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing clinical course of multiple sclerosis: A matter of gray matter</title>
+      <link>/publication/calabrese-201376/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-201376/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical atrophy is relevant in multiple sclerosis at clinical onset</title>
+      <link>/publication/calabrese-20071212/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20071212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of cortical inflammatory lesions by double inversion recovery magnetic resonance imaging in patients with multiple sclerosis</title>
+      <link>/publication/calabrese-20071416/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20071416/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

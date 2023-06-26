@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Chiogna | Romualdi Lab</title>
+    <link>/author/m.-chiogna/</link>
+      <atom:link href="/author/m.-chiogna/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Chiogna</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Chiogna</title>
+      <link>/author/m.-chiogna/</link>
+    </image>
+    
+    <item>
+      <title>Searching for the Source of Difference: A Graphical Model Approach</title>
+      <link>/publication/djordjilovic-2020131/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2020131/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating gene silencing through intervention analysis</title>
+      <link>/publication/djordjilovic-2020887/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2020887/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOSClip: multi-omic and survival pathway analysis for the identification of survival associated gene and modules</title>
+      <link>/publication/martini-2019-e-80/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2019-e-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways</title>
+      <link>/publication/salviato-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/salviato-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimPATHy: A new method for simulating data from perturbed biological PATHways</title>
+      <link>/publication/salviato-2017456/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/salviato-2017456/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical modeling for gene set analysis: A critical appraisal</title>
+      <link>/publication/djordjilovic-2015852/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2015852/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Along signal paths: An empirical gene set approach exploiting pathway topology</title>
+      <link>/publication/martini-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene set analysis exploiting the topology of a pathway</title>
+      <link>/publication/massa-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/massa-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison on effects of normalisations in the detection of differentially expressed genes</title>
+      <link>/publication/chiogna-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/chiogna-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A modified LOESS normalization applied to microRNA arrays: A comparative evaluation</title>
+      <link>/publication/risso-20092685/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/risso-20092685/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

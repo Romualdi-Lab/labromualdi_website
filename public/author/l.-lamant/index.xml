@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Lamant | Romualdi Lab</title>
+    <link>/author/l.-lamant/</link>
+      <atom:link href="/author/l.-lamant/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Lamant</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Lamant</title>
+      <link>/author/l.-lamant/</link>
+    </image>
+    
+    <item>
+      <title>Consequences of heat shock protein 72 (Hsp72) expression and activity on stress-induced apoptosis in CD30 NPM-ALK anaplastic large-cell lymphomas</title>
+      <link>/publication/bonvini-20121375/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/bonvini-20121375/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

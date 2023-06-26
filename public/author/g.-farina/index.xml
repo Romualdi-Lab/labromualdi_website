@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Farina | Romualdi Lab</title>
+    <link>/author/g.-farina/</link>
+      <atom:link href="/author/g.-farina/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Farina</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Farina</title>
+      <link>/author/g.-farina/</link>
+    </image>
+    
+    <item>
+      <title>Regional distribution and evolution of gray matter damage in different populations of multiple sclerosis patients</title>
+      <link>/publication/calabrese-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

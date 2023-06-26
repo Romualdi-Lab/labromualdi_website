@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Poretto | Romualdi Lab</title>
+    <link>/author/v.-poretto/</link>
+      <atom:link href="/author/v.-poretto/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Poretto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>V. Poretto</title>
+      <link>/author/v.-poretto/</link>
+    </image>
+    
+    <item>
+      <title>Low degree of cortical pathology is associated with benign course of multiple sclerosis</title>
+      <link>/publication/calabrese-2013904/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2013904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing clinical course of multiple sclerosis: A matter of gray matter</title>
+      <link>/publication/calabrese-201376/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-201376/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical lesion load associates with progression of disability in multiple sclerosis</title>
+      <link>/publication/calabrese-20122952/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20122952/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

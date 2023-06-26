@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Romualdi Lab</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A thorough annotation of the krill transcriptome offers new insights for the study of physiological processes</title>
+      <link>/publication/2022-01-01_a_thorough_annotatio/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_a_thorough_annotatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BrewerIX enables allelic expression analysis of imprinted and X-linked genes from bulk and single-cell transcriptomes</title>
+      <link>/publication/2022-01-01_brewerix_enables_all/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_brewerix_enables_all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copy number alterations in stage I epithelial ovarian cancer highlight three genomic patterns associated with prognosis</title>
+      <link>/publication/2022-01-01_copy_number_alterati/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_copy_number_alterati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NewWave: A scalable R/Bioconductor package for the dimensionality reduction and batch effect removal of single-cell RNA-seq data</title>
+      <link>/publication/2022-01-01_newwave_a_scalable_r/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_newwave_a_scalable_r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide study of salivary miRNAs identifies miR-423-5p as promising diagnostic and prognostic biomarker in oral squamous cell carcinoma</title>
+      <link>/publication/romani-20212987/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/romani-20212987/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A TGF-β associated genetic score to define prognosis and platinum sensitivity in advanced epithelial ovarian cancer</title>
+      <link>/publication/gagno-2020233/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gagno-2020233/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of statistical methods from single cell, bulk RNA-seq, and metagenomics applied to microbiome data</title>
+      <link>/publication/calgaro-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/calgaro-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Multi-omic Data Integration in Oncology</title>
+      <link>/publication/finotello-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finotello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
+      <link>/publication/benvenuto-2020565/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/benvenuto-2020565/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiota changes induced by microencapsulated sodium butyrate in patients with inflammatory bowel disease</title>
+      <link>/publication/facchin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/facchin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbiota of the therapeutic Euganean thermal muds with a focus on the main cyanobacteria species</title>
+      <link>/publication/gris-20201/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gris-20201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pharmacogenetic score predicts overall survival, progression-free survival and platinum sensitivity in ovarian cancer</title>
+      <link>/publication/gagno-2020995/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gagno-2020995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for the Source of Difference: A Graphical Model Approach</title>
+      <link>/publication/djordjilovic-2020131/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2020131/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating gene silencing through intervention analysis</title>
+      <link>/publication/djordjilovic-2020887/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2020887/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeting p53 and histone methyltransferases restores exhausted CD8&#43; T cells in HCV infection</title>
+      <link>/publication/barili-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/barili-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CSF Profile Linked to Cortical Damage Predicts Multiple Sclerosis Activity</title>
+      <link>/publication/magliozzi-2020562/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/magliozzi-2020562/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct generation of human naive induced pluripotent stem cells from somatic cells in microfluidics</title>
+      <link>/publication/giulitti-2019275/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/giulitti-2019275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FXYD5 (Dysadherin) upregulation predicts shorter survival and reveals platinum resistance in high-grade serous ovarian cancer patients</title>
+      <link>/publication/tassi-2019584/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tassi-2019584/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased NK Cell Count in Multiple Sclerosis Patients Treated With Dimethyl Fumarate: A 2-Year Longitudinal Study</title>
+      <link>/publication/marastoni-20191666/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marastoni-20191666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual Radiosensitivity in Oncological Patients: Linking Adverse Normal Tissue Reactions and Genetic Features</title>
+      <link>/publication/palumbo-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/palumbo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Graphite-a new layer of pathway annotation to get metabolite networks</title>
+      <link>/publication/sales-20191258/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-20191258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOSClip: multi-omic and survival pathway analysis for the identification of survival associated gene and modules</title>
+      <link>/publication/martini-2019-e-80/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2019-e-80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
+      <link>/publication/ballabio-20192670/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ballabio-20192670/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rs4143815-PDL1, a new potential immunogenetic biomarker of biochemical recurrence in locally advanced prostate cancer after radiotherapy</title>
+      <link>/publication/zanusso-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zanusso-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex identification from distinctive gene expression patterns in Antarctic krill (Euphausia superba)</title>
+      <link>/publication/suter-20192205/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/suter-20192205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single cell analysis reveals the involvement of the long non-coding RNA Pvt1 in the modulation of muscle atrophy and mitochondrial network</title>
+      <link>/publication/alessio-20191653/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alessio-20191653/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways</title>
+      <link>/publication/salviato-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/salviato-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional Characterization of Stage I Epithelial Ovarian Cancer: A Multicentric Study</title>
+      <link>/publication/calura-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptome profiles of human visceral adipocytes in obesity and colorectal cancer unravel the effects of body mass index and polyunsaturated fatty acids on genes and biological process related to tumorigenesis</title>
+      <link>/publication/corno-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/corno-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptomic Analysis of Single Isolated Myofibers Identifies miR-27a-3p and miR-142-3p as Regulators of Metabolism in Skeletal Muscle</title>
+      <link>/publication/chemello-20193784/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/chemello-20193784/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systems biology approach to investigate the mechanism of action of trabectedin in a model of myelomonocytic leukemia</title>
+      <link>/publication/mannarino-201856/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mannarino-201856/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in Accident &amp;amp; Emergency Visits and Return Visits in Relation to the Enforcement of Daylight Saving Time and Photoperiod</title>
+      <link>/publication/ferrazzi-2018555/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrazzi-2018555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inflammatory intrathecal profiles and cortical damage in multiple sclerosis</title>
+      <link>/publication/magliozzi-2018739/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/magliozzi-2018739/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradoxical GH Increase during OGTT Is Associated with First-Generation Somatostatin Analog Responsiveness in Acromegaly</title>
+      <link>/publication/scaroni-2018856/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/scaroni-2018856/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cortical damage, early relapses, and onset of the progressive phase in multiple sclerosis</title>
+      <link>/publication/scalfari-2018-e-2099/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/scalfari-2018-e-2099/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of fingolimod on focal and diffuse grey matter damage in active MS patients</title>
+      <link>/publication/bajrami-20182154/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bajrami-20182154/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of potential factors affecting allografts contamination at retrieval</title>
+      <link>/publication/paolin-2017539/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/paolin-2017539/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating cell-free DNA in dogs with mammary tumors: Short and long fragments and integrity index</title>
+      <link>/publication/beffagna-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/beffagna-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
+      <link>/publication/todeschini-2017320/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/todeschini-2017320/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive impairment predicts disability progression and cortical thinning in MS: An 8-year study</title>
+      <link>/publication/pitteri-2017848/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pitteri-2017848/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KrillDB: A de novo transcriptome database for the Antarctic krill (Euphausia superba)</title>
+      <link>/publication/sales-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LINE-1 hypomethylation is associated to specific clinico-pathological features in Stage I non-small cell lung cancer</title>
+      <link>/publication/imperatori-201783/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/imperatori-201783/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
+      <link>/publication/martini-20172356/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-20172356/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NELL1, whose high expression correlates with negative outcomes, has different methylation patterns in alveolar and embryonal rhabdomyosarcoma</title>
+      <link>/publication/tombolan-201733086/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-201733086/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimPATHy: A new method for simulating data from perturbed biological PATHways</title>
+      <link>/publication/salviato-2017456/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/salviato-2017456/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A data-driven network model of primary myelofibrosis: Transcriptional and post-transcriptional alterations in CD34&#43; cells</title>
+      <link>/publication/calura-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
+      <link>/publication/calura-20161511/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-20161511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antimicrobial use and microbiological testing in district general hospital ICUs of the Veneto region of north-east Italy</title>
+      <link>/publication/benedetti-20161627/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/benedetti-20161627/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing genomic alterations in cancer by complementary functional associations</title>
+      <link>/publication/kim-2016539/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2016539/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLOMBOS v3.0: Leveraging gene expression compendia for cross-species analyses</title>
+      <link>/publication/moretto-2016-d-620/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/moretto-2016-d-620/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling the microRNA regulatory milieu in multiple myeloma: Integrative genomics analysis outlines mixed miRNATF circuits and pathway-derived networks modulated in t(4;14) patients</title>
+      <link>/publication/calura-20162367/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-20162367/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global DNA methylation profiling uncovers distinct methylation patterns of protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma</title>
+      <link>/publication/tombolan-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of high-grade serous ovarian cancer miRNA species associated with survival and drug response in patients receiving neoadjuvant chemotherapy: A retrospective longitudinal analysis using matched tumor biopsies</title>
+      <link>/publication/petrillo-2016625/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/petrillo-2016625/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity Measures Based on the Overlap of Ranked Genes Are Effective for Comparison and Classification of Microarray Data</title>
+      <link>/publication/serra-2016603/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/serra-2016603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usefulness of the Total Thrombus-Formation Analysis System (T-TAS) in the diagnosis and characterization of von Willebrand disease</title>
+      <link>/publication/daidone-2016949/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/daidone-2016949/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A founder MYBPC3 mutation results in HCM with a high risk of sudden death after the fourth decade of life</title>
+      <link>/publication/calore-2015338/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/calore-2015338/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aberrant DNA methylation profiles of inherited and sporadic colorectal cancer</title>
+      <link>/publication/sahnane-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sahnane-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beneficial bacteria isolated from grapevine inner tissues shape arabidopsis Thaliana roots</title>
+      <link>/publication/baldan-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/baldan-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical modeling for gene set analysis: A critical appraisal</title>
+      <link>/publication/djordjilovic-2015852/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2015852/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsatellite unstable gastrointestinal neuroendocrine carcinomas: A new clinicopathologic entity</title>
+      <link>/publication/sahnane-201535/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sahnane-201535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing: A retrospective study</title>
+      <link>/publication/beltrame-20151363/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/beltrame-20151363/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyrosequencing and de novo assembly of Antarctic krill (Euphausia superba) transcriptome to study the adaptability of krill to climate-induced environmental changes</title>
+      <link>/publication/meyer-20151460/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/meyer-20151460/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional distribution and evolution of gray matter damage in different populations of multiple sclerosis patients</title>
+      <link>/publication/calabrese-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The self-morningness/eveningness (Self-ME): An extremely concise and totally subjective assessment of diurnal preference</title>
+      <link>/publication/turco-20151192/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/turco-20151192/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An aberrant microRNA signature in childhood T-cell lymphoblastic lymphoma affecting CDKN1B expression, NOTCH1 and growth factor signaling pathways</title>
+      <link>/publication/mussolin-20141909/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mussolin-20141909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of differential miRNA expression in primary tumor and stroma of colorectal cancer patients</title>
+      <link>/publication/della-vittoria-scarpati-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/della-vittoria-scarpati-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration analysis of MicroRNA and mRNA expression profiles in human peripheral blood lymphocytes cultured in modeled microgravity</title>
+      <link>/publication/girardi-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/girardi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liver transcriptome analysis in gilthead sea bream upon exposure to low temperature</title>
+      <link>/publication/mininni-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mininni-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA-181a has a critical role in ovarian cancer progression through the regulation of the epithelial-mesenchymal transition</title>
+      <link>/publication/parikh-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/parikh-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic relevance of aberrant DNA methylation in G1 and G2 pancreatic neuroendocrine tumors</title>
+      <link>/publication/stefanoli-201426/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/stefanoli-201426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tissue-specific expression and regulatory networks of pig microRNAome</title>
+      <link>/publication/martini-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiring miRNAs to pathways: A topological approach to integrate miRNA and mRNA expression profiles</title>
+      <link>/publication/calura-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Along signal paths: An empirical gene set approach exploiting pathway topology</title>
+      <link>/publication/martini-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticoagulant therapy for venous thromboembolism during pregnancy: A systematic review and a meta-analysis of the literature: A reply to a rebuttal</title>
+      <link>/publication/romualdi-2013788/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2013788/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphite Web: Web tool for gene set analysis exploiting pathway topology.</title>
+      <link>/publication/sales-2013-w-89/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-2013-w-89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Headrace tunnel of the El Alto hydropower project in Panama [Druckstollen des wasserkraftprojekts El Alto in Panama]</title>
+      <link>/publication/barwart-2013301/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/barwart-2013301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low degree of cortical pathology is associated with benign course of multiple sclerosis</title>
+      <link>/publication/calabrese-2013904/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2013904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miR148b is a major coordinator of breast cancer progression in a relapse-associated microRNA signature by targeting ITGA5, ROCK1, PIK3CA, NRAS, and CSF1</title>
+      <link>/publication/cimino-20131223/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/cimino-20131223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
+      <link>/publication/calura-20134114/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-20134114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance to platinum-based chemotherapy is associated with epithelial to mesenchymal transition in epithelial ovarian cancer</title>
+      <link>/publication/marchini-2013520/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/marchini-2013520/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revertant Fibers in the mdx Murine Model of Duchenne Muscular Dystrophy: An Age- and Muscle-Related Reappraisal</title>
+      <link>/publication/pigozzo-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/pigozzo-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of mitochondrial DNA precursors during myogenesis, an analysis in purified C2C12 myotubes</title>
+      <link>/publication/frangini-20135624/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/frangini-20135624/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems biology approach to the dissection of the complexity of regulatory networks in the S. scrofa cardiocirculatory system</title>
+      <link>/publication/martini-201323160/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-201323160/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing clinical course of multiple sclerosis: A matter of gray matter</title>
+      <link>/publication/calabrese-201376/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-201376/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systems biology approach to characterize the regulatory networks leading to trabectedin resistance in an in vitro model of myxoid liposarcoma</title>
+      <link>/publication/uboldi-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/uboldi-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequences of heat shock protein 72 (Hsp72) expression and activity on stress-induced apoptosis in CD30 NPM-ALK anaplastic large-cell lymphomas</title>
+      <link>/publication/bonvini-20121375/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/bonvini-20121375/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical lesion load associates with progression of disability in multiple sclerosis</title>
+      <link>/publication/calabrese-20122952/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20122952/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical pathology in multiple sclerosis patients with epilepsy: A 3 year longitudinal study</title>
+      <link>/publication/calabrese-201249/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-201249/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotype-specific mutations in the polymerase gene of hepatitis B virus potentially associated with resistance to oral antiviral therapy</title>
+      <link>/publication/mirandola-2012422/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/mirandola-2012422/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphite - a Bioconductor package to convert pathway topology to gene network</title>
+      <link>/publication/sales-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gray matter pathology in MS: A 3-year longitudinal study in a pediatric population</title>
+      <link>/publication/calabrese-20121507/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20121507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAGIA2: From miRNA and genes expression data integrative analysis to microRNA-transcription factor mixed regulatory circuits (2012 update)</title>
+      <link>/publication/bisognin-2012-w-13/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/bisognin-2012-w-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between miR-200c and the survival of patients with stage I epithelial ovarian cancer: A retrospective study of two independent tumour tissue collections</title>
+      <link>/publication/marchini-2011273/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/marchini-2011273/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global analysis of gene expression in mineralizing fish vertebra-derived cell lines: New insights into anti-mineralogenic effect of vanadate</title>
+      <link>/publication/tiago-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tiago-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High IGFBP2 expression correlates with tumor severity in pediatric rhabdomyosarcoma</title>
+      <link>/publication/tombolan-20112611/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-20112611/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of host genes and strand selection on miRNA and miRNA* expression</title>
+      <link>/publication/biasiolo-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/biasiolo-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parmigene-a parallel R package for mutual information estimation and gene network reconstruction</title>
+      <link>/publication/sales-20111876/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-20111876/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Test of Expression Pattern (STEPath): A new strategy to integrate gene expression data with genomic information in individual and meta-analysis studies</title>
+      <link>/publication/martini-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The biological Connection Markup Language: A SBGN-compliant format for visualization, filtering and analysis of biological pathways</title>
+      <link>/publication/beltrame-20112127/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/beltrame-20112127/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene set analysis exploiting the topology of a pathway</title>
+      <link>/publication/massa-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/massa-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of probe annotation on the integration of miRNA-mRNA expression profiles for miRNA target detection</title>
+      <link>/publication/sales-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magia, a web-based tool for miRNA and genes integrated analysis</title>
+      <link>/publication/sales-2010-w-352/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-2010-w-352/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic resonance evidence of cerebellar cortical pathology in multiple sclerosis</title>
+      <link>/publication/calabrese-2010401/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2010401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsatellite (GT)n is part of the von Willebrand factor (VWF) promoter region that influences the glucocorticoid-induced increase in VWF in Cushing&#39;s syndrome</title>
+      <link>/publication/daidone-2010-e-275/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/daidone-2010-e-275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pericentriolar material analyses in normal esophageal mucosa, Barrett&#39;s metaplasia and adenocarcinoma</title>
+      <link>/publication/segat-2010551/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/segat-2010551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widespread cortical thinning characterizes patients with MS with mild cognitive impairment</title>
+      <link>/publication/calabrese-2010321/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2010321/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison on effects of normalisations in the detection of differentially expressed genes</title>
+      <link>/publication/chiogna-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/chiogna-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A modified LOESS normalization applied to microRNA arrays: A comparative evaluation</title>
+      <link>/publication/risso-20092685/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/risso-20092685/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-MADMAN: Annotation-based microarray data meta-analysis tool</title>
+      <link>/publication/bisognin-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bisognin-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation between gene expression and clinical data through linear and nonlinear principal components analyses: Muscular dystrophies as case studies</title>
+      <link>/publication/romualdi-2009173/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2009173/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical lesions in primary progressive multiple sclerosis: A 2-year longitudinal MR study</title>
+      <link>/publication/calabrese-20091330/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20091330/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for relative cortical sparing in benign multiple sclerosis: A longitudinal magnetic resonance imaging study</title>
+      <link>/publication/calabrese-200936/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-200936/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiling of skeletal muscle in young bulls treated with steroidal growth promoters</title>
+      <link>/publication/carraro-2009138/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/carraro-2009138/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filling gaps in PPAR-alpha signaling through comparative nutrigenomics analysis</title>
+      <link>/publication/cavalieri-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cavalieri-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection of multipotent cells and enhanced muscle reconstruction by myogenic macrophage-secreted factors</title>
+      <link>/publication/malerba-2009915/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/malerba-2009915/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of a gene expression oligo microarray for the gilthead sea bream (Sparus aurata)</title>
+      <link>/publication/ferraresso-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ferraresso-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis of expression signatures of muscle atrophy: Gene interaction networks in early and late stages</title>
+      <link>/publication/calura-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphology and evolution of cortical lesions in multiple sclerosis. A longitudinal MRI study</title>
+      <link>/publication/calabrese-20081324/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20081324/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymorphisms in von Willebrand factor gene promoter influence the glucocorticoid-induced increase in von Willebrand factor: The lesson learned from Cushing syndrome</title>
+      <link>/publication/casonato-2008230/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/casonato-2008230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ripening and genotype control stilbene accumulation in healthy grapes</title>
+      <link>/publication/gatto-200811773/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/gatto-200811773/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global gene evolution analysis on Vibrionaceae family using phylogenetic profile</title>
+      <link>/publication/vitulo-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/vitulo-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical atrophy is relevant in multiple sclerosis at clinical onset</title>
+      <link>/publication/calabrese-20071212/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20071212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of cortical inflammatory lesions by double inversion recovery magnetic resonance imaging in patients with multiple sclerosis</title>
+      <link>/publication/calabrese-20071416/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20071416/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smokers and passive smokers gene expression profiles: Correlation with the DNA oxidation damage</title>
+      <link>/publication/lodovici-2007415/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/lodovici-2007415/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the gene expression signature of rhabdomyosarcoma by meta-analysis</title>
+      <link>/publication/romualdi-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denervation in murine fast-twitch muscle: Short-term physiological changes and temporal expression profiling</title>
+      <link>/publication/raffaello-200660/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/raffaello-200660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of mussel mRNA profiling: Can gene expression trends reveal coastal water pollution?</title>
+      <link>/publication/venier-2006121/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/venier-2006121/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential gene expression profiling in genetic and multifactorial cardiovascular diseases</title>
+      <link>/publication/nanni-2006934/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/nanni-2006934/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression analysis of androgen-responsive genes in the prostate of veal calves treated with anabolic hormones</title>
+      <link>/publication/toffolatti-200638/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/toffolatti-200638/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiling characterization of laminin α-2 positive MDC</title>
+      <link>/publication/millino-2006345/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/millino-2006345/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling identifies potential relevant genes in alveolar rhabdomyosarcoma pathogenesis and discriminates PAX3-FKHR positive and negative tumors</title>
+      <link>/publication/de-pitta-20062772/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/de-pitta-20062772/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal analysis of immune cell phenotypes in early stage multiple sclerosis: Distinctive patterns characterize MRI-active patients</title>
+      <link>/publication/rinaldi-20061993/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/rinaldi-20061993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel protein and transcript profiles of FSHD patient muscles correlate to the D4Z4 arrangement and reveal a common impairment of slow to fast fibre differentiation and a general deregulation of MyoD-dependent genes</title>
+      <link>/publication/celegato-20065303/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/celegato-20065303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A leukemia-enriched cDNA microarray platform identifies new transcripts with relevance to the biology of pediatric acute lymphoblastic leukemia</title>
+      <link>/publication/de-pitta-2005890/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/de-pitta-2005890/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life at depth: Photobacterium profundum genome sequence and expression analysis</title>
+      <link>/publication/vezzi-20051459/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/vezzi-20051459/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDAW: A web tool for statistical analysis of microarray data</title>
+      <link>/publication/romualdi-2005-w-644/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2005-w-644/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel genes, possibly relevant for molecular diagnosis or therapy of human rhabdomyosarcoma, detected by genomic expression profiling</title>
+      <link>/publication/bortoluzzi-200565/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/bortoluzzi-200565/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAP: A new computer program for de novo identification of repeated sequences in whole genomes</title>
+      <link>/publication/campagna-2005582/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/campagna-2005582/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Territorial male gobies respond aggressively to sneakers but do not adjust their sperm expenditure</title>
+      <link>/publication/scaggiante-20051001/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/scaggiante-20051001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altered glucose metabolism and proteolysis in pancreatic cancer cell conditioned myoblasts: Searching for a gene expression pattern with a microarray analysis of 5000 skeletal muscle genes</title>
+      <link>/publication/basso-20041159/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/basso-20041159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disease genes and intracellular protein networks</title>
+      <link>/publication/bortoluzzi-2004223/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/bortoluzzi-2004223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDEG6: A web tool for detection of differentially expressed genes in multiple tag sampling experiments</title>
+      <link>/publication/romualdi-2003159/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2003159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved detection of differentially expressed genes in microarray experiments through multiple scanning and image integration.</title>
+      <link>/publication/romualdi-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern recognition in gene expression profiling using DNA array: A comparative study of different statistical methods applied to cancer classification</title>
+      <link>/publication/romualdi-2003823/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2003823/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRAIT (TRAnscript Integrated Table): A knowledgebase of human skeletal muscle transcripts</title>
+      <link>/publication/toppo-2003661/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/toppo-2003661/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential expression of genes coding of ribosomal proteins in different human tissues</title>
+      <link>/publication/bortoluzzi-20021152/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/bortoluzzi-20021152/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in dysferlinopathies using a dedicated muscle microarray</title>
+      <link>/publication/campanaro-20023283/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-20023283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in skeletal muscle using a dedicated microarray</title>
+      <link>/publication/campanaro-2002273/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2002273/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of human diversity, within and among continents, inferred from biallelic DNA polymorphisms</title>
+      <link>/publication/romualdi-2002602/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2002602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying amino acid alphabets by means of a branch and bound algorithm and substitution matrices</title>
+      <link>/publication/cannata-20021102/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/cannata-20021102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting differentially expressed genes in multiple tag sampling experiments: Comparative evaluation of statistical tests</title>
+      <link>/publication/romualdi-20012133/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-20012133/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene flow and genetic diversity: A comparison of freshwater bryozoan populations in Europe and North America</title>
+      <link>/publication/freeland-2000498/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/freeland-2000498/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The human adult skeletal muscle transcriptional profile reconstructed by a novel computational approach</title>
+      <link>/publication/bortoluzzi-2000344/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/bortoluzzi-2000344/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability of conception on different days of the menstrual cycle: An ongoing exercise</title>
+      <link>/publication/masarotto-1997105/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/masarotto-1997105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACUTE ABDOMEN IN CHILDHOOD. [ADDOME ACUTO NELL&#39;INFANZIA.]</title>
+      <link>/publication/romualdi-1964490/</link>
+      <pubDate>Wed, 01 Jan 1964 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-1964490/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEONATAL INTESTINAL OCCLUSIONS. [OCCLUSIONI INTESTINALI NEONATALI.]</title>
+      <link>/publication/bergami-1964508/</link>
+      <pubDate>Wed, 01 Jan 1964 00:00:00 +0000</pubDate>
+      <guid>/publication/bergami-1964508/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

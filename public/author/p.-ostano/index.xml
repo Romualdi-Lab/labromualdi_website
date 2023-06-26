@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Ostano | Romualdi Lab</title>
+    <link>/author/p.-ostano/</link>
+      <atom:link href="/author/p.-ostano/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Ostano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Ostano</title>
+      <link>/author/p.-ostano/</link>
+    </image>
+    
+    <item>
+      <title>A systems biology approach to characterize the regulatory networks leading to trabectedin resistance in an in vitro model of myxoid liposarcoma</title>
+      <link>/publication/uboldi-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/uboldi-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

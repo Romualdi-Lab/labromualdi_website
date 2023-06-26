@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>allelic expression | Romualdi Lab</title>
+    <link>/category/allelic-expression/</link>
+      <atom:link href="/category/allelic-expression/index.xml" rel="self" type="application/rss+xml" />
+    <description>allelic expression</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 09 Oct 2019 08:38:28 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>allelic expression</title>
+      <link>/category/allelic-expression/</link>
+    </image>
+    
+    <item>
+      <title>BrewerIX</title>
+      <link>/software2/brewerix/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/software2/brewerix/</guid>
+      <description>&lt;p&gt;BrewerIX is a standardized approach for the analysis of known imprinted and X-linked genes. Differently from other tools, its implementation strategy allows the user (i) to perform fast and efficient analyses from raw data to the final plots on a standard desktop or laptop computer without requiring any programming skills, (ii) to have comprehensive information of imprinted and X-linked genes taken from different databases that have been manually curated to avoid results misinterpretation, (iii) to graphically visualize the results in an easy and intuitive way. All these features will guarantee the reproducibility of results and transparency.&lt;/p&gt;
+&lt;p&gt;BrewerIX is implemented as a native graphical application for Linux and macOS. It takes as input either bulk or single-cell RNA-seq data (fastq files), analyzes reads mapped over the SNVs distributed on imprinted genes (see “Knowledge base” section for details), X chromosome and Y chromosome, and generates imprinting and XCI profiles of each sample.&lt;/p&gt;
+&lt;p&gt;Martini P, Sales G, Diamante L, Perrera V, Colantuono C, Riccardo S, Cacchiarelli D, Romualdi C, Martello G. BrewerIX enables allelic expression analysis of imprinted and X-linked genes from bulk and single-cell
+transcriptomes. Commun Biol. 2022 Feb 17;5(1):146. doi:10.1038/s42003-022-03087-4.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

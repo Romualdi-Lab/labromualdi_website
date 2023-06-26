@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.L. Cancela | Romualdi Lab</title>
+    <link>/author/m.l.-cancela/</link>
+      <atom:link href="/author/m.l.-cancela/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.L. Cancela</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>M.L. Cancela</title>
+      <link>/author/m.l.-cancela/</link>
+    </image>
+    
+    <item>
+      <title>Global analysis of gene expression in mineralizing fish vertebra-derived cell lines: New insights into anti-mineralogenic effect of vanadate</title>
+      <link>/publication/tiago-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tiago-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

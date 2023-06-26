@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Romualdi Lab</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 06 Dec 2019 16:17:20 -0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>kakashi</title>
+      <link>/project/kakashi/</link>
+      <pubDate>Fri, 06 Dec 2019 16:17:20 -0800</pubDate>
+      <guid>/project/kakashi/</guid>
+      <description>&lt;p&gt;kakashi is a theme for the &lt;a href=&#34;https://github.com/yihui/xaringan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xaringan R package&lt;/a&gt; for making slides. kakashi has a clean look with color-blind friendly palettes. Marking text as italics (*) will turn it blue, bold (**) will turn it orange, and striking out (~~) will turn it grey. kakashi copies ideas from many other themes, including metropolis and lucy, but is ultimately unique. That is why this CSS (copy shinobi style) is called kakashi, &lt;a href=&#34;https://www.wikiwand.com/en/Kakashi_Hatake&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;after the copy ninja&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Causal Inference notebook</title>
+      <link>/project/causalinferencenotebook/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/causalinferencenotebook/</guid>
+      <description>&lt;p&gt;This notebook contains R code for part 2 of &lt;a href=&#34;https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causal Inference&lt;/a&gt; by Miguel Hernán and Jamie Robins. While R, SAS, Stata, and Python code are available on the website for Causal Inference, we focus on doing causal inference using the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt; ecosystem of R packages, particularly ggplot2, dplyr, and broom.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>epibot</title>
+      <link>/project/epibot/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/epibot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn purrr web app</title>
+      <link>/project/purrr_app/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/purrr_app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Los Angeles R Users Group</title>
+      <link>/project/larug/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/larug/</guid>
+      <description>&lt;p&gt;The Los Angeles R Users Group meets twice a month, one chapter on the Westside and one chapter on the Eastside, grown out of the efforts of &lt;a href=&#34;http://datascience.la/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science LA&lt;/a&gt; and related groups. We are part of a larger community of R user groups in Southern California.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>precisely</title>
+      <link>/project/precisely/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/precisely/</guid>
+      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>precisely web app</title>
+      <link>/project/precisely_app/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/precisely_app/</guid>
+      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>causalpie</title>
+      <link>/project/causalpie/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/causalpie/</guid>
+      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dagtex</title>
+      <link>/project/dagtex/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/dagtex/</guid>
+      <description>&lt;p&gt;daxtex is a low-ish level package for making LaTeX DAGs in R. While dagtex will work as a standalone package, the longterm goal is to serve as a LaTeX backend for &lt;a href=&#34;https://ggdag.malco.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggdag&lt;/a&gt; objects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ggdag</title>
+      <link>/project/ggdag/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/ggdag/</guid>
+      <description>&lt;p&gt;ggdag links the dagitty package, which contains powerful algorithms for analyzing causal DAGs, with the unlimited flexibility of ggplot2. ggdag coverts dagitty objects to a tidy DAG data structure, which allows you to both analyze your DAG and plot it easily in ggplot2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>partition</title>
+      <link>/project/partition/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/partition/</guid>
+      <description>&lt;p&gt;partition is a fast and flexible framework for agglomerative partitioning. partition uses an approach called Direct-Measure-Reduce to create new variables that maintain the user-specified minimum level of information. Each reduced variable is also interpretable: the original variables map to one and only one variable in the reduced data set. partition is flexible, as well: how variables are selected to reduce, how information loss is measured, and the way data is reduced can all be customized.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidymeta</title>
+      <link>/project/tidymeta/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/tidymeta/</guid>
+      <description>&lt;p&gt;Tidy and plot meta-analyses from popular meta-analytic tools in R. Currently in early development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ymlthis</title>
+      <link>/project/ymlthis/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/ymlthis/</guid>
+      <description>&lt;p&gt;ymlthis is a package to help you write YAML metadata for R Markdown documents and related tools like blogdown, bookdown, and pkgdown. YAML serves two main roles: to pass information to be printed in the document, such as the title and author, and to control how the document is rendered, anything from the output type (HTML vs. PDF) and typesetting options to what should happen with files created while rendering.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ovarian Cancer Genomics</title>
+      <link>/project/ovarian-cancer-genomics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/ovarian-cancer-genomics/</guid>
+      <description>
+
+
+&lt;p&gt;Genomic and transcriptomic landscape of early stage epithelial ovarian cancer&lt;/p&gt;
+&lt;p&gt;Stage I epithelial ovarian cancer (EOC with tumor confined to the ovary) represents about 10% of all EOCs and is characterized by good prognosis. Patients are treated with upfront surgery removing the tumor without leaving residual disease, however approximately 20% of them relapse with incurable disease. Thus, the identification of the cell mechanisms involved in tumour progression and the definition of new biomarkers is an urgent need. Better prognostic parameters will allow a more targeted selection of patients for postsurgical adjuvant chemotherapy avoiding unnecessary overtreatment to those patients who presumably will not relapse after surgical removal of the tumour. However, as it occurs less frequently than advanced-stage EOC, stage I EOC molecular features have not been thoroughly investigated.&lt;/p&gt;
+&lt;p&gt;It is now widely recognised that the unravelling of the biology and pathophysiology of cancer can be better address integrating results from different disciplines into the well-known system medicine perspective. Here we propose to unravel the molecular complexity of stage I EOC through the combination of high-throughput screenings, bioinformatics and statistical analyses as well as well-focused molecular biology experiments with the aim to identify molecular prognostic fingerprints of the disease.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

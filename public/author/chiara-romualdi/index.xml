@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiara Romualdi | Romualdi Lab</title>
+    <link>/author/chiara-romualdi/</link>
+      <atom:link href="/author/chiara-romualdi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chiara Romualdi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright>
+    <image>
+      <url>/author/chiara-romualdi/avatar_hu7a2a856daac28059faec74e5d6ccbc8f_322578_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Chiara Romualdi</title>
+      <link>/author/chiara-romualdi/</link>
+    </image>
+    
+  </channel>
+</rss>

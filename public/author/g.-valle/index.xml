@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Valle | Romualdi Lab</title>
+    <link>/author/g.-valle/</link>
+      <atom:link href="/author/g.-valle/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Valle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Valle</title>
+      <link>/author/g.-valle/</link>
+    </image>
+    
+    <item>
+      <title>A global gene evolution analysis on Vibrionaceae family using phylogenetic profile</title>
+      <link>/publication/vitulo-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/vitulo-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life at depth: Photobacterium profundum genome sequence and expression analysis</title>
+      <link>/publication/vezzi-20051459/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/vezzi-20051459/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RAP: A new computer program for de novo identification of repeated sequences in whole genomes</title>
+      <link>/publication/campagna-2005582/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/campagna-2005582/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern recognition in gene expression profiling using DNA array: A comparative study of different statistical methods applied to cancer classification</title>
+      <link>/publication/romualdi-2003823/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2003823/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRAIT (TRAnscript Integrated Table): A knowledgebase of human skeletal muscle transcripts</title>
+      <link>/publication/toppo-2003661/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/toppo-2003661/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in dysferlinopathies using a dedicated muscle microarray</title>
+      <link>/publication/campanaro-20023283/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-20023283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in skeletal muscle using a dedicated microarray</title>
+      <link>/publication/campanaro-2002273/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2002273/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplifying amino acid alphabets by means of a branch and bound algorithm and substitution matrices</title>
+      <link>/publication/cannata-20021102/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/cannata-20021102/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

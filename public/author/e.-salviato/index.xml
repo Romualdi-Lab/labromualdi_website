@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Salviato | Romualdi Lab</title>
+    <link>/author/e.-salviato/</link>
+      <atom:link href="/author/e.-salviato/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Salviato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Salviato</title>
+      <link>/author/e.-salviato/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide study of salivary miRNAs identifies miR-423-5p as promising diagnostic and prognostic biomarker in oral squamous cell carcinoma</title>
+      <link>/publication/romani-20212987/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/romani-20212987/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searching for the Source of Difference: A Graphical Model Approach</title>
+      <link>/publication/djordjilovic-2020131/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/djordjilovic-2020131/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways</title>
+      <link>/publication/salviato-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/salviato-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
+      <link>/publication/todeschini-2017320/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/todeschini-2017320/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SimPATHy: A new method for simulating data from perturbed biological PATHways</title>
+      <link>/publication/salviato-2017456/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/salviato-2017456/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

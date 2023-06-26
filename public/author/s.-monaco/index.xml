@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Monaco | Romualdi Lab</title>
+    <link>/author/s.-monaco/</link>
+      <atom:link href="/author/s.-monaco/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Monaco</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Monaco</title>
+      <link>/author/s.-monaco/</link>
+    </image>
+    
+    <item>
+      <title>Increased NK Cell Count in Multiple Sclerosis Patients Treated With Dimethyl Fumarate: A 2-Year Longitudinal Study</title>
+      <link>/publication/marastoni-20191666/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marastoni-20191666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inflammatory intrathecal profiles and cortical damage in multiple sclerosis</title>
+      <link>/publication/magliozzi-2018739/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/magliozzi-2018739/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cortical damage, early relapses, and onset of the progressive phase in multiple sclerosis</title>
+      <link>/publication/scalfari-2018-e-2099/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/scalfari-2018-e-2099/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of fingolimod on focal and diffuse grey matter damage in active MS patients</title>
+      <link>/publication/bajrami-20182154/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bajrami-20182154/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive impairment predicts disability progression and cortical thinning in MS: An 8-year study</title>
+      <link>/publication/pitteri-2017848/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/pitteri-2017848/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional distribution and evolution of gray matter damage in different populations of multiple sclerosis patients</title>
+      <link>/publication/calabrese-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

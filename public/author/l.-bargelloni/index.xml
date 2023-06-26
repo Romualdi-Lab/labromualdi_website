@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Bargelloni | Romualdi Lab</title>
+    <link>/author/l.-bargelloni/</link>
+      <atom:link href="/author/l.-bargelloni/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Bargelloni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Bargelloni</title>
+      <link>/author/l.-bargelloni/</link>
+    </image>
+    
+    <item>
+      <title>Liver transcriptome analysis in gilthead sea bream upon exposure to low temperature</title>
+      <link>/publication/mininni-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mininni-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global analysis of gene expression in mineralizing fish vertebra-derived cell lines: New insights into anti-mineralogenic effect of vanadate</title>
+      <link>/publication/tiago-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tiago-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiling of skeletal muscle in young bulls treated with steroidal growth promoters</title>
+      <link>/publication/carraro-2009138/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/carraro-2009138/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of a gene expression oligo microarray for the gilthead sea bream (Sparus aurata)</title>
+      <link>/publication/ferraresso-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ferraresso-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression analysis of androgen-responsive genes in the prostate of veal calves treated with anabolic hormones</title>
+      <link>/publication/toffolatti-200638/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/toffolatti-200638/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

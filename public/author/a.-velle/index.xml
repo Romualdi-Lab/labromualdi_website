@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Velle | Romualdi Lab</title>
+    <link>/author/a.-velle/</link>
+      <atom:link href="/author/a.-velle/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Velle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Velle</title>
+      <link>/author/a.-velle/</link>
+    </image>
+    
+    <item>
+      <title>Copy number alterations in stage I epithelial ovarian cancer highlight three genomic patterns associated with prognosis</title>
+      <link>/publication/2022-01-01_copy_number_alterati/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_copy_number_alterati/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

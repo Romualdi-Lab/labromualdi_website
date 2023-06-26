@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Fogolari | Romualdi Lab</title>
+    <link>/author/f.-fogolari/</link>
+      <atom:link href="/author/f.-fogolari/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Fogolari</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Fogolari</title>
+      <link>/author/f.-fogolari/</link>
+    </image>
+    
+    <item>
+      <title>Similarity Measures Based on the Overlap of Ranked Genes Are Effective for Comparison and Classification of Microarray Data</title>
+      <link>/publication/serra-2016603/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/serra-2016603/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

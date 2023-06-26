@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Pacchioni | Romualdi Lab</title>
+    <link>/author/b.-pacchioni/</link>
+      <atom:link href="/author/b.-pacchioni/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Pacchioni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>B. Pacchioni</title>
+      <link>/author/b.-pacchioni/</link>
+    </image>
+    
+    <item>
+      <title>Single cell analysis reveals the involvement of the long non-coding RNA Pvt1 in the modulation of muscle atrophy and mitochondrial network</title>
+      <link>/publication/alessio-20191653/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/alessio-20191653/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global DNA methylation profiling uncovers distinct methylation patterns of protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma</title>
+      <link>/publication/tombolan-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel protein and transcript profiles of FSHD patient muscles correlate to the D4Z4 arrangement and reveal a common impairment of slow to fast fibre differentiation and a general deregulation of MyoD-dependent genes</title>
+      <link>/publication/celegato-20065303/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/celegato-20065303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in dysferlinopathies using a dedicated muscle microarray</title>
+      <link>/publication/campanaro-20023283/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-20023283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in skeletal muscle using a dedicated microarray</title>
+      <link>/publication/campanaro-2002273/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2002273/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

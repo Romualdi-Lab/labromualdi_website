@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Casonato | Romualdi Lab</title>
+    <link>/author/a.-casonato/</link>
+      <atom:link href="/author/a.-casonato/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Casonato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Casonato</title>
+      <link>/author/a.-casonato/</link>
+    </image>
+    
+    <item>
+      <title>Usefulness of the Total Thrombus-Formation Analysis System (T-TAS) in the diagnosis and characterization of von Willebrand disease</title>
+      <link>/publication/daidone-2016949/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/daidone-2016949/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsatellite (GT)n is part of the von Willebrand factor (VWF) promoter region that influences the glucocorticoid-induced increase in VWF in Cushing&#39;s syndrome</title>
+      <link>/publication/daidone-2010-e-275/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/daidone-2010-e-275/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polymorphisms in von Willebrand factor gene promoter influence the glucocorticoid-induced increase in von Willebrand factor: The lesson learned from Cushing syndrome</title>
+      <link>/publication/casonato-2008230/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/casonato-2008230/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

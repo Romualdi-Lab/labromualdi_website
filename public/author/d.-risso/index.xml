@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Risso | Romualdi Lab</title>
+    <link>/author/d.-risso/</link>
+      <atom:link href="/author/d.-risso/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Risso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Risso</title>
+      <link>/author/d.-risso/</link>
+    </image>
+    
+    <item>
+      <title>NewWave: A scalable R/Bioconductor package for the dimensionality reduction and batch effect removal of single-cell RNA-seq data</title>
+      <link>/publication/2022-01-01_newwave_a_scalable_r/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_newwave_a_scalable_r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of statistical methods from single cell, bulk RNA-seq, and metagenomics applied to microbiome data</title>
+      <link>/publication/calgaro-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/calgaro-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Multi-omic Data Integration in Oncology</title>
+      <link>/publication/finotello-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/finotello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Test of Expression Pattern (STEPath): A new strategy to integrate gene expression data with genomic information in individual and meta-analysis studies</title>
+      <link>/publication/martini-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison on effects of normalisations in the detection of differentially expressed genes</title>
+      <link>/publication/chiogna-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/chiogna-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A modified LOESS normalization applied to microRNA arrays: A comparative evaluation</title>
+      <link>/publication/risso-20092685/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/risso-20092685/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-MADMAN: Annotation-based microarray data meta-analysis tool</title>
+      <link>/publication/bisognin-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bisognin-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

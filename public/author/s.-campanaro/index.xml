@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Campanaro | Romualdi Lab</title>
+    <link>/author/s.-campanaro/</link>
+      <atom:link href="/author/s.-campanaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Campanaro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Campanaro</title>
+      <link>/author/s.-campanaro/</link>
+    </image>
+    
+    <item>
+      <title>Microbiota of the therapeutic Euganean thermal muds with a focus on the main cyanobacteria species</title>
+      <link>/publication/gris-20201/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gris-20201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A global gene evolution analysis on Vibrionaceae family using phylogenetic profile</title>
+      <link>/publication/vitulo-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/vitulo-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life at depth: Photobacterium profundum genome sequence and expression analysis</title>
+      <link>/publication/vezzi-20051459/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/vezzi-20051459/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern recognition in gene expression profiling using DNA array: A comparative study of different statistical methods applied to cancer classification</title>
+      <link>/publication/romualdi-2003823/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2003823/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in dysferlinopathies using a dedicated muscle microarray</title>
+      <link>/publication/campanaro-20023283/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-20023283/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in skeletal muscle using a dedicated microarray</title>
+      <link>/publication/campanaro-2002273/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2002273/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

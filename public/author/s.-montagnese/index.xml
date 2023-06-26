@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Montagnese | Romualdi Lab</title>
+    <link>/author/s.-montagnese/</link>
+      <atom:link href="/author/s.-montagnese/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Montagnese</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Montagnese</title>
+      <link>/author/s.-montagnese/</link>
+    </image>
+    
+    <item>
+      <title>Changes in Accident &amp;amp; Emergency Visits and Return Visits in Relation to the Enforcement of Daylight Saving Time and Photoperiod</title>
+      <link>/publication/ferrazzi-2018555/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ferrazzi-2018555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The self-morningness/eveningness (Self-ME): An extremely concise and totally subjective assessment of diurnal preference</title>
+      <link>/publication/turco-20151192/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/turco-20151192/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

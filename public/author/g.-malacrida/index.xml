@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Malacrida | Romualdi Lab</title>
+    <link>/author/g.-malacrida/</link>
+      <atom:link href="/author/g.-malacrida/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Malacrida</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Malacrida</title>
+      <link>/author/g.-malacrida/</link>
+    </image>
+    
+    <item>
+      <title>Life at depth: Photobacterium profundum genome sequence and expression analysis</title>
+      <link>/publication/vezzi-20051459/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/vezzi-20051459/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

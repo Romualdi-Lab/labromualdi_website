@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Fortinguerra | Romualdi Lab</title>
+    <link>/author/s.-fortinguerra/</link>
+      <atom:link href="/author/s.-fortinguerra/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Fortinguerra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Fortinguerra</title>
+      <link>/author/s.-fortinguerra/</link>
+    </image>
+    
+    <item>
+      <title>Increased NK Cell Count in Multiple Sclerosis Patients Treated With Dimethyl Fumarate: A 2-Year Longitudinal Study</title>
+      <link>/publication/marastoni-20191666/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/marastoni-20191666/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

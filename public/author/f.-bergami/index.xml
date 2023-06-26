@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. BERGAMI | Romualdi Lab</title>
+    <link>/author/f.-bergami/</link>
+      <atom:link href="/author/f.-bergami/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. BERGAMI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 1964 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>F. BERGAMI</title>
+      <link>/author/f.-bergami/</link>
+    </image>
+    
+    <item>
+      <title>ACUTE ABDOMEN IN CHILDHOOD. [ADDOME ACUTO NELL&#39;INFANZIA.]</title>
+      <link>/publication/romualdi-1964490/</link>
+      <pubDate>Wed, 01 Jan 1964 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-1964490/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEONATAL INTESTINAL OCCLUSIONS. [OCCLUSIONI INTESTINALI NEONATALI.]</title>
+      <link>/publication/bergami-1964508/</link>
+      <pubDate>Wed, 01 Jan 1964 00:00:00 +0000</pubDate>
+      <guid>/publication/bergami-1964508/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

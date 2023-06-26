@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Bellin | Romualdi Lab</title>
+    <link>/author/m.-bellin/</link>
+      <atom:link href="/author/m.-bellin/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Bellin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Bellin</title>
+      <link>/author/m.-bellin/</link>
+    </image>
+    
+    <item>
+      <title>Expression profiling characterization of laminin α-2 positive MDC</title>
+      <link>/publication/millino-2006345/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/millino-2006345/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altered glucose metabolism and proteolysis in pancreatic cancer cell conditioned myoblasts: Searching for a gene expression pattern with a microarray analysis of 5000 skeletal muscle genes</title>
+      <link>/publication/basso-20041159/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/basso-20041159/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

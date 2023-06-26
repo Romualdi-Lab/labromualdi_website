@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I.F. Nerini | Romualdi Lab</title>
+    <link>/author/i.f.-nerini/</link>
+      <atom:link href="/author/i.f.-nerini/index.xml" rel="self" type="application/rss+xml" />
+    <description>I.F. Nerini</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>I.F. Nerini</title>
+      <link>/author/i.f.-nerini/</link>
+    </image>
+    
+    <item>
+      <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
+      <link>/publication/calura-20134114/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-20134114/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance to platinum-based chemotherapy is associated with epithelial to mesenchymal transition in epithelial ovarian cancer</title>
+      <link>/publication/marchini-2013520/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/marchini-2013520/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between miR-200c and the survival of patients with stage I epithelial ovarian cancer: A retrospective study of two independent tumour tissue collections</title>
+      <link>/publication/marchini-2011273/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/marchini-2011273/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Rosolen | Romualdi Lab</title>
+    <link>/author/a.-rosolen/</link>
+      <atom:link href="/author/a.-rosolen/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Rosolen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Rosolen</title>
+      <link>/author/a.-rosolen/</link>
+    </image>
+    
+    <item>
+      <title>Global DNA methylation profiling uncovers distinct methylation patterns of protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma</title>
+      <link>/publication/tombolan-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An aberrant microRNA signature in childhood T-cell lymphoblastic lymphoma affecting CDKN1B expression, NOTCH1 and growth factor signaling pathways</title>
+      <link>/publication/mussolin-20141909/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/mussolin-20141909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consequences of heat shock protein 72 (Hsp72) expression and activity on stress-induced apoptosis in CD30 NPM-ALK anaplastic large-cell lymphomas</title>
+      <link>/publication/bonvini-20121375/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/bonvini-20121375/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High IGFBP2 expression correlates with tumor severity in pediatric rhabdomyosarcoma</title>
+      <link>/publication/tombolan-20112611/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-20112611/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the gene expression signature of rhabdomyosarcoma by meta-analysis</title>
+      <link>/publication/romualdi-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling identifies potential relevant genes in alveolar rhabdomyosarcoma pathogenesis and discriminates PAX3-FKHR positive and negative tumors</title>
+      <link>/publication/de-pitta-20062772/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/de-pitta-20062772/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

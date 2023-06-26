@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software2s | Romualdi Lab</title>
+    <link>/software2/</link>
+      <atom:link href="/software2/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software2s</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 09 Oct 2019 08:38:28 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>Software2s</title>
+      <link>/software2/</link>
+    </image>
+    
+    <item>
+      <title>BrewerIX</title>
+      <link>/software2/brewerix/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/software2/brewerix/</guid>
+      <description>&lt;p&gt;BrewerIX is a standardized approach for the analysis of known imprinted and X-linked genes. Differently from other tools, its implementation strategy allows the user (i) to perform fast and efficient analyses from raw data to the final plots on a standard desktop or laptop computer without requiring any programming skills, (ii) to have comprehensive information of imprinted and X-linked genes taken from different databases that have been manually curated to avoid results misinterpretation, (iii) to graphically visualize the results in an easy and intuitive way. All these features will guarantee the reproducibility of results and transparency.&lt;/p&gt;
+&lt;p&gt;BrewerIX is implemented as a native graphical application for Linux and macOS. It takes as input either bulk or single-cell RNA-seq data (fastq files), analyzes reads mapped over the SNVs distributed on imprinted genes (see “Knowledge base” section for details), X chromosome and Y chromosome, and generates imprinting and XCI profiles of each sample.&lt;/p&gt;
+&lt;p&gt;Martini P, Sales G, Diamante L, Perrera V, Colantuono C, Riccardo S, Cacchiarelli D, Romualdi C, Martello G. BrewerIX enables allelic expression analysis of imprinted and X-linked genes from bulk and single-cell
+transcriptomes. Commun Biol. 2022 Feb 17;5(1):146. doi:10.1038/s42003-022-03087-4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CliPPER</title>
+      <link>/software2/clipper/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/clipper/</guid>
+      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>microGraphite</title>
+      <link>/software2/micrographite/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/micrographite/</guid>
+      <description>&lt;p&gt;miRNAs have been extensively studied and hundreds of target genes have been found. However, despite all these efforts, signaling pathways that are the formal description of biological circuits, contain very few miRNAs. This penalizes pathway analyses, widely used and essential approaches to enhance transcriptome measurements interpretations.&lt;/p&gt;
+&lt;p&gt;To overcome this limitation we developed micrographite, an R pipeline able to integrate pathway information with predicted and validated miRNA–target interactions and to perform integrated topological analyses of miRNA and gene expression profiles to identify miRNA–gene circuits.&lt;/p&gt;
+&lt;p&gt;Calura E, Martini P, Sales G, Beltrame L, Chiorino G, D&amp;rsquo;Incalci M, Marchini S, Romualdi C. Wiring miRNAs to pathways: a topological approach to integrate miRNA and mRNA expression profiles. Nucleic Acids Res. 2014 Jun;42(11):e96. doi: 10.1093/nar/gku354.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOSCLIP</title>
+      <link>/software2/mosclip/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/mosclip/</guid>
+      <description>&lt;p&gt;MOSClip ((Multi-Omics Survival Clip) is a multi-omic statistical approach based on pathway topology. It exploits the topology of pathway annotations and integrates multi-omics data to identify pathways or pathway modules associated with right-censored survival data.&lt;/p&gt;
+&lt;p&gt;MOSClip is implemented as an R package. It is highly flexible, accepting from one to many omics datasets, also allowing the use and combination of different data reduction strategies. It furthermore contains several tools to graphically summarize the results and help the user during data interpretation. These features make MOSClip a useful and versatile tool for omics integration analyses.&lt;/p&gt;
+&lt;p&gt;Martini P, Chiogna M, Calura E, Romualdi C. MOSClip: multi-omic and survival
+pathway analysis for the identification of survival associated gene and modules.
+Nucleic Acids Res. 2019 Aug 22;47(14):e80. doi: 10.1093/nar/gkz324.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PsiNorm</title>
+      <link>/software2/psinorm/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/psinorm/</guid>
+      <description>&lt;p&gt;PsiNorm, a between-sample normalization method based on the power-law Pareto distribution parameter estimate. We show that Pareto distribution well resembles scRNA-seq data, especially those coming from platforms that employ unique molecular identifiers (UMIs).&lt;/p&gt;
+&lt;p&gt;Motivated by this result, we implement PsiNorm, a simple and highly scalable normalization method. We benchmark PsiNorm against seven other methods in terms of cluster identification, concordance and computational resources required. We demonstrate that PsiNorm is among the top performing methods showing a good trade-off between accuracy and scalability.&lt;/p&gt;
+&lt;p&gt;Borella M, Martello G, Risso D, Romualdi C. PsiNorm: a scalable normalization for single-cell RNA-seq data. Bioinformatics. 2021 Sep 9;38(1):164–72. doi: 10.1093/bioinformatics/btab641.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SimPATHy</title>
+      <link>/software2/simpathy/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/simpathy/</guid>
+      <description>&lt;p&gt;simPATHy is a model for simulating data from perturbed biological pathways. It is implemented as an  R package and produces synthetic datasets useful to validate GSA methods focused on topological properties of biological networks.&lt;/p&gt;
+&lt;p&gt;Given a graph structure representing a biological network, functions in simPATHy allow simulating data in two different conditions. The two conditions, assumed to share the same graphical structure, are referred to as reference and dysregulated condition. Dysregulation is defined as a change in the strength of the links between network nodes. Such changes can be interpreted as activation/deactivation of network connections.&lt;/p&gt;
+&lt;p&gt;Elisa Salviato, Vera Djordjilović, Monica Chiogna, Chiara Romualdi, simPATHy: a new method for simulating data from perturbed biological PATHways, Bioinformatics, Volume 33, Issue 3, 1 February 2017, Pages 456–457, &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btw642&#34;&gt;https://doi.org/10.1093/bioinformatics/btw642&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SourceSet</title>
+      <link>/software2/sourceset/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/sourceset/</guid>
+      <description>&lt;p&gt;SourceSet is a statisticla method to distinguish between the primary and the secondary dysregulation within a Gaussian graphical model context. It compares gene expression profiles in the control and in the perturbed condition and detects the differences in both the mean and the covariance parameters with a series of likelihood ratio tests. The resulting evidence is used to infer the primary and the secondary set, i.e. the genes responsible for the primary dysregulation, and the genes affected by the perturbation through network propagation.&lt;/p&gt;
+&lt;p&gt;SourceSet demonstrates high specificity and sensitivity in different simulated scenarios and on several real biological case studies. In order to fit into the more traditional pathway analysis framework, SourceSet R package also extends the analysis from a single to multiple pathways and provides several graphical outputs, including Cytoscape visualization to browse the results.&lt;/p&gt;
+&lt;p&gt;Salviato E, Djordjilović V, Chiogna M, Romualdi C (2019) SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways. PLOS Computational Biology 15(10): e1007357. &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007357&#34;&gt;https://doi.org/10.1371/journal.pcbi.1007357&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

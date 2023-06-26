@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.A. Rocca | Romualdi Lab</title>
+    <link>/author/m.a.-rocca/</link>
+      <atom:link href="/author/m.a.-rocca/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.A. Rocca</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>M.A. Rocca</title>
+      <link>/author/m.a.-rocca/</link>
+    </image>
+    
+    <item>
+      <title>Cortical lesions in primary progressive multiple sclerosis: A 2-year longitudinal MR study</title>
+      <link>/publication/calabrese-20091330/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/calabrese-20091330/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

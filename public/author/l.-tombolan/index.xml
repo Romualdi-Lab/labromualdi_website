@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Tombolan | Romualdi Lab</title>
+    <link>/author/l.-tombolan/</link>
+      <atom:link href="/author/l.-tombolan/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Tombolan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Tombolan</title>
+      <link>/author/l.-tombolan/</link>
+    </image>
+    
+    <item>
+      <title>NELL1, whose high expression correlates with negative outcomes, has different methylation patterns in alveolar and embryonal rhabdomyosarcoma</title>
+      <link>/publication/tombolan-201733086/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-201733086/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global DNA methylation profiling uncovers distinct methylation patterns of protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma</title>
+      <link>/publication/tombolan-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High IGFBP2 expression correlates with tumor severity in pediatric rhabdomyosarcoma</title>
+      <link>/publication/tombolan-20112611/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/tombolan-20112611/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defining the gene expression signature of rhabdomyosarcoma by meta-analysis</title>
+      <link>/publication/romualdi-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling identifies potential relevant genes in alveolar rhabdomyosarcoma pathogenesis and discriminates PAX3-FKHR positive and negative tumors</title>
+      <link>/publication/de-pitta-20062772/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/de-pitta-20062772/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A leukemia-enriched cDNA microarray platform identifies new transcripts with relevance to the biology of pediatric acute lymphoblastic leukemia</title>
+      <link>/publication/de-pitta-2005890/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/de-pitta-2005890/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

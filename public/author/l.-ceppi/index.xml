@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Ceppi | Romualdi Lab</title>
+    <link>/author/l.-ceppi/</link>
+      <atom:link href="/author/l.-ceppi/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Ceppi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Ceppi</title>
+      <link>/author/l.-ceppi/</link>
+    </image>
+    
+    <item>
+      <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
+      <link>/publication/benvenuto-2020565/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/benvenuto-2020565/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
+      <link>/publication/ballabio-20192670/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ballabio-20192670/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
+      <link>/publication/martini-20172356/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-20172356/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
+      <link>/publication/calura-20134114/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-20134114/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

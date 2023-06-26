@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Bicciato | Romualdi Lab</title>
+    <link>/author/s.-bicciato/</link>
+      <atom:link href="/author/s.-bicciato/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Bicciato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Bicciato</title>
+      <link>/author/s.-bicciato/</link>
+    </image>
+    
+    <item>
+      <title>Impact of probe annotation on the integration of miRNA-mRNA expression profiles for miRNA target detection</title>
+      <link>/publication/sales-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/sales-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A-MADMAN: Annotation-based microarray data meta-analysis tool</title>
+      <link>/publication/bisognin-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bisognin-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Ardighieri | Romualdi Lab</title>
+    <link>/author/l.-ardighieri/</link>
+      <atom:link href="/author/l.-ardighieri/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Ardighieri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Ardighieri</title>
+      <link>/author/l.-ardighieri/</link>
+    </image>
+    
+    <item>
+      <title>FXYD5 (Dysadherin) upregulation predicts shorter survival and reveals platinum resistance in high-grade serous ovarian cancer patients</title>
+      <link>/publication/tassi-2019584/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/tassi-2019584/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
+      <link>/publication/calura-20161511/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-20161511/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

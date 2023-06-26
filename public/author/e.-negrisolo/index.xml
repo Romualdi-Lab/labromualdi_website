@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Negrisolo | Romualdi Lab</title>
+    <link>/author/e.-negrisolo/</link>
+      <atom:link href="/author/e.-negrisolo/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Negrisolo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Negrisolo</title>
+      <link>/author/e.-negrisolo/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of a gene expression oligo microarray for the gilthead sea bream (Sparus aurata)</title>
+      <link>/publication/ferraresso-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/ferraresso-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

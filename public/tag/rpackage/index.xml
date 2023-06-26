@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpackage | Romualdi Lab</title>
+    <link>/tag/rpackage/</link>
+      <atom:link href="/tag/rpackage/index.xml" rel="self" type="application/rss+xml" />
+    <description>rpackage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 09 Oct 2019 08:38:28 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>rpackage</title>
+      <link>/tag/rpackage/</link>
+    </image>
+    
+    <item>
+      <title>precisely</title>
+      <link>/project/precisely/</link>
+      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
+      <guid>/project/precisely/</guid>
+      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>causalpie</title>
+      <link>/project/causalpie/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/causalpie/</guid>
+      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CliPPER</title>
+      <link>/software2/clipper/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/clipper/</guid>
+      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>dagtex</title>
+      <link>/project/dagtex/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/dagtex/</guid>
+      <description>&lt;p&gt;daxtex is a low-ish level package for making LaTeX DAGs in R. While dagtex will work as a standalone package, the longterm goal is to serve as a LaTeX backend for &lt;a href=&#34;https://ggdag.malco.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggdag&lt;/a&gt; objects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ggdag</title>
+      <link>/project/ggdag/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/ggdag/</guid>
+      <description>&lt;p&gt;ggdag links the dagitty package, which contains powerful algorithms for analyzing causal DAGs, with the unlimited flexibility of ggplot2. ggdag coverts dagitty objects to a tidy DAG data structure, which allows you to both analyze your DAG and plot it easily in ggplot2.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>microGraphite</title>
+      <link>/software2/micrographite/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/micrographite/</guid>
+      <description>&lt;p&gt;miRNAs have been extensively studied and hundreds of target genes have been found. However, despite all these efforts, signaling pathways that are the formal description of biological circuits, contain very few miRNAs. This penalizes pathway analyses, widely used and essential approaches to enhance transcriptome measurements interpretations.&lt;/p&gt;
+&lt;p&gt;To overcome this limitation we developed micrographite, an R pipeline able to integrate pathway information with predicted and validated miRNA–target interactions and to perform integrated topological analyses of miRNA and gene expression profiles to identify miRNA–gene circuits.&lt;/p&gt;
+&lt;p&gt;Calura E, Martini P, Sales G, Beltrame L, Chiorino G, D&amp;rsquo;Incalci M, Marchini S, Romualdi C. Wiring miRNAs to pathways: a topological approach to integrate miRNA and mRNA expression profiles. Nucleic Acids Res. 2014 Jun;42(11):e96. doi: 10.1093/nar/gku354.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOSCLIP</title>
+      <link>/software2/mosclip/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/mosclip/</guid>
+      <description>&lt;p&gt;MOSClip ((Multi-Omics Survival Clip) is a multi-omic statistical approach based on pathway topology. It exploits the topology of pathway annotations and integrates multi-omics data to identify pathways or pathway modules associated with right-censored survival data.&lt;/p&gt;
+&lt;p&gt;MOSClip is implemented as an R package. It is highly flexible, accepting from one to many omics datasets, also allowing the use and combination of different data reduction strategies. It furthermore contains several tools to graphically summarize the results and help the user during data interpretation. These features make MOSClip a useful and versatile tool for omics integration analyses.&lt;/p&gt;
+&lt;p&gt;Martini P, Chiogna M, Calura E, Romualdi C. MOSClip: multi-omic and survival
+pathway analysis for the identification of survival associated gene and modules.
+Nucleic Acids Res. 2019 Aug 22;47(14):e80. doi: 10.1093/nar/gkz324.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>partition</title>
+      <link>/project/partition/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/partition/</guid>
+      <description>&lt;p&gt;partition is a fast and flexible framework for agglomerative partitioning. partition uses an approach called Direct-Measure-Reduce to create new variables that maintain the user-specified minimum level of information. Each reduced variable is also interpretable: the original variables map to one and only one variable in the reduced data set. partition is flexible, as well: how variables are selected to reduce, how information loss is measured, and the way data is reduced can all be customized.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PsiNorm</title>
+      <link>/software2/psinorm/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/psinorm/</guid>
+      <description>&lt;p&gt;PsiNorm, a between-sample normalization method based on the power-law Pareto distribution parameter estimate. We show that Pareto distribution well resembles scRNA-seq data, especially those coming from platforms that employ unique molecular identifiers (UMIs).&lt;/p&gt;
+&lt;p&gt;Motivated by this result, we implement PsiNorm, a simple and highly scalable normalization method. We benchmark PsiNorm against seven other methods in terms of cluster identification, concordance and computational resources required. We demonstrate that PsiNorm is among the top performing methods showing a good trade-off between accuracy and scalability.&lt;/p&gt;
+&lt;p&gt;Borella M, Martello G, Risso D, Romualdi C. PsiNorm: a scalable normalization for single-cell RNA-seq data. Bioinformatics. 2021 Sep 9;38(1):164–72. doi: 10.1093/bioinformatics/btab641.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SimPATHy</title>
+      <link>/software2/simpathy/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/simpathy/</guid>
+      <description>&lt;p&gt;simPATHy is a model for simulating data from perturbed biological pathways. It is implemented as an  R package and produces synthetic datasets useful to validate GSA methods focused on topological properties of biological networks.&lt;/p&gt;
+&lt;p&gt;Given a graph structure representing a biological network, functions in simPATHy allow simulating data in two different conditions. The two conditions, assumed to share the same graphical structure, are referred to as reference and dysregulated condition. Dysregulation is defined as a change in the strength of the links between network nodes. Such changes can be interpreted as activation/deactivation of network connections.&lt;/p&gt;
+&lt;p&gt;Elisa Salviato, Vera Djordjilović, Monica Chiogna, Chiara Romualdi, simPATHy: a new method for simulating data from perturbed biological PATHways, Bioinformatics, Volume 33, Issue 3, 1 February 2017, Pages 456–457, &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btw642&#34;&gt;https://doi.org/10.1093/bioinformatics/btw642&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SourceSet</title>
+      <link>/software2/sourceset/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/sourceset/</guid>
+      <description>&lt;p&gt;SourceSet is a statisticla method to distinguish between the primary and the secondary dysregulation within a Gaussian graphical model context. It compares gene expression profiles in the control and in the perturbed condition and detects the differences in both the mean and the covariance parameters with a series of likelihood ratio tests. The resulting evidence is used to infer the primary and the secondary set, i.e. the genes responsible for the primary dysregulation, and the genes affected by the perturbation through network propagation.&lt;/p&gt;
+&lt;p&gt;SourceSet demonstrates high specificity and sensitivity in different simulated scenarios and on several real biological case studies. In order to fit into the more traditional pathway analysis framework, SourceSet R package also extends the analysis from a single to multiple pathways and provides several graphical outputs, including Cytoscape visualization to browse the results.&lt;/p&gt;
+&lt;p&gt;Salviato E, Djordjilović V, Chiogna M, Romualdi C (2019) SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways. PLOS Computational Biology 15(10): e1007357. &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007357&#34;&gt;https://doi.org/10.1371/journal.pcbi.1007357&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tidymeta</title>
+      <link>/project/tidymeta/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/tidymeta/</guid>
+      <description>&lt;p&gt;Tidy and plot meta-analyses from popular meta-analytic tools in R. Currently in early development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ymlthis</title>
+      <link>/project/ymlthis/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/ymlthis/</guid>
+      <description>&lt;p&gt;ymlthis is a package to help you write YAML metadata for R Markdown documents and related tools like blogdown, bookdown, and pkgdown. YAML serves two main roles: to pass information to be printed in the document, such as the title and author, and to control how the document is rendered, anything from the output type (HTML vs. PDF) and typesetting options to what should happen with files created while rendering.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

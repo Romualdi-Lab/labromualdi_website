@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dagtex | Romualdi Lab</title>
+    <link>/tag/dagtex/</link>
+      <atom:link href="/tag/dagtex/index.xml" rel="self" type="application/rss+xml" />
+    <description>dagtex</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 09 Oct 2019 08:00:20 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>dagtex</title>
+      <link>/tag/dagtex/</link>
+    </image>
+    
+    <item>
+      <title>dagtex</title>
+      <link>/project/dagtex/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/dagtex/</guid>
+      <description>&lt;p&gt;daxtex is a low-ish level package for making LaTeX DAGs in R. While dagtex will work as a standalone package, the longterm goal is to serve as a LaTeX backend for &lt;a href=&#34;https://ggdag.malco.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggdag&lt;/a&gt; objects.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ymlthis | Romualdi Lab</title>
+    <link>/tag/ymlthis/</link>
+      <atom:link href="/tag/ymlthis/index.xml" rel="self" type="application/rss+xml" />
+    <description>ymlthis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 09 Oct 2019 08:00:20 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>ymlthis</title>
+      <link>/tag/ymlthis/</link>
+    </image>
+    
+    <item>
+      <title>ymlthis</title>
+      <link>/project/ymlthis/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/project/ymlthis/</guid>
+      <description>&lt;p&gt;ymlthis is a package to help you write YAML metadata for R Markdown documents and related tools like blogdown, bookdown, and pkgdown. YAML serves two main roles: to pass information to be printed in the document, such as the title and author, and to control how the document is rendered, anything from the output type (HTML vs. PDF) and typesetting options to what should happen with files created while rendering.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

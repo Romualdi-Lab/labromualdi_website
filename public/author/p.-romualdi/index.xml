@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Romualdi | Romualdi Lab</title>
+    <link>/author/p.-romualdi/</link>
+      <atom:link href="/author/p.-romualdi/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Romualdi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Romualdi</title>
+      <link>/author/p.-romualdi/</link>
+    </image>
+    
+    <item>
+      <title>Headrace tunnel of the El Alto hydropower project in Panama [Druckstollen des wasserkraftprojekts El Alto in Panama]</title>
+      <link>/publication/barwart-2013301/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/barwart-2013301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precast tunnel segment in fiber reinforced concrete</title>
+      <link>/publication/caratelli-2011579/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/caratelli-2011579/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACUTE ABDOMEN IN CHILDHOOD. [ADDOME ACUTO NELL&#39;INFANZIA.]</title>
+      <link>/publication/romualdi-1964490/</link>
+      <pubDate>Wed, 01 Jan 1964 00:00:00 +0000</pubDate>
+      <guid>/publication/romualdi-1964490/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

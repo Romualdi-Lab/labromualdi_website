@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Chiorino | Romualdi Lab</title>
+    <link>/author/g.-chiorino/</link>
+      <atom:link href="/author/g.-chiorino/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Chiorino</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Chiorino</title>
+      <link>/author/g.-chiorino/</link>
+    </image>
+    
+    <item>
+      <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
+      <link>/publication/martini-20172356/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/martini-20172356/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiring miRNAs to pathways: A topological approach to integrate miRNA and mRNA expression profiles</title>
+      <link>/publication/calura-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/calura-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistance to platinum-based chemotherapy is associated with epithelial to mesenchymal transition in epithelial ovarian cancer</title>
+      <link>/publication/marchini-2013520/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/marchini-2013520/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systems biology approach to characterize the regulatory networks leading to trabectedin resistance in an in vitro model of myxoid liposarcoma</title>
+      <link>/publication/uboldi-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/uboldi-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between miR-200c and the survival of patients with stage I epithelial ovarian cancer: A retrospective study of two independent tumour tissue collections</title>
+      <link>/publication/marchini-2011273/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/marchini-2011273/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

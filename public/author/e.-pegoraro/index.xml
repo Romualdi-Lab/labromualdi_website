@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Pegoraro | Romualdi Lab</title>
+    <link>/author/e.-pegoraro/</link>
+      <atom:link href="/author/e.-pegoraro/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Pegoraro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Pegoraro</title>
+      <link>/author/e.-pegoraro/</link>
+    </image>
+    
+    <item>
+      <title>Expression profiling characterization of laminin α-2 positive MDC</title>
+      <link>/publication/millino-2006345/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/millino-2006345/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
+      <link>/publication/campanaro-2003235/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-2003235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression profiling in dysferlinopathies using a dedicated muscle microarray</title>
+      <link>/publication/campanaro-20023283/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/campanaro-20023283/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

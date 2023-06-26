@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolò Gnoato | Romualdi Lab</title>
+    <link>/author/nicolo-gnoato/</link>
+      <atom:link href="/author/nicolo-gnoato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolò Gnoato</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright>
+    <image>
+      <url>/author/nicolo-gnoato/avatar_hu7fba9da1679ce4a56c592454604cb9c1_129190_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nicolò Gnoato</title>
+      <link>/author/nicolo-gnoato/</link>
+    </image>
+    
+  </channel>
+</rss>
