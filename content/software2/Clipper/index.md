@@ -25,7 +25,7 @@ links:
 - name: rpackage
   url: https://www.bioconductor.org/packages/release/bioc/html/clipper.html
   icon_pack: fab
-  icon: github
+  icon: rpackage
 
 url_code: ""
 url_pdf: ""
