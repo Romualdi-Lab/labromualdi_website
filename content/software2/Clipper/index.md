@@ -40,4 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.
+Implements topological gene set analysis using a two-step empirical approach. It exploits graph decomposition theory to create a junction tree and reconstruct the most relevant signal path. In the first step clipper selects significant pathways according to statistical tests on the means and the concentration matrices of the graphs derived from pathway topologies. Then, it "clips" the whole pathway identifying the signal paths having the greatest association with a specific phenotype.
+
+Martini P, Sales G, Romualdi C (2023). clipper: Gene Set Analysis Exploiting Pathway Topology. R package version 1.40.0. 
