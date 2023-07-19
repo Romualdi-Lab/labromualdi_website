@@ -22,7 +22,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: rpackages
+- name: rpackage
   url: https://bioconductor.org/packages/release/bioc/html/graphite.html
   icon_pack: fab
   icon: bioconductor
@@ -51,6 +51,6 @@ The BioC graphite package is constantly updated and available at the BioC site.
 GraphiteWeb is freely available here and is based on the graphite BioC package and on our pathway analysis pipelines.
 
 
-Sales G, Calura E, Martini P, Romualdi C. MAGIA, a web-based tool for miRNA and Genes Integrated Analysis. Nucleic Acids Res. 2013 Jul; 41(Web Server issue):W89-97. doi: 10.1093/nar/gkt386.
+Sales G, Calura E, Cavalieri D, Romualdi C (2012). “graphite - a Bioconductor package to convert pathway topology to gene network.” BMC Bioinformatics. https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-20.
 
-Sales G, Calura E, Cavalieri D, Romualdi C. graphite – a Bioconductor package to convert pathway topology to gene network. BMC Bioinformatics. 2012 Jan; 13(1):1-12. doi: 10.1186/1471-2105-13-20
+Sales G, Calura E, Romualdi C (2018). “metaGraphite - a new layer of pathway annotation to get metabolite networks.” Bioinformatics. https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty719/5090451.

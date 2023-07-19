@@ -22,10 +22,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: R
+- name: rpackage
   url: https://cran.r-project.org/web/packages/simPATHy/index.html
   icon_pack: fab
-  icon: github
+  icon: 
 
 url_code: ""
 url_pdf: ""
