@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PsiNorm"
-summary: "a scalable normalization for single-cell RNA-seq data"
+summary: "A scalable normalization for single-cell RNA-seq data"
 authors: []
 tags: [rpackage]
 categories: [r]
@@ -22,7 +22,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: R
+- name: rpackage
   url: https://bioconductor.org/packages/scone/
   icon_pack: fab
   icon: R

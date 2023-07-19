@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SourceSet"
-summary: "A pathway analyses method in a graphical model context to distinguish between primary and secondary dysregulation "
+summary: "A Graphical Model Approach to Identify Primary Genes in Perturbed Biological Pathways"
 authors: []
 tags: [rpackage]
 categories: [r]
@@ -22,7 +22,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: R
+- name: rpackage
   url: https://cran.rstudio.com/web/packages/SourceSet/index.html
   icon_pack: fab
   icon: R
