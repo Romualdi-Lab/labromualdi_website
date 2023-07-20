@@ -19,12 +19,8 @@ advanced:
 
 We are delighted to introduce you to our dynamic and innovative team of scientists dedicated to unraveling the mysteries of life through the power of computational methods.
 
-At RomualdiLab, we embark on a journey of discovery, merging biology and technology to unlock the secrets of living systems.
+At RomualdiLab, we embark on a journey of unlock the secrets of living systems through different computational approaches, such as genomics, transcriptomics, systems biology, network analysis and data integration.
 
-Our mission is to harness the vast potential of computational approaches to decipher complex biological phenomena, paving the way for groundbreaking advancements in diverse fields such as genomics, transcriptomics, systems biology, network analysis and data integration.
-
-Our team believes that understanding the dynamic relationships between genes, proteins, and signaling pathways is pivotal in identifying novel therapeutic targets and biomarkers that could revolutionize ovarian cancer diagnosis and treatment. 
-
-We employ state-of-the-art computational tools, big data analysis, and innovative methodologies to construct intricate molecular networks that provide us with invaluable insights into the disease's biology.
+We employ state-of-the-art computational tools, big data analysis, and innovative methodologies to construct intricate molecular networks that provide us with invaluable insights into the ovarian cancer's biology.
 
 We invite you to join us on this transformative quest as we unlock the potential of computational biology.
