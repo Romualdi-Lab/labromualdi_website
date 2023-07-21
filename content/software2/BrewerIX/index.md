@@ -4,8 +4,8 @@
 title: "BrewerIX"
 summary: "Allelic expression analysis of imprinted and X-linked genes from bulk and single-cell transcriptomes"
 authors: []
-tags: [education, other]
-categories: [r, allelic expression]
+tags: []
+categories: [r]
 date: 2019-10-09T08:38:28-07:00
 
 # Optional external URL for project (replaces project detail page).
@@ -22,15 +22,20 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: GitHub
+- name: github
   url: https://github.com/Romualdi-Lab/brewerix-cli
   icon_pack: fab
   icon: github
+  
+- name: UniPD site
+  url: https://brewerix.bio.unipd.it/
+  icon_pack: fab
+  icon: UniPD site
 
-url_code: "https://brewerix.bio.unipd.it/"
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# url_code: "https://brewerix.bio.unipd.it/"
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
