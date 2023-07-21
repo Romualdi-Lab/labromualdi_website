@@ -5,7 +5,7 @@
     <link>/author/m.-bazzega/</link>
       <atom:link href="/author/m.-bazzega/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Bazzega</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>M. Bazzega</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>MyoData: An expression knowledgebase at single cell/nucleus level for the discovery of coding-noncoding RNA functional interactions in skeletal muscle</title>
+      <link>/publication/2021-01-01_myodata_an_expressio/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_myodata_an_expressio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Transcriptomic Analysis of Single Isolated Myofibers Identifies miR-27a-3p and miR-142-3p as Regulators of Metabolism in Skeletal Muscle</title>
-      <link>/publication/chemello-20193784/</link>
+      <link>/publication/2019-01-01_transcriptomic_analy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/chemello-20193784/</guid>
+      <guid>/publication/2019-01-01_transcriptomic_analy/</guid>
       <description></description>
     </item>
     

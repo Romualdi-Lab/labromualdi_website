@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. De Bortoli | Romualdi Lab</title>
+    <title>M. {De Bortoli} | Romualdi Lab</title>
     <link>/author/m.-de-bortoli/</link>
       <atom:link href="/author/m.-de-bortoli/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. De Bortoli</description>
+    <description>M. {De Bortoli}</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>M. De Bortoli</title>
+      <title>M. {De Bortoli}</title>
       <link>/author/m.-de-bortoli/</link>
     </image>
     
     <item>
       <title>A founder MYBPC3 mutation results in HCM with a high risk of sudden death after the fourth decade of life</title>
-      <link>/publication/calore-2015338/</link>
+      <link>/publication/2015-01-01_a_founder_mybpc3_mut/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/calore-2015338/</guid>
+      <guid>/publication/2015-01-01_a_founder_mybpc3_mut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>miR148b is a major coordinator of breast cancer progression in a relapse-associated microRNA signature by targeting ITGA5, ROCK1, PIK3CA, NRAS, and CSF1</title>
-      <link>/publication/cimino-20131223/</link>
+      <link>/publication/2013-01-01_mir148b_is_a_major_c/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/cimino-20131223/</guid>
+      <guid>/publication/2013-01-01_mir148b_is_a_major_c/</guid>
       <description></description>
     </item>
     

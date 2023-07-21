@@ -5,7 +5,7 @@
     <link>/author/f.-crescenzo/</link>
       <atom:link href="/author/f.-crescenzo/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Crescenzo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>F. Crescenzo</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>A novel prognostic score to assess the risk of progression in relapsing−remitting multiple sclerosis patients</title>
+      <link>/publication/2021-01-01_a_novel_prognostic_s/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_a_novel_prognostic_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Increased NK Cell Count in Multiple Sclerosis Patients Treated With Dimethyl Fumarate: A 2-Year Longitudinal Study</title>
-      <link>/publication/marastoni-20191666/</link>
+      <link>/publication/2019-01-01_increased_nk_cell_co/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/marastoni-20191666/</guid>
+      <guid>/publication/2019-01-01_increased_nk_cell_co/</guid>
       <description></description>
     </item>
     

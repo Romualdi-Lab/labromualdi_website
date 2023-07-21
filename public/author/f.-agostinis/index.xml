@@ -5,12 +5,20 @@
     <link>/author/f.-agostinis/</link>
       <atom:link href="/author/f.-agostinis/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Agostinis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>F. Agostinis</title>
       <link>/author/f.-agostinis/</link>
     </image>
+    
+    <item>
+      <title>A comprehensive investigation of histotype-specific microRNA and their variants in Stage I epithelial ovarian cancers</title>
+      <link>/publication/2023-01-01_a_comprehensive_inve/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_a_comprehensive_inve/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Copy number alterations in stage I epithelial ovarian cancer highlight three genomic patterns associated with prognosis</title>
@@ -25,6 +33,14 @@
       <link>/publication/2022-01-01_newwave_a_scalable_r/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/2022-01-01_newwave_a_scalable_r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MicroRNA expression profiling with a droplet digital PCR assay enables molecular diagnosis and prognosis of cancers of unknown primary</title>
+      <link>/publication/2021-01-01_microrna_expression_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_microrna_expression_/</guid>
       <description></description>
     </item>
     

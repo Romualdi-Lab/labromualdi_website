@@ -5,12 +5,20 @@
     <link>/author/m.-dincalci/</link>
       <atom:link href="/author/m.-dincalci/index.xml" rel="self" type="application/rss+xml" />
     <description>M. D&#39;Incalci</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>M. D&#39;Incalci</title>
       <link>/author/m.-dincalci/</link>
     </image>
+    
+    <item>
+      <title>A comprehensive investigation of histotype-specific microRNA and their variants in Stage I epithelial ovarian cancers</title>
+      <link>/publication/2023-01-01_a_comprehensive_inve/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_a_comprehensive_inve/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Copy number alterations in stage I epithelial ovarian cancer highlight three genomic patterns associated with prognosis</title>
@@ -21,138 +29,162 @@
     </item>
     
     <item>
-      <title>Genome-wide study of salivary miRNAs identifies miR-423-5p as promising diagnostic and prognostic biomarker in oral squamous cell carcinoma</title>
-      <link>/publication/romani-20212987/</link>
+      <title>Comprehensive profiling of hypoxia-related mirnas identifies mir-23a-3p overexpression as a marker of platinum resistance and poor prognosis in high-grade serous ovarian cancer</title>
+      <link>/publication/2021-01-01_comprehensive_profil/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/romani-20212987/</guid>
+      <guid>/publication/2021-01-01_comprehensive_profil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide copy-number alterations in circulating tumor DNA as a novel biomarker for patients with high-grade serous ovarian cancer</title>
+      <link>/publication/2021-01-01_genome-wide_copy-num/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_genome-wide_copy-num/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide study of salivary miRNAs identifies miR-423-5p as promising diagnostic and prognostic biomarker in oral squamous cell carcinoma</title>
+      <link>/publication/2021-01-01_genome-wide_study_of/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_genome-wide_study_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional and temporal heterogeneity of epithelial ovarian cancer tumor biopsies: implications for therapeutic strategies</title>
+      <link>/publication/2021-01-01_regional_and_tempora/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_regional_and_tempora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
-      <link>/publication/benvenuto-2020565/</link>
+      <link>/publication/2020-01-01_expression_profiles_/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/benvenuto-2020565/</guid>
+      <guid>/publication/2020-01-01_expression_profiles_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
-      <link>/publication/ballabio-20192670/</link>
+      <link>/publication/2019-01-01_multisite_analysis_o/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ballabio-20192670/</guid>
+      <guid>/publication/2019-01-01_multisite_analysis_o/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transcriptional Characterization of Stage I Epithelial Ovarian Cancer: A Multicentric Study</title>
-      <link>/publication/calura-2019/</link>
+      <title>Transcriptional characterization of stage i epithelial ovarian cancer: A multicentric study</title>
+      <link>/publication/2019-01-01_transcriptional_char/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2019/</guid>
+      <guid>/publication/2019-01-01_transcriptional_char/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systems biology approach to investigate the mechanism of action of trabectedin in a model of myelomonocytic leukemia</title>
-      <link>/publication/mannarino-201856/</link>
+      <link>/publication/2018-01-01_a_systems_biology_ap/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mannarino-201856/</guid>
+      <guid>/publication/2018-01-01_a_systems_biology_ap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
-      <link>/publication/todeschini-2017320/</link>
+      <link>/publication/2017-01-01_circulating_mirna_la/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/todeschini-2017320/</guid>
+      <guid>/publication/2017-01-01_circulating_mirna_la/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
-      <link>/publication/martini-20172356/</link>
+      <link>/publication/2017-01-01_lncrnas_as_novel_ind/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-20172356/</guid>
+      <guid>/publication/2017-01-01_lncrnas_as_novel_ind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
-      <link>/publication/calura-20161511/</link>
+      <link>/publication/2016-01-01_a_prognostic_regulat/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20161511/</guid>
+      <guid>/publication/2016-01-01_a_prognostic_regulat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of high-grade serous ovarian cancer miRNA species associated with survival and drug response in patients receiving neoadjuvant chemotherapy: A retrospective longitudinal analysis using matched tumor biopsies</title>
-      <link>/publication/petrillo-2016625/</link>
+      <link>/publication/2016-01-01_identification_of_hi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/petrillo-2016625/</guid>
+      <guid>/publication/2016-01-01_identification_of_hi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing: A retrospective study</title>
-      <link>/publication/beltrame-20151363/</link>
+      <link>/publication/2015-01-01_profiling_cancer_gen/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/beltrame-20151363/</guid>
+      <guid>/publication/2015-01-01_profiling_cancer_gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of differential miRNA expression in primary tumor and stroma of colorectal cancer patients</title>
-      <link>/publication/della-vittoria-scarpati-2014/</link>
+      <link>/publication/2014-01-01_analysis_of_differen/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/della-vittoria-scarpati-2014/</guid>
+      <guid>/publication/2014-01-01_analysis_of_differen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MicroRNA-181a has a critical role in ovarian cancer progression through the regulation of the epithelial-mesenchymal transition</title>
-      <link>/publication/parikh-2014/</link>
+      <link>/publication/2014-01-01_microrna-181a_has_a_/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/parikh-2014/</guid>
+      <guid>/publication/2014-01-01_microrna-181a_has_a_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wiring miRNAs to pathways: A topological approach to integrate miRNA and mRNA expression profiles</title>
-      <link>/publication/calura-2014/</link>
+      <link>/publication/2014-01-01_wiring_mirnas_to_pat/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2014/</guid>
+      <guid>/publication/2014-01-01_wiring_mirnas_to_pat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
-      <link>/publication/calura-20134114/</link>
+      <link>/publication/2013-01-01_mirna_landscape_in_s/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20134114/</guid>
+      <guid>/publication/2013-01-01_mirna_landscape_in_s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resistance to platinum-based chemotherapy is associated with epithelial to mesenchymal transition in epithelial ovarian cancer</title>
-      <link>/publication/marchini-2013520/</link>
+      <link>/publication/2013-01-01_resistance_to_platin/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/marchini-2013520/</guid>
+      <guid>/publication/2013-01-01_resistance_to_platin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systems biology approach to characterize the regulatory networks leading to trabectedin resistance in an in vitro model of myxoid liposarcoma</title>
-      <link>/publication/uboldi-2012/</link>
+      <link>/publication/2012-01-01_a_systems_biology_ap/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/uboldi-2012/</guid>
+      <guid>/publication/2012-01-01_a_systems_biology_ap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between miR-200c and the survival of patients with stage I epithelial ovarian cancer: A retrospective study of two independent tumour tissue collections</title>
-      <link>/publication/marchini-2011273/</link>
+      <link>/publication/2011-01-01_association_between_/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/marchini-2011273/</guid>
+      <guid>/publication/2011-01-01_association_between_/</guid>
       <description></description>
     </item>
     

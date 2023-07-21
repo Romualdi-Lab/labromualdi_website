@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Dalle Carbonare | Romualdi Lab</title>
+    <title>M. {Dalle Carbonare} | Romualdi Lab</title>
     <link>/author/m.-dalle-carbonare/</link>
       <atom:link href="/author/m.-dalle-carbonare/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. Dalle Carbonare</description>
+    <description>M. {Dalle Carbonare}</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>M. Dalle Carbonare</title>
+      <title>M. {Dalle Carbonare}</title>
       <link>/author/m.-dalle-carbonare/</link>
     </image>
     
     <item>
       <title>Longitudinal analysis of immune cell phenotypes in early stage multiple sclerosis: Distinctive patterns characterize MRI-active patients</title>
-      <link>/publication/rinaldi-20061993/</link>
+      <link>/publication/2006-01-01_longitudinal_analysi/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/rinaldi-20061993/</guid>
+      <guid>/publication/2006-01-01_longitudinal_analysi/</guid>
       <description></description>
     </item>
     

@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E. De Mattia | Romualdi Lab</title>
+    <title>E. {De Mattia} | Romualdi Lab</title>
     <link>/author/e.-de-mattia/</link>
       <atom:link href="/author/e.-de-mattia/index.xml" rel="self" type="application/rss+xml" />
-    <description>E. De Mattia</description>
+    <description>E. {De Mattia}</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>E. De Mattia</title>
+      <title>E. {De Mattia}</title>
       <link>/author/e.-de-mattia/</link>
     </image>
     
     <item>
       <title>A TGF-β associated genetic score to define prognosis and platinum sensitivity in advanced epithelial ovarian cancer</title>
-      <link>/publication/gagno-2020233/</link>
+      <link>/publication/2020-01-01_a_tgf-%CE%B2_associated_g/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gagno-2020233/</guid>
+      <guid>/publication/2020-01-01_a_tgf-%CE%B2_associated_g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pharmacogenetic score predicts overall survival, progression-free survival and platinum sensitivity in ovarian cancer</title>
-      <link>/publication/gagno-2020995/</link>
+      <link>/publication/2020-01-01_pharmacogenetic_scor/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/gagno-2020995/</guid>
+      <guid>/publication/2020-01-01_pharmacogenetic_scor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rs4143815-PDL1, a new potential immunogenetic biomarker of biochemical recurrence in locally advanced prostate cancer after radiotherapy</title>
-      <link>/publication/zanusso-2019/</link>
+      <link>/publication/2019-01-01_rs4143815-pdl1_a_ne/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zanusso-2019/</guid>
+      <guid>/publication/2019-01-01_rs4143815-pdl1_a_ne/</guid>
       <description></description>
     </item>
     

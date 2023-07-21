@@ -5,7 +5,7 @@
     <link>/author/g.-siravegna/</link>
       <atom:link href="/author/g.-siravegna/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Siravegna</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>G. Siravegna</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Genome-wide copy-number alterations in circulating tumor DNA as a novel biomarker for patients with high-grade serous ovarian cancer</title>
+      <link>/publication/2021-01-01_genome-wide_copy-num/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_genome-wide_copy-num/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
-      <link>/publication/ballabio-20192670/</link>
+      <link>/publication/2019-01-01_multisite_analysis_o/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ballabio-20192670/</guid>
+      <guid>/publication/2019-01-01_multisite_analysis_o/</guid>
       <description></description>
     </item>
     

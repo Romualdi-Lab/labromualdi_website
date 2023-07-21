@@ -5,7 +5,7 @@
     <link>/author/g.-lanfranchi/</link>
       <atom:link href="/author/g.-lanfranchi/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Lanfranchi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>G. Lanfranchi</title>
@@ -13,226 +13,226 @@
     </image>
     
     <item>
+      <title>MyoData: An expression knowledgebase at single cell/nucleus level for the discovery of coding-noncoding RNA functional interactions in skeletal muscle</title>
+      <link>/publication/2021-01-01_myodata_an_expressio/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_myodata_an_expressio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Single cell analysis reveals the involvement of the long non-coding RNA Pvt1 in the modulation of muscle atrophy and mitochondrial network</title>
-      <link>/publication/alessio-20191653/</link>
+      <link>/publication/2019-01-01_single_cell_analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/alessio-20191653/</guid>
+      <guid>/publication/2019-01-01_single_cell_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptomic Analysis of Single Isolated Myofibers Identifies miR-27a-3p and miR-142-3p as Regulators of Metabolism in Skeletal Muscle</title>
-      <link>/publication/chemello-20193784/</link>
+      <link>/publication/2019-01-01_transcriptomic_analy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/chemello-20193784/</guid>
+      <guid>/publication/2019-01-01_transcriptomic_analy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NELL1, whose high expression correlates with negative outcomes, has different methylation patterns in alveolar and embryonal rhabdomyosarcoma</title>
-      <link>/publication/tombolan-201733086/</link>
+      <link>/publication/2017-01-01_nell1_whose_high_ex/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/tombolan-201733086/</guid>
+      <guid>/publication/2017-01-01_nell1_whose_high_ex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global DNA methylation profiling uncovers distinct methylation patterns of protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma</title>
-      <link>/publication/tombolan-2016/</link>
+      <link>/publication/2016-01-01_global_dna_methylati/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/tombolan-2016/</guid>
+      <guid>/publication/2016-01-01_global_dna_methylati/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tissue-specific expression and regulatory networks of pig microRNAome</title>
-      <link>/publication/martini-2014/</link>
+      <link>/publication/2014-01-01_tissue-specific_expr/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2014/</guid>
+      <guid>/publication/2014-01-01_tissue-specific_expr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>miR148b is a major coordinator of breast cancer progression in a relapse-associated microRNA signature by targeting ITGA5, ROCK1, PIK3CA, NRAS, and CSF1</title>
-      <link>/publication/cimino-20131223/</link>
+      <link>/publication/2013-01-01_mir148b_is_a_major_c/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/cimino-20131223/</guid>
+      <guid>/publication/2013-01-01_mir148b_is_a_major_c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems biology approach to the dissection of the complexity of regulatory networks in the S. scrofa cardiocirculatory system</title>
-      <link>/publication/martini-201323160/</link>
+      <link>/publication/2013-01-01_systems_biology_appr/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-201323160/</guid>
+      <guid>/publication/2013-01-01_systems_biology_appr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High IGFBP2 expression correlates with tumor severity in pediatric rhabdomyosarcoma</title>
-      <link>/publication/tombolan-20112611/</link>
+      <link>/publication/2011-01-01_high_igfbp2_expressi/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/tombolan-20112611/</guid>
+      <guid>/publication/2011-01-01_high_igfbp2_expressi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Test of Expression Pattern (STEPath): A new strategy to integrate gene expression data with genomic information in individual and meta-analysis studies</title>
-      <link>/publication/martini-2011/</link>
+      <link>/publication/2011-01-01_statistical_test_of_/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2011/</guid>
+      <guid>/publication/2011-01-01_statistical_test_of_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correlation between gene expression and clinical data through linear and nonlinear principal components analyses: Muscular dystrophies as case studies</title>
-      <link>/publication/romualdi-2009173/</link>
+      <link>/publication/2009-01-01_correlation_between_/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2009173/</guid>
+      <guid>/publication/2009-01-01_correlation_between_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical tools for gene expression analysis and systems biology and related web resources</title>
-      <link>/publication/romualdi-2009181/</link>
+      <link>/publication/2009-01-01_statistical_tools_fo/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2009181/</guid>
+      <guid>/publication/2009-01-01_statistical_tools_fo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta-analysis of expression signatures of muscle atrophy: Gene interaction networks in early and late stages</title>
-      <link>/publication/calura-2008/</link>
+      <link>/publication/2008-01-01_meta-analysis_of_exp/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2008/</guid>
+      <guid>/publication/2008-01-01_meta-analysis_of_exp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining the gene expression signature of rhabdomyosarcoma by meta-analysis</title>
-      <link>/publication/romualdi-2006/</link>
+      <link>/publication/2006-01-01_defining_the_gene_ex/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2006/</guid>
+      <guid>/publication/2006-01-01_defining_the_gene_ex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Denervation in murine fast-twitch muscle: Short-term physiological changes and temporal expression profiling</title>
-      <link>/publication/raffaello-200660/</link>
+      <link>/publication/2006-01-01_denervation_in_murin/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/raffaello-200660/</guid>
+      <guid>/publication/2006-01-01_denervation_in_murin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of mussel mRNA profiling: Can gene expression trends reveal coastal water pollution?</title>
-      <link>/publication/venier-2006121/</link>
+      <link>/publication/2006-01-01_development_of_musse/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/venier-2006121/</guid>
+      <guid>/publication/2006-01-01_development_of_musse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential gene expression profiling in genetic and multifactorial cardiovascular diseases</title>
-      <link>/publication/nanni-2006934/</link>
+      <link>/publication/2006-01-01_differential_gene_ex/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/nanni-2006934/</guid>
+      <guid>/publication/2006-01-01_differential_gene_ex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression profiling characterization of laminin α-2 positive MDC</title>
-      <link>/publication/millino-2006345/</link>
+      <link>/publication/2006-01-01_expression_profiling/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/millino-2006345/</guid>
+      <guid>/publication/2006-01-01_expression_profiling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression profiling identifies potential relevant genes in alveolar rhabdomyosarcoma pathogenesis and discriminates PAX3-FKHR positive and negative tumors</title>
-      <link>/publication/de-pitta-20062772/</link>
+      <link>/publication/2006-01-01_gene_expression_prof/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/de-pitta-20062772/</guid>
+      <guid>/publication/2006-01-01_gene_expression_prof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel protein and transcript profiles of FSHD patient muscles correlate to the D4Z4 arrangement and reveal a common impairment of slow to fast fibre differentiation and a general deregulation of MyoD-dependent genes</title>
-      <link>/publication/celegato-20065303/</link>
+      <link>/publication/2006-01-01_parallel_protein_and/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/celegato-20065303/</guid>
+      <guid>/publication/2006-01-01_parallel_protein_and/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A leukemia-enriched cDNA microarray platform identifies new transcripts with relevance to the biology of pediatric acute lymphoblastic leukemia</title>
-      <link>/publication/de-pitta-2005890/</link>
+      <link>/publication/2005-01-01_a_leukemia-enriched_/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/de-pitta-2005890/</guid>
+      <guid>/publication/2005-01-01_a_leukemia-enriched_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MIDAW: A web tool for statistical analysis of microarray data</title>
-      <link>/publication/romualdi-2005-w-644/</link>
+      <link>/publication/2005-01-01_midaw_a_web_tool_for/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2005-w-644/</guid>
+      <guid>/publication/2005-01-01_midaw_a_web_tool_for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altered glucose metabolism and proteolysis in pancreatic cancer cell conditioned myoblasts: Searching for a gene expression pattern with a microarray analysis of 5000 skeletal muscle genes</title>
-      <link>/publication/basso-20041159/</link>
+      <link>/publication/2004-01-01_altered_glucose_meta/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/basso-20041159/</guid>
+      <guid>/publication/2004-01-01_altered_glucose_meta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application of a cDNA micoarray for the analysis of muscular dystrophies and childhood leukemias</title>
-      <link>/publication/campanaro-2003235/</link>
+      <link>/publication/2003-01-01_application_of_a_cdn/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/campanaro-2003235/</guid>
+      <guid>/publication/2003-01-01_application_of_a_cdn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved detection of differentially expressed genes in microarray experiments through multiple scanning and image integration.</title>
-      <link>/publication/romualdi-2003/</link>
+      <link>/publication/2003-01-01_improved_detection_o/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2003/</guid>
+      <guid>/publication/2003-01-01_improved_detection_o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pattern recognition in gene expression profiling using DNA array: A comparative study of different statistical methods applied to cancer classification</title>
-      <link>/publication/romualdi-2003823/</link>
+      <link>/publication/2003-01-01_pattern_recognition_/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2003823/</guid>
+      <guid>/publication/2003-01-01_pattern_recognition_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRAIT (TRAnscript Integrated Table): A knowledgebase of human skeletal muscle transcripts</title>
-      <link>/publication/toppo-2003661/</link>
+      <link>/publication/2003-01-01_trait_transcript_in/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/toppo-2003661/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gene expression profiling in dysferlinopathies using a dedicated muscle microarray</title>
-      <link>/publication/campanaro-20023283/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/campanaro-20023283/</guid>
+      <guid>/publication/2003-01-01_trait_transcript_in/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene expression profiling in skeletal muscle using a dedicated microarray</title>
-      <link>/publication/campanaro-2002273/</link>
+      <link>/publication/2002-01-01_gene_expression_prof/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/campanaro-2002273/</guid>
+      <guid>/publication/2002-01-01_gene_expression_prof/</guid>
       <description></description>
     </item>
     

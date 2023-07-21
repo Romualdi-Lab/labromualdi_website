@@ -1,6 +1,4 @@
 +++
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title = "A thorough annotation of the krill transcriptome offers new insights for the study of physiological processes"
 date = "2022-01-01"
 authors = ["I. Urso", "A. Biscontin", "D. Corso", "C. Bertolucci", "C. Romualdi", "C. {De Pitta}", "B. Meyer", "G. Sales"]

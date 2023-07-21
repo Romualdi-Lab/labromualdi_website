@@ -5,9 +5,12 @@ design:
   columns: "2"
 headless: true
 subtitle: null
-title: Contact
+title: Contact & Join
 weight: 10
 widget: contact
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+
+We are looking for highly motivated PhD and postdoctoral candidates who have a strong interest in computational and cancer biology.
+
+Please email your application (including a motivation letter describing your past research experience and your future research interests, your CV and two reference letters) to chiara.romualdi@unipd.it.

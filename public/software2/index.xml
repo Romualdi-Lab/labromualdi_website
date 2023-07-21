@@ -5,12 +5,32 @@
     <link>/software2/</link>
       <atom:link href="/software2/index.xml" rel="self" type="application/rss+xml" />
     <description>Software2s</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 09 Oct 2019 08:38:28 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 21 Jul 2023 08:00:20 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Software2s</title>
       <link>/software2/</link>
     </image>
+    
+    <item>
+      <title>gINTomics</title>
+      <link>/software2/gintomics/</link>
+      <pubDate>Fri, 21 Jul 2023 08:00:20 -0700</pubDate>
+      <guid>/software2/gintomics/</guid>
+      <description>&lt;p&gt;gINTomics is an R package for Multi-Omics data integration and visualization. gINTomics is designed to detect the association between the expression of a target and of its regulators, taking into account also their genomics modifications such as Copy Number Variations (CNV) and methylation. For RNA sequencing data, the counts will be fitted using a negative binomial model, while in the case of microarray or other types of data, a linear model will be applied. In some cases the number of regulators for a given target could be very high, in order to handle this eventuality, we provide a penalized linear model that will automatically keep only the most important regulators. All the models are gene-specific, so each gene/miRNA will have its own model with its covariates. The package will automatically download information about TF-target couples (dorothea), miRNA-target couples (multiMiR) and TF-miRNA couples (TransmiR). The couples will be used to define the covariates used in the integration models.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>parmigine</title>
+      <link>/software2/parmigene/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/software2/parmigene/</guid>
+      <description>&lt;p&gt;This R package provides a parallel estimation of the mutual information based on entropy estimates from k-nearest neighbors distances and algorithms for the reconstruction of gene regulatory networks.&lt;/p&gt;
+&lt;p&gt;Find more details in the paper:&lt;/p&gt;
+&lt;p&gt;Gabriele Sales, Chiara Romualdi, parmigene—a parallel R package for mutual information estimation and gene network reconstruction, Bioinformatics, Volume 27, Issue 13, 1 July 2011, Pages 1876–1877, &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btr274&#34;&gt;https://doi.org/10.1093/bioinformatics/btr274&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>BrewerIX</title>
@@ -29,7 +49,26 @@ transcriptomes. Commun Biol. 2022 Feb 17;5(1):146. doi:10.1038/s42003-022-03087-
       <link>/software2/clipper/</link>
       <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
       <guid>/software2/clipper/</guid>
-      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
+      <description>&lt;p&gt;Implements topological gene set analysis using a two-step empirical approach. It exploits graph decomposition theory to create a junction tree and reconstruct the most relevant signal path. In the first step clipper selects significant pathways according to statistical tests on the means and the concentration matrices of the graphs derived from pathway topologies. Then, it &amp;ldquo;clips&amp;rdquo; the whole pathway identifying the signal paths having the greatest association with a specific phenotype.&lt;/p&gt;
+&lt;p&gt;Martini P, Sales G, Romualdi C (2023). clipper: Gene Set Analysis Exploiting Pathway Topology. R package version 1.40.0.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>graphite</title>
+      <link>/software2/graphite/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/graphite/</guid>
+      <description>&lt;p&gt;Graphite framework is divided in two main steps&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The conversion procedure that create the networks&lt;/li&gt;
+&lt;li&gt;The R package that allows the use and the analyses of the network within the BioC platform,&lt;/li&gt;
+&lt;li&gt;The Web tool GraphiteWeb that allows the use and the analyses of the network directly on the web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The BioC graphite package is constantly updated and available at the BioC site.&lt;/p&gt;
+&lt;p&gt;GraphiteWeb is freely available here and is based on the graphite BioC package and on our pathway analysis pipelines.&lt;/p&gt;
+&lt;p&gt;Sales G, Calura E, Cavalieri D, Romualdi C (2012). “graphite - a Bioconductor package to convert pathway topology to gene network.” BMC Bioinformatics. &lt;a href=&#34;https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-20&#34;&gt;https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-20&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sales G, Calura E, Romualdi C (2018). “metaGraphite - a new layer of pathway annotation to get metabolite networks.” Bioinformatics. &lt;a href=&#34;https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty719/5090451&#34;&gt;https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty719/5090451&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -87,6 +126,16 @@ Nucleic Acids Res. 2019 Aug 22;47(14):e80. doi: 10.1093/nar/gkz324.&lt;/p&gt;
       <description>&lt;p&gt;SourceSet is a statisticla method to distinguish between the primary and the secondary dysregulation within a Gaussian graphical model context. It compares gene expression profiles in the control and in the perturbed condition and detects the differences in both the mean and the covariance parameters with a series of likelihood ratio tests. The resulting evidence is used to infer the primary and the secondary set, i.e. the genes responsible for the primary dysregulation, and the genes affected by the perturbation through network propagation.&lt;/p&gt;
 &lt;p&gt;SourceSet demonstrates high specificity and sensitivity in different simulated scenarios and on several real biological case studies. In order to fit into the more traditional pathway analysis framework, SourceSet R package also extends the analysis from a single to multiple pathways and provides several graphical outputs, including Cytoscape visualization to browse the results.&lt;/p&gt;
 &lt;p&gt;Salviato E, Djordjilović V, Chiogna M, Romualdi C (2019) SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways. PLOS Computational Biology 15(10): e1007357. &lt;a href=&#34;https://doi.org/10.1371/journal.pcbi.1007357&#34;&gt;https://doi.org/10.1371/journal.pcbi.1007357&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>topologyGSA</title>
+      <link>/software2/topologygsa/</link>
+      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
+      <guid>/software2/topologygsa/</guid>
+      <description>&lt;p&gt;Using Gaussian graphical models we propose a novel approach to perform pathway analysis using gene expression. Given the structure of a graph (a pathway) we introduce two statistical tests to compare the mean and the concentration matrices between two groups. Specifically, these tests can be performed on the graph and on its connected components (cliques).&lt;/p&gt;
+&lt;p&gt;Massa, M.S., Chiogna, M. and Romualdi, C. Massa, Maria Sofia, Monica Chiogna, and Chiara Romualdi. &amp;ldquo;Gene set analysis exploiting the topology of a pathway, BMC system biology, 2010 Dec; 4(1):1-5.&lt;/p&gt;
 </description>
     </item>
     
