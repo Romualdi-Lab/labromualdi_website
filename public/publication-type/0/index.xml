@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Romualdi Lab</title>
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>miRNA bioinformatics and pathway analysis</title>
+      <link>/publication/2022-01-01_mirna_bioinformatics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_mirna_bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Multi-omic Data Integration in Oncology</title>
+      <link>/publication/2020-01-01_editorial_multi-omic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_editorial_multi-omic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An aberrant microRNA signature in childhood T-cell lymphoblastic lymphoma affecting CDKN1B expression, NOTCH1 and growth factor signaling pathways</title>
+      <link>/publication/2014-01-01_an_aberrant_microrna/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_an_aberrant_microrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical tools for gene expression analysis and systems biology and related web resources</title>
+      <link>/publication/2009-01-01_statistical_tools_fo/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-01-01_statistical_tools_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential gene expression profiling in genetic and multifactorial cardiovascular diseases</title>
+      <link>/publication/2006-01-01_differential_gene_ex/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/2006-01-01_differential_gene_ex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

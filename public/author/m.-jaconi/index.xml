@@ -5,7 +5,7 @@
     <link>/author/m.-jaconi/</link>
       <atom:link href="/author/m.-jaconi/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Jaconi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>M. Jaconi</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>A comprehensive investigation of histotype-specific microRNA and their variants in Stage I epithelial ovarian cancers</title>
+      <link>/publication/2023-01-01_a_comprehensive_inve/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_a_comprehensive_inve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Copy number alterations in stage I epithelial ovarian cancer highlight three genomic patterns associated with prognosis</title>
       <link>/publication/2022-01-01_copy_number_alterati/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/publication/2022-01-01_copy_number_alterati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide copy-number alterations in circulating tumor DNA as a novel biomarker for patients with high-grade serous ovarian cancer</title>
+      <link>/publication/2021-01-01_genome-wide_copy-num/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_genome-wide_copy-num/</guid>
       <description></description>
     </item>
     

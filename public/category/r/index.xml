@@ -5,7 +5,7 @@
     <link>/category/r/</link>
       <atom:link href="/category/r/index.xml" rel="self" type="application/rss+xml" />
     <description>r</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 21 Jul 2023 08:00:20 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>r</title>
@@ -13,61 +13,22 @@
     </image>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/research/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>/research/2020-12-01-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/research/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+      <title>gINTomics</title>
+      <link>/software2/gintomics/</link>
+      <pubDate>Fri, 21 Jul 2023 08:00:20 -0700</pubDate>
+      <guid>/software2/gintomics/</guid>
+      <description>&lt;p&gt;gINTomics is an R package for Multi-Omics data integration and visualization. gINTomics is designed to detect the association between the expression of a target and of its regulators, taking into account also their genomics modifications such as Copy Number Variations (CNV) and methylation. For RNA sequencing data, the counts will be fitted using a negative binomial model, while in the case of microarray or other types of data, a linear model will be applied. In some cases the number of regulators for a given target could be very high, in order to handle this eventuality, we provide a penalized linear model that will automatically keep only the most important regulators. All the models are gene-specific, so each gene/miRNA will have its own model with its covariates. The package will automatically download information about TF-target couples (dorothea), miRNA-target couples (multiMiR) and TF-miRNA couples (TransmiR). The couples will be used to define the covariates used in the integration models.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>kakashi</title>
-      <link>/project/kakashi/</link>
-      <pubDate>Fri, 06 Dec 2019 16:17:20 -0800</pubDate>
-      <guid>/project/kakashi/</guid>
-      <description>&lt;p&gt;kakashi is a theme for the &lt;a href=&#34;https://github.com/yihui/xaringan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xaringan R package&lt;/a&gt; for making slides. kakashi has a clean look with color-blind friendly palettes. Marking text as italics (*) will turn it blue, bold (**) will turn it orange, and striking out (~~) will turn it grey. kakashi copies ideas from many other themes, including metropolis and lucy, but is ultimately unique. That is why this CSS (copy shinobi style) is called kakashi, &lt;a href=&#34;https://www.wikiwand.com/en/Kakashi_Hatake&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;after the copy ninja&lt;/a&gt;.&lt;/p&gt;
+      <title>parmigine</title>
+      <link>/software2/parmigene/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/software2/parmigene/</guid>
+      <description>&lt;p&gt;This R package provides a parallel estimation of the mutual information based on entropy estimates from k-nearest neighbors distances and algorithms for the reconstruction of gene regulatory networks.&lt;/p&gt;
+&lt;p&gt;Find more details in the paper:&lt;/p&gt;
+&lt;p&gt;Gabriele Sales, Chiara Romualdi, parmigene—a parallel R package for mutual information estimation and gene network reconstruction, Bioinformatics, Volume 27, Issue 13, 1 July 2011, Pages 1876–1877, &lt;a href=&#34;https://doi.org/10.1093/bioinformatics/btr274&#34;&gt;https://doi.org/10.1093/bioinformatics/btr274&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -84,90 +45,30 @@ transcriptomes. Commun Biol. 2022 Feb 17;5(1):146. doi:10.1038/s42003-022-03087-
     </item>
     
     <item>
-      <title>Causal Inference notebook</title>
-      <link>/project/causalinferencenotebook/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/causalinferencenotebook/</guid>
-      <description>&lt;p&gt;This notebook contains R code for part 2 of &lt;a href=&#34;https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causal Inference&lt;/a&gt; by Miguel Hernán and Jamie Robins. While R, SAS, Stata, and Python code are available on the website for Causal Inference, we focus on doing causal inference using the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt; ecosystem of R packages, particularly ggplot2, dplyr, and broom.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>epibot</title>
-      <link>/project/epibot/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/epibot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn purrr web app</title>
-      <link>/project/purrr_app/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/purrr_app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Los Angeles R Users Group</title>
-      <link>/project/larug/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/larug/</guid>
-      <description>&lt;p&gt;The Los Angeles R Users Group meets twice a month, one chapter on the Westside and one chapter on the Eastside, grown out of the efforts of &lt;a href=&#34;http://datascience.la/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science LA&lt;/a&gt; and related groups. We are part of a larger community of R user groups in Southern California.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>precisely</title>
-      <link>/project/precisely/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/precisely/</guid>
-      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>precisely web app</title>
-      <link>/project/precisely_app/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/precisely_app/</guid>
-      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>causalpie</title>
-      <link>/project/causalpie/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/causalpie/</guid>
-      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CliPPER</title>
       <link>/software2/clipper/</link>
       <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
       <guid>/software2/clipper/</guid>
-      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
+      <description>&lt;p&gt;Implements topological gene set analysis using a two-step empirical approach. It exploits graph decomposition theory to create a junction tree and reconstruct the most relevant signal path. In the first step clipper selects significant pathways according to statistical tests on the means and the concentration matrices of the graphs derived from pathway topologies. Then, it &amp;ldquo;clips&amp;rdquo; the whole pathway identifying the signal paths having the greatest association with a specific phenotype.&lt;/p&gt;
+&lt;p&gt;Martini P, Sales G, Romualdi C (2023). clipper: Gene Set Analysis Exploiting Pathway Topology. R package version 1.40.0.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>dagtex</title>
-      <link>/project/dagtex/</link>
+      <title>graphite</title>
+      <link>/software2/graphite/</link>
       <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/dagtex/</guid>
-      <description>&lt;p&gt;daxtex is a low-ish level package for making LaTeX DAGs in R. While dagtex will work as a standalone package, the longterm goal is to serve as a LaTeX backend for &lt;a href=&#34;https://ggdag.malco.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggdag&lt;/a&gt; objects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ggdag</title>
-      <link>/project/ggdag/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/ggdag/</guid>
-      <description>&lt;p&gt;ggdag links the dagitty package, which contains powerful algorithms for analyzing causal DAGs, with the unlimited flexibility of ggplot2. ggdag coverts dagitty objects to a tidy DAG data structure, which allows you to both analyze your DAG and plot it easily in ggplot2.&lt;/p&gt;
+      <guid>/software2/graphite/</guid>
+      <description>&lt;p&gt;Graphite framework is divided in two main steps&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The conversion procedure that create the networks&lt;/li&gt;
+&lt;li&gt;The R package that allows the use and the analyses of the network within the BioC platform,&lt;/li&gt;
+&lt;li&gt;The Web tool GraphiteWeb that allows the use and the analyses of the network directly on the web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The BioC graphite package is constantly updated and available at the BioC site.&lt;/p&gt;
+&lt;p&gt;GraphiteWeb is freely available here and is based on the graphite BioC package and on our pathway analysis pipelines.&lt;/p&gt;
+&lt;p&gt;Sales G, Calura E, Cavalieri D, Romualdi C (2012). “graphite - a Bioconductor package to convert pathway topology to gene network.” BMC Bioinformatics. &lt;a href=&#34;https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-20&#34;&gt;https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-20&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sales G, Calura E, Romualdi C (2018). “metaGraphite - a new layer of pathway annotation to get metabolite networks.” Bioinformatics. &lt;a href=&#34;https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty719/5090451&#34;&gt;https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty719/5090451&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -192,15 +93,6 @@ transcriptomes. Commun Biol. 2022 Feb 17;5(1):146. doi:10.1038/s42003-022-03087-
 &lt;p&gt;Martini P, Chiogna M, Calura E, Romualdi C. MOSClip: multi-omic and survival
 pathway analysis for the identification of survival associated gene and modules.
 Nucleic Acids Res. 2019 Aug 22;47(14):e80. doi: 10.1093/nar/gkz324.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>partition</title>
-      <link>/project/partition/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/partition/</guid>
-      <description>&lt;p&gt;partition is a fast and flexible framework for agglomerative partitioning. partition uses an approach called Direct-Measure-Reduce to create new variables that maintain the user-specified minimum level of information. Each reduced variable is also interpretable: the original variables map to one and only one variable in the reduced data set. partition is flexible, as well: how variables are selected to reduce, how information loss is measured, and the way data is reduced can all be customized.&lt;/p&gt;
 </description>
     </item>
     
@@ -238,20 +130,12 @@ Nucleic Acids Res. 2019 Aug 22;47(14):e80. doi: 10.1093/nar/gkz324.&lt;/p&gt;
     </item>
     
     <item>
-      <title>tidymeta</title>
-      <link>/project/tidymeta/</link>
+      <title>topologyGSA</title>
+      <link>/software2/topologygsa/</link>
       <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/tidymeta/</guid>
-      <description>&lt;p&gt;Tidy and plot meta-analyses from popular meta-analytic tools in R. Currently in early development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ymlthis</title>
-      <link>/project/ymlthis/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/ymlthis/</guid>
-      <description>&lt;p&gt;ymlthis is a package to help you write YAML metadata for R Markdown documents and related tools like blogdown, bookdown, and pkgdown. YAML serves two main roles: to pass information to be printed in the document, such as the title and author, and to control how the document is rendered, anything from the output type (HTML vs. PDF) and typesetting options to what should happen with files created while rendering.&lt;/p&gt;
+      <guid>/software2/topologygsa/</guid>
+      <description>&lt;p&gt;Using Gaussian graphical models we propose a novel approach to perform pathway analysis using gene expression. Given the structure of a graph (a pathway) we introduce two statistical tests to compare the mean and the concentration matrices between two groups. Specifically, these tests can be performed on the graph and on its connected components (cliques).&lt;/p&gt;
+&lt;p&gt;Massa, M.S., Chiogna, M. and Romualdi, C. Massa, Maria Sofia, Monica Chiogna, and Chiara Romualdi. &amp;ldquo;Gene set analysis exploiting the topology of a pathway, BMC system biology, 2010 Dec; 4(1):1-5.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,36 @@
     <link>/author/p.-martini/</link>
       <atom:link href="/author/p.-martini/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Martini</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>P. Martini</title>
       <link>/author/p.-martini/</link>
     </image>
+    
+    <item>
+      <title>A comprehensive investigation of histotype-specific microRNA and their variants in Stage I epithelial ovarian cancers</title>
+      <link>/publication/2023-01-01_a_comprehensive_inve/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_a_comprehensive_inve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defective excitation-contraction coupling and mitochondrial respiration precede mitochondrial Ca2&#43; accumulation in spinobulbar muscular atrophy skeletal muscle</title>
+      <link>/publication/2023-01-01_defective_excitation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_defective_excitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial compartmentalization of signaling imparts source-specific functions on secreted factors</title>
+      <link>/publication/2023-01-01_spatial_compartmenta/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_spatial_compartmenta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BrewerIX enables allelic expression analysis of imprinted and X-linked genes from bulk and single-cell transcriptomes</title>
@@ -21,186 +45,202 @@
     </item>
     
     <item>
+      <title>Zebrafish Mutant Lines Reveal the Interplay between nr3c1 and nr3c2 in the GC-Dependent Regulation of Gene Transcription</title>
+      <link>/publication/2022-01-01_zebrafish_mutant_lin/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_zebrafish_mutant_lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
-      <link>/publication/benvenuto-2020565/</link>
+      <link>/publication/2020-01-01_expression_profiles_/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/benvenuto-2020565/</guid>
+      <guid>/publication/2020-01-01_expression_profiles_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct generation of human naive induced pluripotent stem cells from somatic cells in microfluidics</title>
-      <link>/publication/giulitti-2019275/</link>
+      <link>/publication/2019-01-01_direct_generation_of/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/giulitti-2019275/</guid>
+      <guid>/publication/2019-01-01_direct_generation_of/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOSClip: multi-omic and survival pathway analysis for the identification of survival associated gene and modules</title>
-      <link>/publication/martini-2019-e-80/</link>
+      <link>/publication/2019-01-01_mosclip_multi-omic_a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2019-e-80/</guid>
+      <guid>/publication/2019-01-01_mosclip_multi-omic_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
-      <link>/publication/ballabio-20192670/</link>
+      <link>/publication/2019-01-01_multisite_analysis_o/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ballabio-20192670/</guid>
+      <guid>/publication/2019-01-01_multisite_analysis_o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single cell analysis reveals the involvement of the long non-coding RNA Pvt1 in the modulation of muscle atrophy and mitochondrial network</title>
-      <link>/publication/alessio-20191653/</link>
+      <link>/publication/2019-01-01_single_cell_analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/alessio-20191653/</guid>
+      <guid>/publication/2019-01-01_single_cell_analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transcriptional Characterization of Stage I Epithelial Ovarian Cancer: A Multicentric Study</title>
-      <link>/publication/calura-2019/</link>
+      <title>Transcriptional characterization of stage i epithelial ovarian cancer: A multicentric study</title>
+      <link>/publication/2019-01-01_transcriptional_char/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2019/</guid>
+      <guid>/publication/2019-01-01_transcriptional_char/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome profiles of human visceral adipocytes in obesity and colorectal cancer unravel the effects of body mass index and polyunsaturated fatty acids on genes and biological process related to tumorigenesis</title>
-      <link>/publication/corno-2019/</link>
+      <link>/publication/2019-01-01_transcriptome_profil/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/corno-2019/</guid>
+      <guid>/publication/2019-01-01_transcriptome_profil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptomic Analysis of Single Isolated Myofibers Identifies miR-27a-3p and miR-142-3p as Regulators of Metabolism in Skeletal Muscle</title>
-      <link>/publication/chemello-20193784/</link>
+      <link>/publication/2019-01-01_transcriptomic_analy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/chemello-20193784/</guid>
+      <guid>/publication/2019-01-01_transcriptomic_analy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
-      <link>/publication/todeschini-2017320/</link>
+      <link>/publication/2017-01-01_circulating_mirna_la/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/todeschini-2017320/</guid>
+      <guid>/publication/2017-01-01_circulating_mirna_la/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KrillDB: A de novo transcriptome database for the Antarctic krill (Euphausia superba)</title>
-      <link>/publication/sales-2017/</link>
+      <link>/publication/2017-01-01_krilldb_a_de_novo_tr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2017/</guid>
+      <guid>/publication/2017-01-01_krilldb_a_de_novo_tr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
-      <link>/publication/martini-20172356/</link>
+      <link>/publication/2017-01-01_lncrnas_as_novel_ind/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-20172356/</guid>
+      <guid>/publication/2017-01-01_lncrnas_as_novel_ind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NELL1, whose high expression correlates with negative outcomes, has different methylation patterns in alveolar and embryonal rhabdomyosarcoma</title>
-      <link>/publication/tombolan-201733086/</link>
+      <link>/publication/2017-01-01_nell1_whose_high_ex/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/tombolan-201733086/</guid>
+      <guid>/publication/2017-01-01_nell1_whose_high_ex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
-      <link>/publication/calura-20161511/</link>
+      <link>/publication/2016-01-01_a_prognostic_regulat/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20161511/</guid>
+      <guid>/publication/2016-01-01_a_prognostic_regulat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global DNA methylation profiling uncovers distinct methylation patterns of protocadherin alpha4 in metastatic and non-metastatic rhabdomyosarcoma</title>
-      <link>/publication/tombolan-2016/</link>
+      <link>/publication/2016-01-01_global_dna_methylati/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/tombolan-2016/</guid>
+      <guid>/publication/2016-01-01_global_dna_methylati/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing: A retrospective study</title>
-      <link>/publication/beltrame-20151363/</link>
+      <link>/publication/2015-01-01_profiling_cancer_gen/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/beltrame-20151363/</guid>
+      <guid>/publication/2015-01-01_profiling_cancer_gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pyrosequencing and de novo assembly of Antarctic krill (Euphausia superba) transcriptome to study the adaptability of krill to climate-induced environmental changes</title>
-      <link>/publication/meyer-20151460/</link>
+      <link>/publication/2015-01-01_pyrosequencing_and_d/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/meyer-20151460/</guid>
+      <guid>/publication/2015-01-01_pyrosequencing_and_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeClip: Pathway analysis for time course data without replicates</title>
+      <link>/publication/2014-01-01_timeclip_pathway_ana/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_timeclip_pathway_ana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tissue-specific expression and regulatory networks of pig microRNAome</title>
-      <link>/publication/martini-2014/</link>
+      <link>/publication/2014-01-01_tissue-specific_expr/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2014/</guid>
+      <guid>/publication/2014-01-01_tissue-specific_expr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wiring miRNAs to pathways: A topological approach to integrate miRNA and mRNA expression profiles</title>
-      <link>/publication/calura-2014/</link>
+      <link>/publication/2014-01-01_wiring_mirnas_to_pat/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2014/</guid>
+      <guid>/publication/2014-01-01_wiring_mirnas_to_pat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Along signal paths: An empirical gene set approach exploiting pathway topology</title>
-      <link>/publication/martini-2013/</link>
+      <link>/publication/2013-01-01_along_signal_paths_a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2013/</guid>
+      <guid>/publication/2013-01-01_along_signal_paths_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphite Web: Web tool for gene set analysis exploiting pathway topology.</title>
-      <link>/publication/sales-2013-w-89/</link>
+      <link>/publication/2013-01-01_graphite_web_web_too/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2013-w-89/</guid>
+      <guid>/publication/2013-01-01_graphite_web_web_too/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
-      <link>/publication/calura-20134114/</link>
+      <link>/publication/2013-01-01_mirna_landscape_in_s/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20134114/</guid>
+      <guid>/publication/2013-01-01_mirna_landscape_in_s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems biology approach to the dissection of the complexity of regulatory networks in the S. scrofa cardiocirculatory system</title>
-      <link>/publication/martini-201323160/</link>
+      <link>/publication/2013-01-01_systems_biology_appr/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-201323160/</guid>
+      <guid>/publication/2013-01-01_systems_biology_appr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Test of Expression Pattern (STEPath): A new strategy to integrate gene expression data with genomic information in individual and meta-analysis studies</title>
-      <link>/publication/martini-2011/</link>
+      <link>/publication/2011-01-01_statistical_test_of_/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2011/</guid>
+      <guid>/publication/2011-01-01_statistical_test_of_/</guid>
       <description></description>
     </item>
     

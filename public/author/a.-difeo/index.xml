@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A. DiFeo | Romualdi Lab</title>
+    <title>A. Difeo | Romualdi Lab</title>
     <link>/author/a.-difeo/</link>
       <atom:link href="/author/a.-difeo/index.xml" rel="self" type="application/rss+xml" />
-    <description>A. DiFeo</description>
+    <description>A. Difeo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>A. DiFeo</title>
+      <title>A. Difeo</title>
       <link>/author/a.-difeo/</link>
     </image>
     
     <item>
       <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
-      <link>/publication/calura-20161511/</link>
+      <link>/publication/2016-01-01_a_prognostic_regulat/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20161511/</guid>
+      <guid>/publication/2016-01-01_a_prognostic_regulat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of high-grade serous ovarian cancer miRNA species associated with survival and drug response in patients receiving neoadjuvant chemotherapy: A retrospective longitudinal analysis using matched tumor biopsies</title>
-      <link>/publication/petrillo-2016625/</link>
+      <link>/publication/2016-01-01_identification_of_hi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/petrillo-2016625/</guid>
+      <guid>/publication/2016-01-01_identification_of_hi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MicroRNA-181a has a critical role in ovarian cancer progression through the regulation of the epithelial-mesenchymal transition</title>
-      <link>/publication/parikh-2014/</link>
+      <link>/publication/2014-01-01_microrna-181a_has_a_/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/parikh-2014/</guid>
+      <guid>/publication/2014-01-01_microrna-181a_has_a_/</guid>
       <description></description>
     </item>
     

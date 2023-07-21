@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>N. De Stefano | Romualdi Lab</title>
+    <title>N. {De Stefano} | Romualdi Lab</title>
     <link>/author/n.-de-stefano/</link>
       <atom:link href="/author/n.-de-stefano/index.xml" rel="self" type="application/rss+xml" />
-    <description>N. De Stefano</description>
+    <description>N. {De Stefano}</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>N. De Stefano</title>
+      <title>N. {De Stefano}</title>
       <link>/author/n.-de-stefano/</link>
     </image>
     
     <item>
       <title>Detection of cortical inflammatory lesions by double inversion recovery magnetic resonance imaging in patients with multiple sclerosis</title>
-      <link>/publication/calabrese-20071416/</link>
+      <link>/publication/2007-01-01_detection_of_cortica/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>/publication/calabrese-20071416/</guid>
+      <guid>/publication/2007-01-01_detection_of_cortica/</guid>
       <description></description>
     </item>
     

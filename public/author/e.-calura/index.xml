@@ -5,12 +5,20 @@
     <link>/author/e.-calura/</link>
       <atom:link href="/author/e.-calura/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Calura</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>E. Calura</title>
       <link>/author/e.-calura/</link>
     </image>
+    
+    <item>
+      <title>A comprehensive investigation of histotype-specific microRNA and their variants in Stage I epithelial ovarian cancers</title>
+      <link>/publication/2023-01-01_a_comprehensive_inve/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_a_comprehensive_inve/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Copy number alterations in stage I epithelial ovarian cancer highlight three genomic patterns associated with prognosis</title>
@@ -21,218 +29,242 @@
     </item>
     
     <item>
+      <title>miRNA bioinformatics and pathway analysis</title>
+      <link>/publication/2022-01-01_mirna_bioinformatics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_mirna_bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional and temporal heterogeneity of epithelial ovarian cancer tumor biopsies: implications for therapeutic strategies</title>
+      <link>/publication/2021-01-01_regional_and_tempora/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_regional_and_tempora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Editorial: Multi-omic Data Integration in Oncology</title>
-      <link>/publication/finotello-2020/</link>
+      <link>/publication/2020-01-01_editorial_multi-omic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/finotello-2020/</guid>
+      <guid>/publication/2020-01-01_editorial_multi-omic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
-      <link>/publication/benvenuto-2020565/</link>
+      <link>/publication/2020-01-01_expression_profiles_/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/benvenuto-2020565/</guid>
+      <guid>/publication/2020-01-01_expression_profiles_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Individual Radiosensitivity in Oncological Patients: Linking Adverse Normal Tissue Reactions and Genetic Features</title>
-      <link>/publication/palumbo-2019/</link>
+      <link>/publication/2019-01-01_individual_radiosens/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/palumbo-2019/</guid>
+      <guid>/publication/2019-01-01_individual_radiosens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta Graphite-a new layer of pathway annotation to get metabolite networks</title>
-      <link>/publication/sales-20191258/</link>
+      <link>/publication/2019-01-01_meta_graphite-a_new_/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-20191258/</guid>
+      <guid>/publication/2019-01-01_meta_graphite-a_new_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOSClip: multi-omic and survival pathway analysis for the identification of survival associated gene and modules</title>
-      <link>/publication/martini-2019-e-80/</link>
+      <link>/publication/2019-01-01_mosclip_multi-omic_a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2019-e-80/</guid>
+      <guid>/publication/2019-01-01_mosclip_multi-omic_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
-      <link>/publication/ballabio-20192670/</link>
+      <link>/publication/2019-01-01_multisite_analysis_o/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ballabio-20192670/</guid>
+      <guid>/publication/2019-01-01_multisite_analysis_o/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transcriptional Characterization of Stage I Epithelial Ovarian Cancer: A Multicentric Study</title>
-      <link>/publication/calura-2019/</link>
+      <title>Transcriptional characterization of stage i epithelial ovarian cancer: A multicentric study</title>
+      <link>/publication/2019-01-01_transcriptional_char/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2019/</guid>
+      <guid>/publication/2019-01-01_transcriptional_char/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcriptome profiles of human visceral adipocytes in obesity and colorectal cancer unravel the effects of body mass index and polyunsaturated fatty acids on genes and biological process related to tumorigenesis</title>
-      <link>/publication/corno-2019/</link>
+      <link>/publication/2019-01-01_transcriptome_profil/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/corno-2019/</guid>
+      <guid>/publication/2019-01-01_transcriptome_profil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
-      <link>/publication/todeschini-2017320/</link>
+      <link>/publication/2017-01-01_circulating_mirna_la/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/todeschini-2017320/</guid>
+      <guid>/publication/2017-01-01_circulating_mirna_la/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KrillDB: A de novo transcriptome database for the Antarctic krill (Euphausia superba)</title>
-      <link>/publication/sales-2017/</link>
+      <link>/publication/2017-01-01_krilldb_a_de_novo_tr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2017/</guid>
+      <guid>/publication/2017-01-01_krilldb_a_de_novo_tr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
-      <link>/publication/martini-20172356/</link>
+      <link>/publication/2017-01-01_lncrnas_as_novel_ind/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-20172356/</guid>
+      <guid>/publication/2017-01-01_lncrnas_as_novel_ind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A data-driven network model of primary myelofibrosis: Transcriptional and post-transcriptional alterations in CD34&#43; cells</title>
-      <link>/publication/calura-2016/</link>
+      <link>/publication/2016-01-01_a_data-driven_networ/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2016/</guid>
+      <guid>/publication/2016-01-01_a_data-driven_networ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
-      <link>/publication/calura-20161511/</link>
+      <link>/publication/2016-01-01_a_prognostic_regulat/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20161511/</guid>
+      <guid>/publication/2016-01-01_a_prognostic_regulat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling the microRNA regulatory milieu in multiple myeloma: Integrative genomics analysis outlines mixed miRNATF circuits and pathway-derived networks modulated in t(4;14) patients</title>
-      <link>/publication/calura-20162367/</link>
+      <link>/publication/2016-01-01_disentangling_the_mi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20162367/</guid>
+      <guid>/publication/2016-01-01_disentangling_the_mi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing: A retrospective study</title>
-      <link>/publication/beltrame-20151363/</link>
+      <link>/publication/2015-01-01_profiling_cancer_gen/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/beltrame-20151363/</guid>
+      <guid>/publication/2015-01-01_profiling_cancer_gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of differential miRNA expression in primary tumor and stroma of colorectal cancer patients</title>
-      <link>/publication/della-vittoria-scarpati-2014/</link>
+      <link>/publication/2014-01-01_analysis_of_differen/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/della-vittoria-scarpati-2014/</guid>
+      <guid>/publication/2014-01-01_analysis_of_differen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration analysis of MicroRNA and mRNA expression profiles in human peripheral blood lymphocytes cultured in modeled microgravity</title>
-      <link>/publication/girardi-2014/</link>
+      <link>/publication/2014-01-01_integration_analysis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/girardi-2014/</guid>
+      <guid>/publication/2014-01-01_integration_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeClip: Pathway analysis for time course data without replicates</title>
+      <link>/publication/2014-01-01_timeclip_pathway_ana/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_timeclip_pathway_ana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wiring miRNAs to pathways: A topological approach to integrate miRNA and mRNA expression profiles</title>
-      <link>/publication/calura-2014/</link>
+      <link>/publication/2014-01-01_wiring_mirnas_to_pat/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2014/</guid>
+      <guid>/publication/2014-01-01_wiring_mirnas_to_pat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphite Web: Web tool for gene set analysis exploiting pathway topology.</title>
-      <link>/publication/sales-2013-w-89/</link>
+      <link>/publication/2013-01-01_graphite_web_web_too/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2013-w-89/</guid>
+      <guid>/publication/2013-01-01_graphite_web_web_too/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
-      <link>/publication/calura-20134114/</link>
+      <link>/publication/2013-01-01_mirna_landscape_in_s/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20134114/</guid>
+      <guid>/publication/2013-01-01_mirna_landscape_in_s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems biology approach to the dissection of the complexity of regulatory networks in the S. scrofa cardiocirculatory system</title>
-      <link>/publication/martini-201323160/</link>
+      <link>/publication/2013-01-01_systems_biology_appr/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-201323160/</guid>
+      <guid>/publication/2013-01-01_systems_biology_appr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systems biology approach to characterize the regulatory networks leading to trabectedin resistance in an in vitro model of myxoid liposarcoma</title>
-      <link>/publication/uboldi-2012/</link>
+      <link>/publication/2012-01-01_a_systems_biology_ap/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/uboldi-2012/</guid>
+      <guid>/publication/2012-01-01_a_systems_biology_ap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphite - a Bioconductor package to convert pathway topology to gene network</title>
-      <link>/publication/sales-2012/</link>
+      <link>/publication/2012-01-01_graphite_-_a_biocond/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2012/</guid>
+      <guid>/publication/2012-01-01_graphite_-_a_biocond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between miR-200c and the survival of patients with stage I epithelial ovarian cancer: A retrospective study of two independent tumour tissue collections</title>
-      <link>/publication/marchini-2011273/</link>
+      <link>/publication/2011-01-01_association_between_/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/marchini-2011273/</guid>
+      <guid>/publication/2011-01-01_association_between_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The biological Connection Markup Language: A SBGN-compliant format for visualization, filtering and analysis of biological pathways</title>
-      <link>/publication/beltrame-20112127/</link>
+      <link>/publication/2011-01-01_the_biological_conne/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/beltrame-20112127/</guid>
+      <guid>/publication/2011-01-01_the_biological_conne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filling gaps in PPAR-alpha signaling through comparative nutrigenomics analysis</title>
-      <link>/publication/cavalieri-2009/</link>
+      <link>/publication/2009-01-01_filling_gaps_in_ppar/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/cavalieri-2009/</guid>
+      <guid>/publication/2009-01-01_filling_gaps_in_ppar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meta-analysis of expression signatures of muscle atrophy: Gene interaction networks in early and late stages</title>
-      <link>/publication/calura-2008/</link>
+      <link>/publication/2008-01-01_meta-analysis_of_exp/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2008/</guid>
+      <guid>/publication/2008-01-01_meta-analysis_of_exp/</guid>
       <description></description>
     </item>
     

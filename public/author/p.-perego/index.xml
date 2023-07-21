@@ -5,7 +5,7 @@
     <link>/author/p.-perego/</link>
       <atom:link href="/author/p.-perego/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Perego</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>P. Perego</title>
@@ -13,42 +13,50 @@
     </image>
     
     <item>
+      <title>Regional and temporal heterogeneity of epithelial ovarian cancer tumor biopsies: implications for therapeutic strategies</title>
+      <link>/publication/2021-01-01_regional_and_tempora/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_regional_and_tempora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
-      <link>/publication/benvenuto-2020565/</link>
+      <link>/publication/2020-01-01_expression_profiles_/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/benvenuto-2020565/</guid>
+      <guid>/publication/2020-01-01_expression_profiles_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
-      <link>/publication/martini-20172356/</link>
+      <link>/publication/2017-01-01_lncrnas_as_novel_ind/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-20172356/</guid>
+      <guid>/publication/2017-01-01_lncrnas_as_novel_ind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing: A retrospective study</title>
-      <link>/publication/beltrame-20151363/</link>
+      <link>/publication/2015-01-01_profiling_cancer_gen/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/beltrame-20151363/</guid>
+      <guid>/publication/2015-01-01_profiling_cancer_gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
-      <link>/publication/calura-20134114/</link>
+      <link>/publication/2013-01-01_mirna_landscape_in_s/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20134114/</guid>
+      <guid>/publication/2013-01-01_mirna_landscape_in_s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Association between miR-200c and the survival of patients with stage I epithelial ovarian cancer: A retrospective study of two independent tumour tissue collections</title>
-      <link>/publication/marchini-2011273/</link>
+      <link>/publication/2011-01-01_association_between_/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/marchini-2011273/</guid>
+      <guid>/publication/2011-01-01_association_between_/</guid>
       <description></description>
     </item>
     

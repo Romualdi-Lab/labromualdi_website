@@ -21,50 +21,58 @@
     </item>
     
     <item>
+      <title>PsiNorm: a scalable normalization for single-cell RNA-seq data</title>
+      <link>/publication/2022-01-01_psinorm_a_scalable_n/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_psinorm_a_scalable_n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Assessment of statistical methods from single cell, bulk RNA-seq, and metagenomics applied to microbiome data</title>
-      <link>/publication/calgaro-2020/</link>
+      <link>/publication/2020-01-01_assessment_of_statis/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/calgaro-2020/</guid>
+      <guid>/publication/2020-01-01_assessment_of_statis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editorial: Multi-omic Data Integration in Oncology</title>
-      <link>/publication/finotello-2020/</link>
+      <link>/publication/2020-01-01_editorial_multi-omic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/finotello-2020/</guid>
+      <guid>/publication/2020-01-01_editorial_multi-omic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistical Test of Expression Pattern (STEPath): A new strategy to integrate gene expression data with genomic information in individual and meta-analysis studies</title>
-      <link>/publication/martini-2011/</link>
+      <link>/publication/2011-01-01_statistical_test_of_/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2011/</guid>
+      <guid>/publication/2011-01-01_statistical_test_of_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparison on effects of normalisations in the detection of differentially expressed genes</title>
-      <link>/publication/chiogna-2009/</link>
+      <link>/publication/2009-01-01_a_comparison_on_effe/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/chiogna-2009/</guid>
+      <guid>/publication/2009-01-01_a_comparison_on_effe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A modified LOESS normalization applied to microRNA arrays: A comparative evaluation</title>
-      <link>/publication/risso-20092685/</link>
+      <link>/publication/2009-01-01_a_modified_loess_nor/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/risso-20092685/</guid>
+      <guid>/publication/2009-01-01_a_modified_loess_nor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A-MADMAN: Annotation-based microarray data meta-analysis tool</title>
-      <link>/publication/bisognin-2009/</link>
+      <link>/publication/2009-01-01_a-madman_annotation-/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/bisognin-2009/</guid>
+      <guid>/publication/2009-01-01_a-madman_annotation-/</guid>
       <description></description>
     </item>
     

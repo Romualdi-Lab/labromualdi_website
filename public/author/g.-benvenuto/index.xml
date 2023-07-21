@@ -5,7 +5,7 @@
     <link>/author/g.-benvenuto/</link>
       <atom:link href="/author/g.-benvenuto/index.xml" rel="self" type="application/rss+xml" />
     <description>G. Benvenuto</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>G. Benvenuto</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
-      <link>/publication/benvenuto-2020565/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/benvenuto-2020565/</guid>
+      <title>Genome-wide profiling of patient-derived glioblastoma stem-like cells reveals recurrent genetic and transcriptomic signatures associated with brain tumors</title>
+      <link>/publication/2023-01-01_genome-wide_profilin/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-01-01_genome-wide_profilin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Transcriptional Characterization of Stage I Epithelial Ovarian Cancer: A Multicentric Study</title>
-      <link>/publication/calura-2019/</link>
+      <title>MicroRNA expression profiling with a droplet digital PCR assay enables molecular diagnosis and prognosis of cancers of unknown primary</title>
+      <link>/publication/2021-01-01_microrna_expression_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_microrna_expression_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
+      <link>/publication/2020-01-01_expression_profiles_/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-01_expression_profiles_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional characterization of stage i epithelial ovarian cancer: A multicentric study</title>
+      <link>/publication/2019-01-01_transcriptional_char/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2019/</guid>
+      <guid>/publication/2019-01-01_transcriptional_char/</guid>
       <description></description>
     </item>
     

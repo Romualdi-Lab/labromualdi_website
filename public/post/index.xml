@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Research Projects</title>
@@ -13,21 +13,30 @@
     </image>
     
     <item>
-      <title>Our new paper on CNV alterations in ctDNA  in high grade serous ovarian cancer is out !</title>
-      <link>/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Our new paper on genome-wide copy number alterations in ctDNA as a promising biomarker in high grade serous ovarian cancer.&lt;/p&gt;</description>
+      <title>Our new R package gINTomics is on GitHub</title>
+      <link>/post/gintomics/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/post/gintomics/</guid>
+      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it on git! &lt;a href=&#34;https://github.com/angelovelle96/gINTomics&#34;&gt;https://github.com/angelovelle96/gINTomics&lt;/a&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Our tool MOSCLIP is out on NAR</title>
-      <link>/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Our new method for multi-omic data integration in the framework of pathway analysis has been accepted on NAR and the journal dedicated the cover of the August issue to our tool  !
-&lt;img align=&#39;left&#39; alt = &#39;mosclip&#39; width=&#39;200&#39; src=&#39;/media/mosclip.jpg&#39;&gt;&lt;/p&gt;
-&lt;p&gt;Try it on git ! &lt;a href=&#34;https://github.com/cavei/MOSClip&#34;&gt;https://github.com/cavei/MOSClip&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Our new paper on isomiRs expression in Stage I Ovarian Cancer is out !</title>
+      <link>/post/isomirs/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/post/isomirs/</guid>
+      <description>&lt;p&gt;Our work represents the first attempt to characterize isomiRs expression in Stage I EOC within and across subtypes and to contextualize their alterations in the framework of the large genomic heterogeneity of this tumor.
+&lt;a href=&#34;https://doi.org/10.1002/ijc.34408&#34;&gt;https://doi.org/10.1002/ijc.34408&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our new paper on CNV patterns in Stage I Ovarian Cancer is out !</title>
+      <link>/post/scna_patterns/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/post/scna_patterns/</guid>
+      <description>&lt;p&gt;In this work we show that novel molecular markers, in this case genomic instability patterns, can anticipate the behavior of stage I EOC regardless of tumor subtype and provide valuable prognostic information.&lt;br&gt;
+&lt;a href=&#34;https://doi.org/10.1016/j.ejca.2022.05.005&#34;&gt;https://doi.org/10.1016/j.ejca.2022.05.005&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

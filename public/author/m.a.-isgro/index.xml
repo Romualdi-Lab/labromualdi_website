@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M.A. Isgrò | Romualdi Lab</title>
+    <title>M.A. Isgro | Romualdi Lab</title>
     <link>/author/m.a.-isgro/</link>
       <atom:link href="/author/m.a.-isgro/index.xml" rel="self" type="application/rss+xml" />
-    <description>M.A. Isgrò</description>
+    <description>M.A. Isgro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>M.A. Isgrò</title>
+      <title>M.A. Isgro</title>
       <link>/author/m.a.-isgro/</link>
     </image>
     
     <item>
       <title>A data-driven network model of primary myelofibrosis: Transcriptional and post-transcriptional alterations in CD34&#43; cells</title>
-      <link>/publication/calura-2016/</link>
+      <link>/publication/2016-01-01_a_data-driven_networ/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2016/</guid>
+      <guid>/publication/2016-01-01_a_data-driven_networ/</guid>
       <description></description>
     </item>
     

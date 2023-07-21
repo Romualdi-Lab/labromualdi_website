@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>V. Djordjilović | Romualdi Lab</title>
+    <title>V. Djordjilovic | Romualdi Lab</title>
     <link>/author/v.-djordjilovic/</link>
       <atom:link href="/author/v.-djordjilovic/index.xml" rel="self" type="application/rss+xml" />
-    <description>V. Djordjilović</description>
+    <description>V. Djordjilovic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
-      <title>V. Djordjilović</title>
+      <title>V. Djordjilovic</title>
       <link>/author/v.-djordjilovic/</link>
     </image>
     
     <item>
       <title>Searching for the Source of Difference: A Graphical Model Approach</title>
-      <link>/publication/djordjilovic-2020131/</link>
+      <link>/publication/2020-01-01_searching_for_the_so/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/djordjilovic-2020131/</guid>
+      <guid>/publication/2020-01-01_searching_for_the_so/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating gene silencing through intervention analysis</title>
-      <link>/publication/djordjilovic-2020887/</link>
+      <link>/publication/2020-01-01_simulating_gene_sile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/djordjilovic-2020887/</guid>
+      <guid>/publication/2020-01-01_simulating_gene_sile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways</title>
-      <link>/publication/salviato-2019/</link>
+      <link>/publication/2019-01-01_sourceset_a_graphica/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/salviato-2019/</guid>
+      <guid>/publication/2019-01-01_sourceset_a_graphica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SimPATHy: A new method for simulating data from perturbed biological PATHways</title>
-      <link>/publication/salviato-2017456/</link>
+      <link>/publication/2017-01-01_simpathy_a_new_metho/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/salviato-2017456/</guid>
+      <guid>/publication/2017-01-01_simpathy_a_new_metho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphical modeling for gene set analysis: A critical appraisal</title>
-      <link>/publication/djordjilovic-2015852/</link>
+      <link>/publication/2015-01-01_graphical_modeling_f/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/djordjilovic-2015852/</guid>
+      <guid>/publication/2015-01-01_graphical_modeling_f/</guid>
       <description></description>
     </item>
     

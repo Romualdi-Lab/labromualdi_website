@@ -5,7 +5,7 @@
     <link>/author/e.-sartori/</link>
       <atom:link href="/author/e.-sartori/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Sartori</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>E. Sartori</title>
@@ -13,50 +13,58 @@
     </image>
     
     <item>
+      <title>Comprehensive profiling of hypoxia-related mirnas identifies mir-23a-3p overexpression as a marker of platinum resistance and poor prognosis in high-grade serous ovarian cancer</title>
+      <link>/publication/2021-01-01_comprehensive_profil/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_comprehensive_profil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Expression profiles of PRKG1, SDF2L1 and PPP1R12A are predictive and prognostic factors for therapy response and survival in high-grade serous ovarian cancer</title>
-      <link>/publication/benvenuto-2020565/</link>
+      <link>/publication/2020-01-01_expression_profiles_/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/benvenuto-2020565/</guid>
+      <guid>/publication/2020-01-01_expression_profiles_/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FXYD5 (Dysadherin) upregulation predicts shorter survival and reveals platinum resistance in high-grade serous ovarian cancer patients</title>
-      <link>/publication/tassi-2019584/</link>
+      <link>/publication/2019-01-01_fxyd5_dysadherin_u/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/tassi-2019584/</guid>
+      <guid>/publication/2019-01-01_fxyd5_dysadherin_u/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
-      <link>/publication/todeschini-2017320/</link>
+      <link>/publication/2017-01-01_circulating_mirna_la/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/todeschini-2017320/</guid>
+      <guid>/publication/2017-01-01_circulating_mirna_la/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
-      <link>/publication/martini-20172356/</link>
+      <link>/publication/2017-01-01_lncrnas_as_novel_ind/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-20172356/</guid>
+      <guid>/publication/2017-01-01_lncrnas_as_novel_ind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A prognostic regulatory pathway in stage I epithelial ovarian cancer: New hints for the poor prognosis assessment</title>
-      <link>/publication/calura-20161511/</link>
+      <link>/publication/2016-01-01_a_prognostic_regulat/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20161511/</guid>
+      <guid>/publication/2016-01-01_a_prognostic_regulat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MiRNA landscape in stage i epithelial ovarian cancer defines the histotype specificities</title>
-      <link>/publication/calura-20134114/</link>
+      <link>/publication/2013-01-01_mirna_landscape_in_s/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20134114/</guid>
+      <guid>/publication/2013-01-01_mirna_landscape_in_s/</guid>
       <description></description>
     </item>
     

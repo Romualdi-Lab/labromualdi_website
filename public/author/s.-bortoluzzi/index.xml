@@ -5,7 +5,7 @@
     <link>/author/s.-bortoluzzi/</link>
       <atom:link href="/author/s.-bortoluzzi/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Bortoluzzi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>S. Bortoluzzi</title>
@@ -13,114 +13,122 @@
     </image>
     
     <item>
+      <title>Detecting differentially expressed circular RNAs from multiple quantification methods using a generalized linear mixed model</title>
+      <link>/publication/2022-01-01_detecting_differenti/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-01-01_detecting_differenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A data-driven network model of primary myelofibrosis: Transcriptional and post-transcriptional alterations in CD34&#43; cells</title>
-      <link>/publication/calura-2016/</link>
+      <link>/publication/2016-01-01_a_data-driven_networ/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-2016/</guid>
+      <guid>/publication/2016-01-01_a_data-driven_networ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling the microRNA regulatory milieu in multiple myeloma: Integrative genomics analysis outlines mixed miRNATF circuits and pathway-derived networks modulated in t(4;14) patients</title>
-      <link>/publication/calura-20162367/</link>
+      <link>/publication/2016-01-01_disentangling_the_mi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/calura-20162367/</guid>
+      <guid>/publication/2016-01-01_disentangling_the_mi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAGIA2: From miRNA and genes expression data integrative analysis to microRNA-transcription factor mixed regulatory circuits (2012 update)</title>
-      <link>/publication/bisognin-2012-w-13/</link>
+      <link>/publication/2012-01-01_magia2_from_mirna_an/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/bisognin-2012-w-13/</guid>
+      <guid>/publication/2012-01-01_magia2_from_mirna_an/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of host genes and strand selection on miRNA and miRNA* expression</title>
-      <link>/publication/biasiolo-2011/</link>
+      <link>/publication/2011-01-01_impact_of_host_genes/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/biasiolo-2011/</guid>
+      <guid>/publication/2011-01-01_impact_of_host_genes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of probe annotation on the integration of miRNA-mRNA expression profiles for miRNA target detection</title>
-      <link>/publication/sales-2010/</link>
+      <link>/publication/2010-01-01_impact_of_probe_anno/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2010/</guid>
+      <guid>/publication/2010-01-01_impact_of_probe_anno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magia, a web-based tool for miRNA and genes integrated analysis</title>
-      <link>/publication/sales-2010-w-352/</link>
+      <link>/publication/2010-01-01_magia_a_web-based_t/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/sales-2010-w-352/</guid>
+      <guid>/publication/2010-01-01_magia_a_web-based_t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A-MADMAN: Annotation-based microarray data meta-analysis tool</title>
-      <link>/publication/bisognin-2009/</link>
+      <link>/publication/2009-01-01_a-madman_annotation-/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/bisognin-2009/</guid>
+      <guid>/publication/2009-01-01_a-madman_annotation-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defining the gene expression signature of rhabdomyosarcoma by meta-analysis</title>
-      <link>/publication/romualdi-2006/</link>
+      <link>/publication/2006-01-01_defining_the_gene_ex/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2006/</guid>
+      <guid>/publication/2006-01-01_defining_the_gene_ex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel genes, possibly relevant for molecular diagnosis or therapy of human rhabdomyosarcoma, detected by genomic expression profiling</title>
-      <link>/publication/bortoluzzi-200565/</link>
+      <link>/publication/2005-01-01_novel_genes_possibl/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>/publication/bortoluzzi-200565/</guid>
+      <guid>/publication/2005-01-01_novel_genes_possibl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disease genes and intracellular protein networks</title>
-      <link>/publication/bortoluzzi-2004223/</link>
+      <link>/publication/2004-01-01_disease_genes_and_in/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>/publication/bortoluzzi-2004223/</guid>
+      <guid>/publication/2004-01-01_disease_genes_and_in/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IDEG6: A web tool for detection of differentially expressed genes in multiple tag sampling experiments</title>
-      <link>/publication/romualdi-2003159/</link>
+      <link>/publication/2003-01-01_ideg6_a_web_tool_for/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-2003159/</guid>
+      <guid>/publication/2003-01-01_ideg6_a_web_tool_for/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential expression of genes coding of ribosomal proteins in different human tissues</title>
-      <link>/publication/bortoluzzi-20021152/</link>
+      <link>/publication/2002-01-01_differential_express/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>/publication/bortoluzzi-20021152/</guid>
+      <guid>/publication/2002-01-01_differential_express/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting differentially expressed genes in multiple tag sampling experiments: Comparative evaluation of statistical tests</title>
-      <link>/publication/romualdi-20012133/</link>
+      <link>/publication/2001-01-01_detecting_differenti/</link>
       <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
-      <guid>/publication/romualdi-20012133/</guid>
+      <guid>/publication/2001-01-01_detecting_differenti/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The human adult skeletal muscle transcriptional profile reconstructed by a novel computational approach</title>
-      <link>/publication/bortoluzzi-2000344/</link>
+      <link>/publication/2000-01-01_the_human_adult_skel/</link>
       <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
-      <guid>/publication/bortoluzzi-2000344/</guid>
+      <guid>/publication/2000-01-01_the_human_adult_skel/</guid>
       <description></description>
     </item>
     

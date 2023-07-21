@@ -14,81 +14,89 @@
     
     <item>
       <title>Searching for the Source of Difference: A Graphical Model Approach</title>
-      <link>/publication/djordjilovic-2020131/</link>
+      <link>/publication/2020-01-01_searching_for_the_so/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/djordjilovic-2020131/</guid>
+      <guid>/publication/2020-01-01_searching_for_the_so/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulating gene silencing through intervention analysis</title>
-      <link>/publication/djordjilovic-2020887/</link>
+      <link>/publication/2020-01-01_simulating_gene_sile/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/djordjilovic-2020887/</guid>
+      <guid>/publication/2020-01-01_simulating_gene_sile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MOSClip: multi-omic and survival pathway analysis for the identification of survival associated gene and modules</title>
-      <link>/publication/martini-2019-e-80/</link>
+      <link>/publication/2019-01-01_mosclip_multi-omic_a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2019-e-80/</guid>
+      <guid>/publication/2019-01-01_mosclip_multi-omic_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SourceSet: A graphical model approach to identify primary genes in perturbed biological pathways</title>
-      <link>/publication/salviato-2019/</link>
+      <link>/publication/2019-01-01_sourceset_a_graphica/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/salviato-2019/</guid>
+      <guid>/publication/2019-01-01_sourceset_a_graphica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SimPATHy: A new method for simulating data from perturbed biological PATHways</title>
-      <link>/publication/salviato-2017456/</link>
+      <link>/publication/2017-01-01_simpathy_a_new_metho/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/salviato-2017456/</guid>
+      <guid>/publication/2017-01-01_simpathy_a_new_metho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphical modeling for gene set analysis: A critical appraisal</title>
-      <link>/publication/djordjilovic-2015852/</link>
+      <link>/publication/2015-01-01_graphical_modeling_f/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/djordjilovic-2015852/</guid>
+      <guid>/publication/2015-01-01_graphical_modeling_f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeClip: Pathway analysis for time course data without replicates</title>
+      <link>/publication/2014-01-01_timeclip_pathway_ana/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-01-01_timeclip_pathway_ana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Along signal paths: An empirical gene set approach exploiting pathway topology</title>
-      <link>/publication/martini-2013/</link>
+      <link>/publication/2013-01-01_along_signal_paths_a/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-2013/</guid>
+      <guid>/publication/2013-01-01_along_signal_paths_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene set analysis exploiting the topology of a pathway</title>
-      <link>/publication/massa-2010/</link>
+      <link>/publication/2010-01-01_gene_set_analysis_ex/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication/massa-2010/</guid>
+      <guid>/publication/2010-01-01_gene_set_analysis_ex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparison on effects of normalisations in the detection of differentially expressed genes</title>
-      <link>/publication/chiogna-2009/</link>
+      <link>/publication/2009-01-01_a_comparison_on_effe/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/chiogna-2009/</guid>
+      <guid>/publication/2009-01-01_a_comparison_on_effe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A modified LOESS normalization applied to microRNA arrays: A comparative evaluation</title>
-      <link>/publication/risso-20092685/</link>
+      <link>/publication/2009-01-01_a_modified_loess_nor/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/risso-20092685/</guid>
+      <guid>/publication/2009-01-01_a_modified_loess_nor/</guid>
       <description></description>
     </item>
     

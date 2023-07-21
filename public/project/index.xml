@@ -5,7 +5,7 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 06 Dec 2019 16:17:20 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,117 +13,32 @@
     </image>
     
     <item>
-      <title>kakashi</title>
-      <link>/project/kakashi/</link>
-      <pubDate>Fri, 06 Dec 2019 16:17:20 -0800</pubDate>
-      <guid>/project/kakashi/</guid>
-      <description>&lt;p&gt;kakashi is a theme for the &lt;a href=&#34;https://github.com/yihui/xaringan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xaringan R package&lt;/a&gt; for making slides. kakashi has a clean look with color-blind friendly palettes. Marking text as italics (*) will turn it blue, bold (**) will turn it orange, and striking out (~~) will turn it grey. kakashi copies ideas from many other themes, including metropolis and lucy, but is ultimately unique. That is why this CSS (copy shinobi style) is called kakashi, &lt;a href=&#34;https://www.wikiwand.com/en/Kakashi_Hatake&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;after the copy ninja&lt;/a&gt;.&lt;/p&gt;
+      <title>Benchmarking</title>
+      <link>/project/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/methods/</guid>
+      <description>
+
+
+&lt;p&gt;In bioinformatics tools benchmarking, accuracy, performance, and reliability are put to the test to ensure the optimal selection and utilization of tools in the realm of biological data analysis. In this dynamic field, we delve into the rigorous evaluation and comparison of bioinformatics and statistical tools to empower researchers with the best solutions for their specific analytical needs.&lt;/p&gt;
+&lt;p&gt;Benchmarking plays a pivotal role in assessing the strengths and limitations of various software, algorithms, and pipelines used to process and interpret biological data. As the volume and complexity of biological datasets continue to grow, selecting the most suitable tools becomes increasingly critical to derive meaningful insights and drive impactful discoveries.&lt;/p&gt;
+&lt;p&gt;Benchmarking process involves subjecting tools to a series of standardized tests and simulations using both simulated and real-world datasets. Key performance metrics, such as accuracy, sensitivity, specificity, runtime, memory usage, and scalability, are meticulously evaluated to gauge the tool’s effectiveness and efficiency under different conditions and datasets.&lt;/p&gt;
+&lt;p&gt;This rigorous evaluation not only facilitates the identification of the most accurate and reliable tools but also highlights areas where improvements and optimizations may be needed. By providing an objective assessment of tool performance, benchmarking empowers researchers to make informed decisions and select the most appropriate tools for their specific research questions and datasets.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Causal Inference notebook</title>
-      <link>/project/causalinferencenotebook/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/causalinferencenotebook/</guid>
-      <description>&lt;p&gt;This notebook contains R code for part 2 of &lt;a href=&#34;https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causal Inference&lt;/a&gt; by Miguel Hernán and Jamie Robins. While R, SAS, Stata, and Python code are available on the website for Causal Inference, we focus on doing causal inference using the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt; ecosystem of R packages, particularly ggplot2, dplyr, and broom.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>epibot</title>
-      <link>/project/epibot/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/epibot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn purrr web app</title>
-      <link>/project/purrr_app/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/purrr_app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Los Angeles R Users Group</title>
-      <link>/project/larug/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/larug/</guid>
-      <description>&lt;p&gt;The Los Angeles R Users Group meets twice a month, one chapter on the Westside and one chapter on the Eastside, grown out of the efforts of &lt;a href=&#34;http://datascience.la/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Science LA&lt;/a&gt; and related groups. We are part of a larger community of R user groups in Southern California.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>precisely</title>
-      <link>/project/precisely/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/precisely/</guid>
-      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>precisely web app</title>
-      <link>/project/precisely_app/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/precisely_app/</guid>
-      <description>&lt;p&gt;precisely is a study planning tool to calculate sample size based on precision rather than power. Power calculations are focused on whether or not an estimate will be statistically significant; calculations of precision are based on the same prinicples as power calculation but turn the focus to the width of the confidence interval.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>causalpie</title>
-      <link>/project/causalpie/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/causalpie/</guid>
-      <description>&lt;p&gt;causalpie is an R package for creating tidy sufficient-component causal models. Create and analyze sufficient causes and plot them easily in ggplot2.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>dagtex</title>
-      <link>/project/dagtex/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/dagtex/</guid>
-      <description>&lt;p&gt;daxtex is a low-ish level package for making LaTeX DAGs in R. While dagtex will work as a standalone package, the longterm goal is to serve as a LaTeX backend for &lt;a href=&#34;https://ggdag.malco.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggdag&lt;/a&gt; objects.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ggdag</title>
-      <link>/project/ggdag/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/ggdag/</guid>
-      <description>&lt;p&gt;ggdag links the dagitty package, which contains powerful algorithms for analyzing causal DAGs, with the unlimited flexibility of ggplot2. ggdag coverts dagitty objects to a tidy DAG data structure, which allows you to both analyze your DAG and plot it easily in ggplot2.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>partition</title>
-      <link>/project/partition/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/partition/</guid>
-      <description>&lt;p&gt;partition is a fast and flexible framework for agglomerative partitioning. partition uses an approach called Direct-Measure-Reduce to create new variables that maintain the user-specified minimum level of information. Each reduced variable is also interpretable: the original variables map to one and only one variable in the reduced data set. partition is flexible, as well: how variables are selected to reduce, how information loss is measured, and the way data is reduced can all be customized.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>tidymeta</title>
-      <link>/project/tidymeta/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/tidymeta/</guid>
-      <description>&lt;p&gt;Tidy and plot meta-analyses from popular meta-analytic tools in R. Currently in early development.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ymlthis</title>
-      <link>/project/ymlthis/</link>
-      <pubDate>Wed, 09 Oct 2019 08:00:20 -0700</pubDate>
-      <guid>/project/ymlthis/</guid>
-      <description>&lt;p&gt;ymlthis is a package to help you write YAML metadata for R Markdown documents and related tools like blogdown, bookdown, and pkgdown. YAML serves two main roles: to pass information to be printed in the document, such as the title and author, and to control how the document is rendered, anything from the output type (HTML vs. PDF) and typesetting options to what should happen with files created while rendering.&lt;/p&gt;
+      <title>Multi-omics Integration</title>
+      <link>/project/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/methods/</guid>
+      <description>
+
+
+&lt;p&gt;The term “multi-omics integration” refers to the harmonious fusion of various high-throughput biological technologies, such as genomics, transcriptomics, epigenomics, proteomics, and metabolomics. By seamlessly integrating these diverse sources of biological information, researchers gain a holistic and multidimensional view of cellular processes, enabling a deeper comprehension of the intricate mechanisms that govern life.&lt;/p&gt;
+&lt;p&gt;The core principle of multi-omics integration lies in its ability to overcome the limitations of individual omics technologies. Each omics technique provides a unique perspective on biological phenomena, capturing distinct aspects of cellular activity. However, by combining datasets from multiple omics modalities, scientists can synergistically enrich their analyses, revealing novel relationships, regulatory networks, and molecular interactions that would remain concealed when studied in isolation.&lt;/p&gt;
+&lt;p&gt;As the amount of omics data continues to grow exponentially, the development of sophisticated computational and statistical methods becomes crucial in extracting meaningful insights from these vast datasets. Cutting-edge bioinformatics approaches, machine learning algorithms, and network-based analyses have emerged as indispensable tools for multi-omics integration, enabling researchers to identify hidden patterns, biomarkers, and potential therapeutic targets with unprecedented precision.&lt;/p&gt;
+&lt;p&gt;In the realm of biomedical research, multi-omics integration holds immense promise for understanding complex diseases, such as cancer, neurodegenerative disorders, and metabolic conditions. By combining genetic, epigenetic, transcriptional, and proteomic information from patient samples, researchers can unravel the intricate molecular underpinnings of disease development, enabling the development of personalized and targeted therapies.&lt;/p&gt;
 </description>
     </item>
     
@@ -135,9 +50,42 @@
       <description>
 
 
-&lt;p&gt;Genomic and transcriptomic landscape of early stage epithelial ovarian cancer&lt;/p&gt;
-&lt;p&gt;Stage I epithelial ovarian cancer (EOC with tumor confined to the ovary) represents about 10% of all EOCs and is characterized by good prognosis. Patients are treated with upfront surgery removing the tumor without leaving residual disease, however approximately 20% of them relapse with incurable disease. Thus, the identification of the cell mechanisms involved in tumour progression and the definition of new biomarkers is an urgent need. Better prognostic parameters will allow a more targeted selection of patients for postsurgical adjuvant chemotherapy avoiding unnecessary overtreatment to those patients who presumably will not relapse after surgical removal of the tumour. However, as it occurs less frequently than advanced-stage EOC, stage I EOC molecular features have not been thoroughly investigated.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genomic and transcriptomic landscape of epithelial ovarian cancer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Epithelial ovarian cancer (EOC) arises from the epithelial cells that line the surface of the ovaries. It is the most common type of ovarian cancer and is known for its insidious nature, often remaining asymptomatic until it reaches more advanced stages.&lt;/p&gt;
+&lt;p&gt;Stage I epithelial ovarian cancer is characterized by tumor growth limited to the ovaries, without spreading to other nearby organs or distant sites, it represents about 10% of all EOCs and it is characterized by good prognosis.&lt;/p&gt;
+&lt;p&gt;Patients are treated with upfront surgery removing the tumor without leaving residual disease. Nevertheless, approximately 20% of them relapse with incurable disease. Thus, the identification of the cell mechanisms involved in tumour progression and the definition of new biomarkers is an urgent need.
+Better prognostic parameters will allow a more targeted selection of patients for postsurgical adjuvant chemotherapy avoiding unnecessary overtreatment to those patients who presumably will not relapse after surgical removal of the tumour.
+However, as it occurs less frequently than advanced-stage EOC, stage I EOC molecular features have not been thoroughly investigated.&lt;/p&gt;
 &lt;p&gt;It is now widely recognised that the unravelling of the biology and pathophysiology of cancer can be better address integrating results from different disciplines into the well-known system medicine perspective. Here we propose to unravel the molecular complexity of stage I EOC through the combination of high-throughput screenings, bioinformatics and statistical analyses as well as well-focused molecular biology experiments with the aim to identify molecular prognostic fingerprints of the disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pathway Analysis</title>
+      <link>/project/pathway-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/pathway-analysis/</guid>
+      <description>
+
+
+&lt;p&gt;Pathway analysis is a powerful approach that allows us to gain a comprehensive understanding of the complex interactions between genes, proteins, and other molecules within living systems. By examining these interconnected pathways, we can decipher the underlying mechanisms that drive various biological phenomena, ranging from normal cellular functions to disease development and progression.&lt;/p&gt;
+&lt;p&gt;At its core, pathway analysis merges the realms of biology, bioinformatics, and data science, harnessing advanced computational methods to interpret vast amounts of genomic and proteomic data. Through this multidisciplinary approach, researchers can identify key signaling pathways, regulatory networks, and biological cascades, shedding light on how cells respond to internal and external stimuli.&lt;/p&gt;
+&lt;p&gt;In the context of human health, pathway analysis plays a pivotal role in advancing precision medicine and personalized therapies. By understanding the molecular drivers of diseases, such as cancer, neurodegenerative disorders, and metabolic conditions, we can identify potential therapeutic targets and biomarkers for more effective and targeted interventions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pipelines Development</title>
+      <link>/project/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/methods/</guid>
+      <description>
+
+
+&lt;p&gt;The world of pipeline development relies on efficiency, reproducibility, and automation in order to streamline complex processes and accelerate progress in a wide range of fields. In this dynamic arena, we embark on a journey to design, construct, and optimize systematic workflows known as pipelines, paving the way for enhanced productivity and seamless data analysis.&lt;/p&gt;
+&lt;p&gt;Pipeline development, often referred to as workflow design or data processing pipeline creation, is a crucial aspect of modern research, engineering, and data analysis endeavors. It involves the strategic arrangement of interconnected tasks, algorithms, and tools into a structured framework that transforms raw data inputs into meaningful and actionable results.&lt;/p&gt;
+&lt;p&gt;The fundamental objective of building pipelines is to streamline the execution of repetitive and intricate procedures, eliminating the need for manual intervention at every step. This not only saves valuable time but also ensures the reproducibility and consistency of analyses, reducing the likelihood of errors and promoting better data quality.&lt;/p&gt;
+&lt;p&gt;In various domains such as bioinformatics, data science, and software development, pipelines have become indispensable tools. They enable researchers, engineers, and analysts to handle large datasets, perform complex computations, and carry out sophisticated analyses with ease. Moreover, pipelines can be customized and adapted to cater to specific research questions, making them versatile and adaptable to diverse applications.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/author/f.-ferrari/</link>
       <atom:link href="/author/f.-ferrari/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Ferrari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>F. Ferrari</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Comprehensive profiling of hypoxia-related mirnas identifies mir-23a-3p overexpression as a marker of platinum resistance and poor prognosis in high-grade serous ovarian cancer</title>
+      <link>/publication/2021-01-01_comprehensive_profil/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_comprehensive_profil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A-MADMAN: Annotation-based microarray data meta-analysis tool</title>
-      <link>/publication/bisognin-2009/</link>
+      <link>/publication/2009-01-01_a-madman_annotation-/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/bisognin-2009/</guid>
+      <guid>/publication/2009-01-01_a-madman_annotation-/</guid>
       <description></description>
     </item>
     

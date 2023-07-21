@@ -5,7 +5,7 @@
     <link>/author/i.-craparotta/</link>
       <atom:link href="/author/i.-craparotta/index.xml" rel="self" type="application/rss+xml" />
     <description>I. Craparotta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>I. Craparotta</title>
@@ -13,42 +13,50 @@
     </image>
     
     <item>
+      <title>Regional and temporal heterogeneity of epithelial ovarian cancer tumor biopsies: implications for therapeutic strategies</title>
+      <link>/publication/2021-01-01_regional_and_tempora/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_regional_and_tempora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Multisite analysis of high-grade serous epithelial ovarian cancers identifies genomic regions of focal and recurrent copy number alteration in 3q26.2 and 8q24.3</title>
-      <link>/publication/ballabio-20192670/</link>
+      <link>/publication/2019-01-01_multisite_analysis_o/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ballabio-20192670/</guid>
+      <guid>/publication/2019-01-01_multisite_analysis_o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systems biology approach to investigate the mechanism of action of trabectedin in a model of myelomonocytic leukemia</title>
-      <link>/publication/mannarino-201856/</link>
+      <link>/publication/2018-01-01_a_systems_biology_ap/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mannarino-201856/</guid>
+      <guid>/publication/2018-01-01_a_systems_biology_ap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LncRNAs as novel indicators of patients&#39; prognosis in stage i epithelial ovarian cancer: A retrospective and multicentric study</title>
-      <link>/publication/martini-20172356/</link>
+      <link>/publication/2017-01-01_lncrnas_as_novel_ind/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/martini-20172356/</guid>
+      <guid>/publication/2017-01-01_lncrnas_as_novel_ind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of high-grade serous ovarian cancer miRNA species associated with survival and drug response in patients receiving neoadjuvant chemotherapy: A retrospective longitudinal analysis using matched tumor biopsies</title>
-      <link>/publication/petrillo-2016625/</link>
+      <link>/publication/2016-01-01_identification_of_hi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/petrillo-2016625/</guid>
+      <guid>/publication/2016-01-01_identification_of_hi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profiling cancer gene mutations in longitudinal epithelial ovarian cancer biopsies by targeted next-generation sequencing: A retrospective study</title>
-      <link>/publication/beltrame-20151363/</link>
+      <link>/publication/2015-01-01_profiling_cancer_gen/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/beltrame-20151363/</guid>
+      <guid>/publication/2015-01-01_profiling_cancer_gen/</guid>
       <description></description>
     </item>
     

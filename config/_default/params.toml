@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = false
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = true, publication = true, talk = true}
+show_related = {post = true, research = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -175,16 +175,16 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "mla"
 
-# Configuration of project pages.
-[projects]
+# Configuration of research pages.
+[research]
   # Views for associated content.
   #   1: List
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 4
-  talk_view = 2
+  post_view = 3
+  publication_view = 3
+  talk_view = 3
 
 
 

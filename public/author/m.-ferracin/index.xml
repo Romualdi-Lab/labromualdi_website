@@ -5,7 +5,7 @@
     <link>/author/m.-ferracin/</link>
       <atom:link href="/author/m.-ferracin/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Ferracin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>M. Ferracin</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>MicroRNA expression profiling with a droplet digital PCR assay enables molecular diagnosis and prognosis of cancers of unknown primary</title>
+      <link>/publication/2021-01-01_microrna_expression_/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_microrna_expression_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Targeting p53 and histone methyltransferases restores exhausted CD8&#43; T cells in HCV infection</title>
-      <link>/publication/barili-2020/</link>
+      <link>/publication/2020-01-01_targeting_p53_and_hi/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/barili-2020/</guid>
+      <guid>/publication/2020-01-01_targeting_p53_and_hi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Circulating miRNA landscape identifies miR-1246 as promising diagnostic biomarker in high-grade serous ovarian carcinoma: A validation across two independent cohorts</title>
-      <link>/publication/todeschini-2017320/</link>
+      <link>/publication/2017-01-01_circulating_mirna_la/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/todeschini-2017320/</guid>
+      <guid>/publication/2017-01-01_circulating_mirna_la/</guid>
       <description></description>
     </item>
     
