@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CliPPER"
-summary: "An R package for the identification of significant signal paths within significantly altered biological pathways. "
+title: "topologyGSA"
+summary: "Gene Set Analysis Exploiting Pathway Topology"
 authors: []
 tags: [rpackage]
 categories: [r]
@@ -22,10 +22,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: rpackage
-  url: https://www.bioconductor.org/packages/release/bioc/html/clipper.html
+- name: github
+  url: https://github.com/cran/topologyGSA
   icon_pack: fab
-  icon: rpackage
+  icon: github
 
 url_code: ""
 url_pdf: ""
@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-Implements topological gene set analysis using a two-step empirical approach. It exploits graph decomposition theory to create a junction tree and reconstruct the most relevant signal path. In the first step clipper selects significant pathways according to statistical tests on the means and the concentration matrices of the graphs derived from pathway topologies. Then, it "clips" the whole pathway identifying the signal paths having the greatest association with a specific phenotype.
+Using Gaussian graphical models we propose a novel approach to perform pathway analysis using gene expression. Given the structure of a graph (a pathway) we introduce two statistical tests to compare the mean and the concentration matrices between two groups. Specifically, these tests can be performed on the graph and on its connected components (cliques).
 
-Martini P, Sales G, Romualdi C (2023). clipper: Gene Set Analysis Exploiting Pathway Topology. R package version 1.40.0. 
+Massa, M.S., Chiogna, M. and Romualdi, C. Massa, Maria Sofia, Monica Chiogna, and Chiara Romualdi. "Gene set analysis exploiting the topology of a pathway, BMC system biology, 2010 Dec; 4(1):1-5.
