@@ -17,4 +17,10 @@ advanced:
   css_class:
 ---
 
-Our group is interested in the development of computational frameworks for genomic data integration and analysis. In particular our focus is on the reconstruction and analysis of biological networks and regulatory circuits.
+We are delighted to introduce you to our dynamic and innovative team of scientists dedicated to unraveling the mysteries of life through the power of computational methods.
+
+At RomualdiLab, we embark on a journey of unlock the secrets of living systems through different computational approaches, such as genomics, transcriptomics, systems biology, network analysis and data integration.
+
+We employ state-of-the-art computational tools, big data analysis, and innovative methodologies to construct intricate molecular networks that provide us with invaluable insights into the ovarian cancer's biology.
+
+We invite you to join us on this transformative quest as we unlock the potential of computational biology.

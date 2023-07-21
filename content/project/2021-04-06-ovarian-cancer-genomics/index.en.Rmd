@@ -15,10 +15,14 @@ image:
 projects: []
 ---
 
-Genomic and transcriptomic landscape of early stage epithelial ovarian cancer
+**Genomic and transcriptomic landscape of epithelial ovarian cancer**
 
+Epithelial ovarian cancer (EOC) arises from the epithelial cells that line the surface of the ovaries. It is the most common type of ovarian cancer and is known for its insidious nature, often remaining asymptomatic until it reaches more advanced stages. 
 
+Stage I epithelial ovarian cancer is characterized by tumor growth limited to the ovaries, without spreading to other nearby organs or distant sites, it represents about 10% of all EOCs and it is characterized by good prognosis. 
 
-Stage I epithelial ovarian cancer (EOC with tumor confined to the ovary) represents about 10% of all EOCs and is characterized by good prognosis. Patients are treated with upfront surgery removing the tumor without leaving residual disease, however approximately 20% of them relapse with incurable disease. Thus, the identification of the cell mechanisms involved in tumour progression and the definition of new biomarkers is an urgent need. Better prognostic parameters will allow a more targeted selection of patients for postsurgical adjuvant chemotherapy avoiding unnecessary overtreatment to those patients who presumably will not relapse after surgical removal of the tumour. However, as it occurs less frequently than advanced-stage EOC, stage I EOC molecular features have not been thoroughly investigated. 
+Patients are treated with upfront surgery removing the tumor without leaving residual disease. Nevertheless, approximately 20% of them relapse with incurable disease. Thus, the identification of the cell mechanisms involved in tumour progression and the definition of new biomarkers is an urgent need. 
+Better prognostic parameters will allow a more targeted selection of patients for postsurgical adjuvant chemotherapy avoiding unnecessary overtreatment to those patients who presumably will not relapse after surgical removal of the tumour. 
+However, as it occurs less frequently than advanced-stage EOC, stage I EOC molecular features have not been thoroughly investigated. 
 
 It is now widely recognised that the unravelling of the biology and pathophysiology of cancer can be better address integrating results from different disciplines into the well-known system medicine perspective. Here we propose to unravel the molecular complexity of stage I EOC through the combination of high-throughput screenings, bioinformatics and statistical analyses as well as well-focused molecular biology experiments with the aim to identify molecular prognostic fingerprints of the disease. 
