@@ -4,7 +4,7 @@ bio: My research interests biostatistical models applied to cancer genomics
   matter.
 education:
   courses:
-  - course: PhD student in Biosciences
+  - course: PhD in Biosciences
     institution: University of Padova
     year: 2020-2023
   - course: MSc in Molecular Biology
@@ -13,7 +13,7 @@ education:
   - course: BSc in Biotechnologies
     institution: University of Sannio
     year: 2018
-email: "angelo.velle@phd.unipd.it"
+email: "angelo.velle@unipd.it"
 interests:
 - Multiomics integration
 - Computational Biology
@@ -21,11 +21,11 @@ interests:
 organizations:
 - name: University of Padova
   url: "https://www.biologia.unipd.it/"
-role: PhD student
+role: Postdoc
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:angelo.velle@phd.unipd.it
+  link: mailto:angelo.velle@unipd.it
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/angelo_velle
@@ -44,7 +44,7 @@ social:
 superuser: false
 title: Angelo Velle
 user_groups:
-- PhD students
+- Postdocs
 ---
 
 Angelo Velle is a bioinformatician who always showed curiosity and passion for science. His work is focused on the development of computational strategies for multi-omics data integration.

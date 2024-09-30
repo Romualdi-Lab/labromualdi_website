@@ -8,7 +8,8 @@ organizations:
 role: Grad Student
 social:
 superuser: false
-title: Marco Rota Negroni
+title: Elena Cibola
 user_groups:
 - Grad Students
 ---
+

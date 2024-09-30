@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Research Projects</title>
@@ -13,12 +13,21 @@
     </image>
     
     <item>
-      <title>Our new R package gINTomics is on GitHub</title>
+      <title>Our new analysis pipeline for the analysis of sWGS is on GitHub</title>
+      <link>/post/samurai/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/post/samurai/</guid>
+      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on git! &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34;&gt;https://github.com/DIncalciLab/samurai&lt;/a&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our new R package gINTomics is on Bioconductor</title>
       <link>/post/gintomics/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/post/gintomics/</guid>
-      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it on git! &lt;a href=&#34;https://github.com/angelovelle96/gINTomics&#34;&gt;https://github.com/angelovelle96/gINTomics&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it! &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34;&gt;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&lt;/a&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

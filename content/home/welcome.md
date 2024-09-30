@@ -17,10 +17,7 @@ advanced:
   css_class:
 ---
 
-We are delighted to introduce you to our dynamic and innovative team of scientists dedicated to unraveling the mysteries of life through the power of computational methods.
 
-At RomualdiLab, we embark on a journey of unlock the secrets of living systems through different computational approaches, such as genomics, transcriptomics, systems biology, network analysis and data integration.
+Welcome to Romualdi Lab, our goal is to unravel the biology of life systems through the power of computational methods, specifically leveraging the integration of different omics data.
 
-We employ state-of-the-art computational tools, big data analysis, and innovative methodologies to construct intricate molecular networks that provide us with invaluable insights into the ovarian cancer's biology.
-
-We invite you to join us on this transformative quest as we unlock the potential of computational biology.
+We develop innovative tools and adopt state-of-the-art computational approaches to investigate molecular alterations in complex diseases and how these alterations might influence disease progression.

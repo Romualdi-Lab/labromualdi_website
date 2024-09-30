@@ -8,7 +8,7 @@ organizations:
 role: Grad Student
 social:
 superuser: false
-title: Marco Rota Negroni
+title: Elisa Ferrero
 user_groups:
 - Grad Students
 ---

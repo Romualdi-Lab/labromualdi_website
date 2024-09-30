@@ -11,6 +11,12 @@
     <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/post/samurai/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/author/angelo-velle/</loc>
     <lastmod>2023-07-21T08:00:20-07:00</lastmod>
   </url><url>
@@ -47,6 +53,9 @@
     <loc>/tag/rpackage/</loc>
     <lastmod>2023-07-21T08:00:20-07:00</lastmod>
   </url><url>
+    <loc>/tag/shinyapp/</loc>
+    <lastmod>2023-07-21T08:00:20-07:00</lastmod>
+  </url><url>
     <loc>/software2/</loc>
     <lastmod>2023-07-21T08:00:20-07:00</lastmod>
   </url><url>
@@ -54,9 +63,6 @@
     <lastmod>2023-07-21T08:00:20-07:00</lastmod>
   </url><url>
     <loc>/post/gintomics/</loc>
-    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/isomirs/</loc>
@@ -3461,19 +3467,15 @@
   </url><url>
     <loc>/people/</loc>
   </url><url>
-    <loc>/author/amin-zolfaghari/</loc>
-  </url><url>
     <loc>/author/angelo-velle/</loc>
   </url><url>
     <loc>/author/chiara-romualdi/</loc>
   </url><url>
+    <loc>/author/elena-cibola/</loc>
+  </url><url>
+    <loc>/author/elisa-ferrero/</loc>
+  </url><url>
     <loc>/author/ilaria-billato/</loc>
-  </url><url>
-    <loc>/author/marco-rota-negroni/</loc>
-  </url><url>
-    <loc>/author/marco-rota-negroni/</loc>
-  </url><url>
-    <loc>/author/nicolo-gnoato/</loc>
   </url><url>
     <loc>/research/</loc>
   </url><url>

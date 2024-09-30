@@ -33,6 +33,9 @@ social:
   icon_pack: fab
   link: https://github.com/billila
   superuser: false
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ilabil96
 title: Ilaria Billato
 user_groups:
   - PhD students

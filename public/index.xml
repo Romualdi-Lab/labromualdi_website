@@ -28,6 +28,15 @@
     </item>
     
     <item>
+      <title>Our new analysis pipeline for the analysis of sWGS is on GitHub</title>
+      <link>/post/samurai/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/post/samurai/</guid>
+      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on git! &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34;&gt;https://github.com/DIncalciLab/samurai&lt;/a&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Benchmarking</title>
       <link>/research2/methods/</link>
       <pubDate>Fri, 21 Jul 2023 08:00:20 -0700</pubDate>
@@ -106,7 +115,7 @@ However, as it occurs less frequently than advanced-stage EOC, stage I EOC molec
       <description>
 
 
-&lt;p&gt;The world of pipeline development relies on efficiency, reproducibility, and automation in order to streamline complex processes and accelerate progress in a wide range of fields. In this dynamic arena, we embark on a journey to design, construct, and optimize systematic workflows known as pipelines, paving the way for enhanced productivity and seamless data analysis.&lt;/p&gt;
+&lt;p&gt;The world of pipeline development relies on efficiency, reproducibility, and automation in order to streamline complex processes and accelerate progress in a wide range of fields. In our group we focus on the design, construction, and optimization of systematic workflows known as pipelines, paving the way for enhanced productivity and seamless data analysis.&lt;/p&gt;
 &lt;p&gt;Pipeline development, often referred to as workflow design or data processing pipeline creation, is a crucial aspect of modern research, engineering, and data analysis endeavors. It involves the strategic arrangement of interconnected tasks, algorithms, and tools into a structured framework that transforms raw data inputs into meaningful and actionable results.&lt;/p&gt;
 &lt;p&gt;The fundamental objective of building pipelines is to streamline the execution of repetitive and intricate procedures, eliminating the need for manual intervention at every step. This not only saves valuable time but also ensures the reproducibility and consistency of analyses, reducing the likelihood of errors and promoting better data quality.&lt;/p&gt;
 &lt;p&gt;In various domains such as bioinformatics, data science, and software development, pipelines have become indispensable tools. They enable researchers, engineers, and analysts to handle large datasets, perform complex computations, and carry out sophisticated analyses with ease. Moreover, pipelines can be customized and adapted to cater to specific research questions, making them versatile and adaptable to diverse applications.&lt;/p&gt;
@@ -114,12 +123,12 @@ However, as it occurs less frequently than advanced-stage EOC, stage I EOC molec
     </item>
     
     <item>
-      <title>Our new R package gINTomics is on GitHub</title>
+      <title>Our new R package gINTomics is on Bioconductor</title>
       <link>/post/gintomics/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/post/gintomics/</guid>
-      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it on git! &lt;a href=&#34;https://github.com/angelovelle96/gINTomics&#34;&gt;https://github.com/angelovelle96/gINTomics&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it! &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34;&gt;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&lt;/a&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

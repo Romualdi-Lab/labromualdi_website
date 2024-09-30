@@ -17,7 +17,7 @@ date: 2023-07-21T08:00:20-07:00
 ---
 
 
-The world of pipeline development relies on efficiency, reproducibility, and automation in order to streamline complex processes and accelerate progress in a wide range of fields. In this dynamic arena, we embark on a journey to design, construct, and optimize systematic workflows known as pipelines, paving the way for enhanced productivity and seamless data analysis.
+The world of pipeline development relies on efficiency, reproducibility, and automation in order to streamline complex processes and accelerate progress in a wide range of fields. In our group we focus on the design, construction, and optimization of systematic workflows known as pipelines, paving the way for enhanced productivity and seamless data analysis.
 
 Pipeline development, often referred to as workflow design or data processing pipeline creation, is a crucial aspect of modern research, engineering, and data analysis endeavors. It involves the strategic arrangement of interconnected tasks, algorithms, and tools into a structured framework that transforms raw data inputs into meaningful and actionable results.
 

@@ -4,7 +4,7 @@
 title: "gINTomics"
 summary: "An R package for Multi-Omics data integration and visualization"
 authors: ["Angelo Velle"]
-tags: [rpackage]
+tags: [rpackage, shinyapp]
 categories: [r]
 date: 2023-07-21T08:00:20-07:00
 
@@ -23,9 +23,9 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: rpackage
-  url: https://github.com/angelovelle96/gINTomics
+  url: https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html
   icon_pack: fab
-  icon: R
+  icon: github
 
 url_code: ""
 url_pdf: ""
