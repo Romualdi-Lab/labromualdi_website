@@ -5,7 +5,7 @@
     <link>/tag/other/</link>
       <atom:link href="/tag/other/index.xml" rel="self" type="application/rss+xml" />
     <description>other</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Fri, 06 Dec 2019 16:17:20 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 30 Sep 2024 08:00:20 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>other</title>
@@ -13,41 +13,12 @@
     </image>
     
     <item>
-      <title>kakashi</title>
-      <link>/project/kakashi/</link>
-      <pubDate>Fri, 06 Dec 2019 16:17:20 -0800</pubDate>
-      <guid>/project/kakashi/</guid>
-      <description>&lt;p&gt;kakashi is a theme for the &lt;a href=&#34;https://github.com/yihui/xaringan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;xaringan R package&lt;/a&gt; for making slides. kakashi has a clean look with color-blind friendly palettes. Marking text as italics (*) will turn it blue, bold (**) will turn it orange, and striking out (~~) will turn it grey. kakashi copies ideas from many other themes, including metropolis and lucy, but is ultimately unique. That is why this CSS (copy shinobi style) is called kakashi, &lt;a href=&#34;https://www.wikiwand.com/en/Kakashi_Hatake&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;after the copy ninja&lt;/a&gt;.&lt;/p&gt;
+      <title>Samurai</title>
+      <link>/software2/samurai/</link>
+      <pubDate>Mon, 30 Sep 2024 08:00:20 -0700</pubDate>
+      <guid>/software2/samurai/</guid>
+      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>BrewerIX</title>
-      <link>/software2/brewerix/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/software2/brewerix/</guid>
-      <description>&lt;p&gt;BrewerIX is a standardized approach for the analysis of known imprinted and X-linked genes. Differently from other tools, its implementation strategy allows the user (i) to perform fast and efficient analyses from raw data to the final plots on a standard desktop or laptop computer without requiring any programming skills, (ii) to have comprehensive information of imprinted and X-linked genes taken from different databases that have been manually curated to avoid results misinterpretation, (iii) to graphically visualize the results in an easy and intuitive way. All these features will guarantee the reproducibility of results and transparency.&lt;/p&gt;
-&lt;p&gt;BrewerIX is implemented as a native graphical application for Linux and macOS. It takes as input either bulk or single-cell RNA-seq data (fastq files), analyzes reads mapped over the SNVs distributed on imprinted genes (see “Knowledge base” section for details), X chromosome and Y chromosome, and generates imprinting and XCI profiles of each sample.&lt;/p&gt;
-&lt;p&gt;Martini P, Sales G, Diamante L, Perrera V, Colantuono C, Riccardo S, Cacchiarelli D, Romualdi C, Martello G. BrewerIX enables allelic expression analysis of imprinted and X-linked genes from bulk and single-cell
-transcriptomes. Commun Biol. 2022 Feb 17;5(1):146. doi:10.1038/s42003-022-03087-4.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Causal Inference notebook</title>
-      <link>/project/causalinferencenotebook/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/causalinferencenotebook/</guid>
-      <description>&lt;p&gt;This notebook contains R code for part 2 of &lt;a href=&#34;https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causal Inference&lt;/a&gt; by Miguel Hernán and Jamie Robins. While R, SAS, Stata, and Python code are available on the website for Causal Inference, we focus on doing causal inference using the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tidyverse&lt;/a&gt; ecosystem of R packages, particularly ggplot2, dplyr, and broom.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>epibot</title>
-      <link>/project/epibot/</link>
-      <pubDate>Wed, 09 Oct 2019 08:38:28 -0700</pubDate>
-      <guid>/project/epibot/</guid>
-      <description></description>
     </item>
     
   </channel>

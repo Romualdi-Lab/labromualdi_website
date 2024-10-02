@@ -5,6 +5,7 @@ title: "Samurai"
 summary: "A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs)."
 authors: ["Sara Potente"]
 tags: [other]
+categories: [r]
 date: 2024-09-30T08:00:20-07:00
 
 # Optional external URL for project (replaces project detail page).
