@@ -5,12 +5,27 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Research Projects</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>PhD Position Call</title>
+      <link>/post/phd_call/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/post/phd_call/</guid>
+      <description>&lt;h3 id=&#34;phd-programme-in-biosciences&#34;&gt;PhD Programme in Biosciences&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Curriculum: Genetics, Genomics and Bioinformatics&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;crosstalk-of-cancer-genome-and-tumor-microenvironment-in-ovarian-cancer-metastases-at-single-cell-resolution&#34;&gt;Crosstalk of Cancer Genome and Tumor Microenvironment in Ovarian Cancer Metastases at Single-Cell Resolution&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; Prof. Chiara Romualdi – &lt;a href=&#34;mailto:chiara.romualdi@unipd.it&#34;&gt;chiara.romualdi@unipd.it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ovarian cancer is the leading cause of death from gynecological malignancies and is frequently diagnosed at an advanced metastatic stage. Metastases form a complex ecosystem of diverse, interacting cells, whose genomic and transcriptomic heterogeneity shapes the tumor microenvironment (TME) and drives tumor aggressiveness. Despite extensive research, the mechanisms underlying tumor–TME crosstalk remain poorly understood. This PhD project aims to investigate the dynamic interplay between cancer genomes and TME composition in primary tumors and matched metastases across different histological subtypes.
+The selected candidate will use &lt;strong&gt;computational approaches&lt;/strong&gt; to analyze &lt;strong&gt;genomic and transcriptomic data at single-cell resolution&lt;/strong&gt;, comparing primary and metastatic tumor sites.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://www.unipd.it/en/sites/en.unipd.it/files/BIOSCIENCES_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Call Document (PDF)&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://dottorato.biologia.unipd.it/admission-and-general-information/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Admission and General Information&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Our new sWGS Pipeline, SAMURAI, is now available on GitHub!</title>

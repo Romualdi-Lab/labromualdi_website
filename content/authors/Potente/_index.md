@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: University of Padua
   url: "https://www.biologia.unipd.it/"
-role: PhD student
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas

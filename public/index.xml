@@ -28,6 +28,21 @@
     </item>
     
     <item>
+      <title>PhD Position Call</title>
+      <link>/post/phd_call/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/post/phd_call/</guid>
+      <description>&lt;h3 id=&#34;phd-programme-in-biosciences&#34;&gt;PhD Programme in Biosciences&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Curriculum: Genetics, Genomics and Bioinformatics&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;crosstalk-of-cancer-genome-and-tumor-microenvironment-in-ovarian-cancer-metastases-at-single-cell-resolution&#34;&gt;Crosstalk of Cancer Genome and Tumor Microenvironment in Ovarian Cancer Metastases at Single-Cell Resolution&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; Prof. Chiara Romualdi – &lt;a href=&#34;mailto:chiara.romualdi@unipd.it&#34;&gt;chiara.romualdi@unipd.it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ovarian cancer is the leading cause of death from gynecological malignancies and is frequently diagnosed at an advanced metastatic stage. Metastases form a complex ecosystem of diverse, interacting cells, whose genomic and transcriptomic heterogeneity shapes the tumor microenvironment (TME) and drives tumor aggressiveness. Despite extensive research, the mechanisms underlying tumor–TME crosstalk remain poorly understood. This PhD project aims to investigate the dynamic interplay between cancer genomes and TME composition in primary tumors and matched metastases across different histological subtypes.
+The selected candidate will use &lt;strong&gt;computational approaches&lt;/strong&gt; to analyze &lt;strong&gt;genomic and transcriptomic data at single-cell resolution&lt;/strong&gt;, comparing primary and metastatic tumor sites.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://www.unipd.it/en/sites/en.unipd.it/files/BIOSCIENCES_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Call Document (PDF)&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://dottorato.biologia.unipd.it/admission-and-general-information/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Admission and General Information&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Our new sWGS Pipeline, SAMURAI, is now available on GitHub!</title>
       <link>/post/samurai/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
@@ -55,7 +70,6 @@
       <description>
 
 
-&lt;p&gt;&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In bioinformatics tools benchmarking, accuracy, performance, and reliability are put to the test to ensure the optimal selection and utilization of tools in the realm of biological data analysis. In this dynamic field, we delve into the rigorous evaluation and comparison of bioinformatics and statistical tools to empower researchers with the best solutions for their specific analytical needs.&lt;/p&gt;
 &lt;p&gt;Benchmarking plays a pivotal role in assessing the strengths and limitations of various software, algorithms, and pipelines used to process and interpret biological data. As the volume and complexity of biological datasets continue to grow, selecting the most suitable tools becomes increasingly critical to derive meaningful insights and drive impactful discoveries.&lt;/p&gt;
 &lt;p&gt;Benchmarking process involves subjecting tools to a series of standardized tests and simulations using both simulated and real-world datasets. Key performance metrics, such as accuracy, sensitivity, specificity, runtime, memory usage, and scalability, are meticulously evaluated to gauge the tool’s effectiveness and efficiency under different conditions and datasets.&lt;/p&gt;
