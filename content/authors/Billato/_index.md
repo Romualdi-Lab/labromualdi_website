@@ -3,6 +3,9 @@ bio: My research interests include statistical methods and bioinformatic
   applied to biological sciences.
 education:
   courses:
+  - course: Visiting PhD Student
+    institution: City University of New York
+    year: Oct 2024-Apr 2025
   - course: PhD in Biosciences
     institution: University of Padova
     year: 2022-2025
@@ -21,7 +24,7 @@ interests:
 organizations:
 - name: University of Padova
   url: "https://www.biologia.unipd.it/"
-role: PhD student
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,7 +41,7 @@ social:
   link: https://twitter.com/ilabil96
 title: Ilaria Billato
 user_groups:
-  - PhD students
+  - PhD Students
 ---
 
 Ilaria Billato is a statistician passionate in Bioinformatics, Machine Learning, Artificial Intelligence.

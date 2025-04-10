@@ -28,22 +28,23 @@
     </item>
     
     <item>
+      <title>Our new sWGS Pipeline, SAMURAI, is now available on GitHub!</title>
+      <link>/post/samurai/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/post/samurai/</guid>
+      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on github!&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SAMURAI on Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://academic.oup.com/bib/article/26/1/bbaf035/7985932&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Here our paper SAMURAI: shallow analysis of copy number alterations using a reproducible and integrated bioinformatics pipeline&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;</description>
+    </item>
+    
+    <item>
       <title>Samurai</title>
       <link>/software2/samurai/</link>
       <pubDate>Mon, 30 Sep 2024 08:00:20 -0700</pubDate>
       <guid>/software2/samurai/</guid>
       <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs).&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Our new sWGS Pipeline, SAMURAI, is now available on GitHub!</title>
-      <link>/post/samurai/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/post/samurai/</guid>
-      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on git! &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34;&gt;https://github.com/DIncalciLab/samurai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here is our preprint &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2024.09.30.615766v1&#34;&gt;https://www.biorxiv.org/content/10.1101/2024.09.30.615766v1&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,6 +55,7 @@
       <description>
 
 
+&lt;p&gt;&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In bioinformatics tools benchmarking, accuracy, performance, and reliability are put to the test to ensure the optimal selection and utilization of tools in the realm of biological data analysis. In this dynamic field, we delve into the rigorous evaluation and comparison of bioinformatics and statistical tools to empower researchers with the best solutions for their specific analytical needs.&lt;/p&gt;
 &lt;p&gt;Benchmarking plays a pivotal role in assessing the strengths and limitations of various software, algorithms, and pipelines used to process and interpret biological data. As the volume and complexity of biological datasets continue to grow, selecting the most suitable tools becomes increasingly critical to derive meaningful insights and drive impactful discoveries.&lt;/p&gt;
 &lt;p&gt;Benchmarking process involves subjecting tools to a series of standardized tests and simulations using both simulated and real-world datasets. Key performance metrics, such as accuracy, sensitivity, specificity, runtime, memory usage, and scalability, are meticulously evaluated to gauge the tool’s effectiveness and efficiency under different conditions and datasets.&lt;/p&gt;
@@ -137,8 +139,9 @@ However, as it occurs less frequently than advanced-stage EOC, stage I EOC molec
       <link>/post/gintomics/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/post/gintomics/</guid>
-      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it! &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34;&gt;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it!&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Install the R/Bioconductor Package&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;</description>
     </item>
     
     <item>

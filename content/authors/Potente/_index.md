@@ -28,7 +28,7 @@ social:
 superuser: false
 title: Sara Potente
 user_groups:
-- PhD students
+- PhD Students
 ---
 
 Sara Potente is a bioinformatician who has always showed passion for genetics and genomics. In 2022 she started her PhD in Genetics, Genomics and Bioinformatics at the University of Padua. The PhD project involves the development of scalable, standardised clinical-purpose softwares able to analyse NGS data, and the analysis and interpretation of data from new promising sequencing technology, with the application to cancer patients. 

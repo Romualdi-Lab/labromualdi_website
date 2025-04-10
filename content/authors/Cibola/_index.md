@@ -5,11 +5,11 @@ education:
 email: ""
 interests:
 organizations:
-role: Grad Student
+role: Predoctoral Fellow
 social:
 superuser: false
 title: Elena Cibola
 user_groups:
-- Grad Students
+- Research Fellows
 ---
 

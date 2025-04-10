@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Research Projects</title>
@@ -15,11 +15,12 @@
     <item>
       <title>Our new sWGS Pipeline, SAMURAI, is now available on GitHub!</title>
       <link>/post/samurai/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/post/samurai/</guid>
-      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on git! &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34;&gt;https://github.com/DIncalciLab/samurai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here is our preprint &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2024.09.30.615766v1&#34;&gt;https://www.biorxiv.org/content/10.1101/2024.09.30.615766v1&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on github!&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SAMURAI on Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://academic.oup.com/bib/article/26/1/bbaf035/7985932&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Here our paper SAMURAI: shallow analysis of copy number alterations using a reproducible and integrated bioinformatics pipeline&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;</description>
     </item>
     
     <item>
@@ -27,8 +28,9 @@
       <link>/post/gintomics/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/post/gintomics/</guid>
-      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it! &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34;&gt;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it!&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Install the R/Bioconductor Package&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;</description>
     </item>
     
     <item>
