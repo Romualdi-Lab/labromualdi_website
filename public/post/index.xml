@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Research Projects</title>
@@ -13,13 +13,29 @@
     </image>
     
     <item>
+      <title>PhD Position Call</title>
+      <link>/post/phd_call/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/post/phd_call/</guid>
+      <description>&lt;h3 id=&#34;phd-programme-in-biosciences&#34;&gt;PhD Programme in Biosciences&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Curriculum: Genetics, Genomics and Bioinformatics&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;crosstalk-of-cancer-genome-and-tumor-microenvironment-in-ovarian-cancer-metastases-at-single-cell-resolution&#34;&gt;Crosstalk of Cancer Genome and Tumor Microenvironment in Ovarian Cancer Metastases at Single-Cell Resolution&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Contact:&lt;/strong&gt; Prof. Chiara Romualdi – &lt;a href=&#34;mailto:chiara.romualdi@unipd.it&#34;&gt;chiara.romualdi@unipd.it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ovarian cancer is the leading cause of death from gynecological malignancies and is frequently diagnosed at an advanced metastatic stage. Metastases form a complex ecosystem of diverse, interacting cells, whose genomic and transcriptomic heterogeneity shapes the tumor microenvironment (TME) and drives tumor aggressiveness. Despite extensive research, the mechanisms underlying tumor–TME crosstalk remain poorly understood. This PhD project aims to investigate the dynamic interplay between cancer genomes and TME composition in primary tumors and matched metastases across different histological subtypes.
+The selected candidate will use &lt;strong&gt;computational approaches&lt;/strong&gt; to analyze &lt;strong&gt;genomic and transcriptomic data at single-cell resolution&lt;/strong&gt;, comparing primary and metastatic tumor sites.&lt;/p&gt;
+&lt;p&gt;🔗 &lt;a href=&#34;https://www.unipd.it/en/sites/en.unipd.it/files/BIOSCIENCES_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Call Document (PDF)&lt;/a&gt;&lt;br&gt;
+🔗 &lt;a href=&#34;https://dottorato.biologia.unipd.it/admission-and-general-information/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Admission and General Information&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Our new sWGS Pipeline, SAMURAI, is now available on GitHub!</title>
       <link>/post/samurai/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/post/samurai/</guid>
-      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on git! &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34;&gt;https://github.com/DIncalciLab/samurai&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here is our preprint &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2024.09.30.615766v1&#34;&gt;https://www.biorxiv.org/content/10.1101/2024.09.30.615766v1&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;A bioinformatics best-practice analysis pipeline for the analysis of shallow whole genome sequencing (sWGS) data for the identification of copy number alterations (CNAs). Try it on github!&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://github.com/DIncalciLab/samurai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SAMURAI on Github&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://academic.oup.com/bib/article/26/1/bbaf035/7985932&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Here our paper SAMURAI: shallow analysis of copy number alterations using a reproducible and integrated bioinformatics pipeline&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/Samurai.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;</description>
     </item>
     
     <item>
@@ -27,8 +43,9 @@
       <link>/post/gintomics/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/post/gintomics/</guid>
-      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it! &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34;&gt;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&lt;/a&gt;
-&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Our new R package for Multi-Omic data integration is finally available. Try it!&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/gINTomics.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Install the R/Bioconductor Package&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;gINTomics&#39; src=&#39;/media/gINTomics.png&#39; height=&#34;100&#34; width=&#34;100&#34;&gt;</description>
     </item>
     
     <item>

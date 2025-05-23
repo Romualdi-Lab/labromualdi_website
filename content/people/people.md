@@ -3,7 +3,7 @@ content:
   user_groups:
   - Principal Investigators
   - Postdocs
-  - PhD students
+  - PhD Students
   - Research Fellows
   - Grad Students
   - Visitors
