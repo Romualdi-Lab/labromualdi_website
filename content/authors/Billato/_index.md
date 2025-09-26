@@ -39,6 +39,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ilabil96
+- icon: linkedin
+  icon_pack: fab
+  link:  https://linkedin.com/in/ilaria-billato-4b7ba21b9/
 title: Ilaria Billato
 user_groups:
   - PhD Students

@@ -1,15 +1,15 @@
 ---
-bio: Elena Cibola is a bioinformatician with 
+bio: Anna Bortolato is a bioinformatician with 
   a biological background, focusing on transcriptomic and genomic data in cancer research.
 education:
   courses:
   - course: MSc in Molecular Biology curriculum Bioinformatics
     institution: University of Padova
-    year: 2024
+    year: 2023
   - course: BSc in Molecular Biology
     institution: University of Padova
-    year: 2022
-email: "elena.cibola@unipd.it"
+    year: 2021
+email: "anna.bortolato@unipd.it"
 highlight_name: false
 interests:
 - NGS data analysis
@@ -21,12 +21,18 @@ role: PhD Students
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:elena.cibola@unipd.it 
+  link: mailto:anna.bortolato@unipd.it
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AnnaBortolato
+- icon: linkedin
+  icon_pack: fab
+  link:  https://linkedin.com/in/anna-bortolato-a125a3377/
   superuser: false
-title: Elena Cibola
+title: Anna Bortolato
 user_groups:
   - PhD Students
 ---
 
-Elena Cibola is a bioinformatician with 
+Anna Bortolato is a bioinformatician with 
 a biological background, focusing on transcriptomic and genomic data in cancer research.
