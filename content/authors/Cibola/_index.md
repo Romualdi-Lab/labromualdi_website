@@ -21,7 +21,13 @@ role: PhD Students
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:elena.cibola@unipd.it 
+  link: mailto:elena.cibola.1@studenti.unipd.it 
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ElenaCibola
+- icon: linkedin
+  icon_pack: fab
+  link:  https://linkedin.com/in/elena-c-1a68a91aa
   superuser: false
 title: Elena Cibola
 user_groups:

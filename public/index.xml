@@ -28,6 +28,29 @@
     </item>
     
     <item>
+      <title>imageTCGA</title>
+      <link>/software2/imagetcga/</link>
+      <pubDate>Tue, 15 Apr 2025 08:00:20 -0700</pubDate>
+      <guid>/software2/imagetcga/</guid>
+      <description>&lt;p&gt;imageTCGA is an R package designed to provide an interactive Shiny application for exploring the TCGA Diagnostic Image Database. This application allows users to filter and visualize metadata, geographic distribution, and other relevant statistics related to TCGA diagnostic images.&lt;/p&gt;
+&lt;p&gt;This package is part of the Multi-omic Integration of Histopathology Image Analysis working group, which addresses the need for standardized workflows to integrate histopathology image-derived features with genomic and transcriptomic analyses in R/Bioconductor. imageTCGA lays the foundation for a comprehensive platform where pre-extracted image features from Python-based tools from TCGA will be made accessible within R/Bioconductor data structures, streamlining data integration and accelerating research in computational pathology and precision oncology.&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://shiny.sph.cuny.edu/imageTCGA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Launch the Shiny App&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/imageTCGA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Install the R/Bioconductor Package&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our new R package imageTCGA is on Bioconductor</title>
+      <link>/post/imagetcga/</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/post/imagetcga/</guid>
+      <description>&lt;p&gt;Our new shiny application to explore the TCGA Diagnostic Image Database is available.&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://shiny.sph.cuny.edu/imageTCGA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Launch the Shiny App&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/imageTCGA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Install the R/Bioconductor Package&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img align=&#39;left&#39; alt = &#39;imageTCGA&#39; src=&#39;/media/imageTCGA.png&#39; height=&#34;120&#34; width=&#34;120&#34;&gt;</description>
+    </item>
+    
+    <item>
       <title>PhD Position Call</title>
       <link>/post/phd_call/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>

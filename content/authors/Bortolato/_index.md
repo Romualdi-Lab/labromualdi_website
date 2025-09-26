@@ -21,7 +21,7 @@ role: PhD Students
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:anna.bortolato@unipd.it
+  link: mailto:anna.bortolato.1@studenti.unipd.it
 - icon: github
   icon_pack: fab
   link: https://github.com/AnnaBortolato

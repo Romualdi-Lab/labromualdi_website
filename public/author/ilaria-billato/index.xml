@@ -5,12 +5,24 @@
     <link>/author/ilaria-billato/</link>
       <atom:link href="/author/ilaria-billato/index.xml" rel="self" type="application/rss+xml" />
     <description>Ilaria Billato</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Research Group</copyright><lastBuildDate>Tue, 15 Apr 2025 08:00:20 -0700</lastBuildDate>
     <image>
-      <url>/author/ilaria-billato/avatar_hu539eda5e4f2e92fc4a48ee1d8612ddb6_149506_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/images/icon_hud8b169d6400d4e9e77db720aa3284c6d_12325_512x512_fill_lanczos_center_2.png</url>
       <title>Ilaria Billato</title>
       <link>/author/ilaria-billato/</link>
     </image>
+    
+    <item>
+      <title>imageTCGA</title>
+      <link>/software2/imagetcga/</link>
+      <pubDate>Tue, 15 Apr 2025 08:00:20 -0700</pubDate>
+      <guid>/software2/imagetcga/</guid>
+      <description>&lt;p&gt;imageTCGA is an R package designed to provide an interactive Shiny application for exploring the TCGA Diagnostic Image Database. This application allows users to filter and visualize metadata, geographic distribution, and other relevant statistics related to TCGA diagnostic images.&lt;/p&gt;
+&lt;p&gt;This package is part of the Multi-omic Integration of Histopathology Image Analysis working group, which addresses the need for standardized workflows to integrate histopathology image-derived features with genomic and transcriptomic analyses in R/Bioconductor. imageTCGA lays the foundation for a comprehensive platform where pre-extracted image features from Python-based tools from TCGA will be made accessible within R/Bioconductor data structures, streamlining data integration and accelerating research in computational pathology and precision oncology.&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://shiny.sph.cuny.edu/imageTCGA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Launch the Shiny App&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👉 &lt;a href=&#34;https://www.bioconductor.org/packages/release/bioc/html/imageTCGA.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Install the R/Bioconductor Package&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

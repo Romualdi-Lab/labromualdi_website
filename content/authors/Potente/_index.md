@@ -4,7 +4,10 @@ education:
   courses:
   - course: PhD in Genetics, Genomics and Bioinformatics
     institution: University of Padua
-    year: 2022 - Today
+    year: 2022 - 2025
+  - course: Visiting PhD Student
+    institution: Cancer Research UK Cambridge Institute (CRUK)
+    year: 15th Nov. 2024 - 30 March 2025
   - course: Master Degree in Bioinformatics for Computational Genomics
     institution: University of Milan, Politecnico of Milan
     year: 2022
@@ -16,7 +19,9 @@ highlight_name: false
 interests:
 - Computational Biology
 - Cancer Genomics
-- Bioinformatics 
+- Bioinformatics
+- Copy Number Alterations
+- Liquid Biopsy
 organizations:
 - name: University of Padua
   url: "https://www.biologia.unipd.it/"
@@ -25,6 +30,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:sara.potente@phd.unipd.it
+- icon: github
+  icon_pack: fab
+  link: https://github.com/SaraPotente
+- icon: linkedin
+  icon_pack: fab
+  link:  https://linkedin.com/in/sara-potente
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sara_potente
 superuser: false
 title: Sara Potente
 user_groups:
