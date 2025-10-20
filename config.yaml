@@ -4,6 +4,8 @@ copyright: '&copy; Research Group'
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
+relativeURLs: yes
+canonifyURLs: yes
 defaultContentLanguageInSubdir: no
 removePathAccents: yes
 summaryLength: 30
